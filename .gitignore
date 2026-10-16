@@ -1,0 +1,7 @@
+cache/
+external/
+__pycache__/
+*.pyc
+model/
+ckpt/
+data/third_party/

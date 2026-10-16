@@ -1,0 +1,16 @@
+# analysis (tested with Python 3.11)
+pandas>=2.0
+numpy>=1.24
+pyarrow            # Hugging Face parquet files
+indic-transliteration
+PyYAML
+openpyxl           # pilot workbooks
+huggingface_hub    # tools/download_conventions.py
+# training and prediction (Windows, RTX 3050 Laptop, CUDA 12.1)
+# torch==2.5.1 (install from https://download.pytorch.org/whl/cu121)
+transformers==4.44.2
+datasets
+accelerate
+sentencepiece
+# Heritage baseline
+heritage

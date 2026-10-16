@@ -1,0 +1,81 @@
+meta:
+  name: "Insertion rules — grammar supplement"
+  version: "0.1"
+  script: SLP1
+  source: "PLACEHOLDER — verify each against a grammar before publication"
+  date: "2026-08-09"
+  notes: >
+    These are INSERTION rules: the surface gains characters relative to the
+    concatenated underlying pieces. Empirical harvesting via difflib cannot find them,
+    because an insertion is reported as an opcode with an empty left side, so no
+    (left, right) -> output triple is ever formed. The harvested table therefore
+    contains zero insertion rules regardless of how many words it is harvested from.
+
+    On the Frontiers held-out set, consonant doubling before a vowel accounted for
+    roughly 10 of 16 inspected failures. Sutra numbers below are indicative and MUST
+    be checked.
+
+classes:
+  VOWEL_SHORT: [a, i, u, f, x]
+  VOWEL_LONG:  [A, I, U, F, X]
+  VOWEL:       ["{VOWEL_SHORT}", "{VOWEL_LONG}", e, E, o, O]
+
+rules:
+
+  # ---- consonant doubling (ṅamuṭ) --------------------------------------------
+  # A word-final n/ṇ/ṅ after a SHORT vowel doubles before an initial vowel.
+  # Modelled loosely here (any preceding context); tighten to the short-vowel
+  # condition if it over-fires. Seen in: vilasan+api -> vilasannapi,
+  # svasmin+iva -> svasminniva, DAvan+iva -> DAvanniva.
+  - id: ins_n_doubling
+    name: "final n doubles before a vowel (ṅamuṭ)"
+    left: "n"
+    right: "{VOWEL}"
+    output: "nn{RIGHT}"
+    category: consonant
+    sutra: "8.3.32"
+
+  - id: ins_R_doubling
+    name: "final ṇ doubles before a vowel"
+    left: "R"
+    right: "{VOWEL}"
+    output: "RR{RIGHT}"
+    category: consonant
+    sutra: "8.3.32"
+
+  - id: ins_N_doubling
+    name: "final ṅ doubles before a vowel"
+    left: "N"
+    right: "{VOWEL}"
+    output: "NN{RIGHT}"
+    category: consonant
+    sutra: "8.3.32"
+
+  # bAlapAWyAn + api -> bAlapAWyAnyapi. Verify whether this is genuinely a distinct
+  # rule or an annotation variant of the doubling above.
+  - id: ins_n_y
+    name: "final n with y-glide before a vowel"
+    left: "n"
+    right: "{VOWEL}"
+    output: "ny{RIGHT}"
+    category: consonant
+    notes: "VERIFY — may be a variant spelling rather than a separate rule"
+
+  # ---- tuk augment ------------------------------------------------------------
+  # ch is doubled to cch after a short vowel.
+  # Seen in: ava + Cinna -> avacCinna
+  - id: ins_tuk_ch
+    name: "tuk augment: ch -> cch after a short vowel"
+    left: ""
+    right: "C"
+    output: "cC"
+    category: consonant
+    sutra: "6.1.73"
+
+  - id: ins_tuk_ch_after_vowel
+    name: "tuk augment with explicit short-vowel context"
+    left: "{VOWEL_SHORT}"
+    right: "C"
+    output: "{LEFT}cC"
+    category: consonant
+    sutra: "6.1.73"

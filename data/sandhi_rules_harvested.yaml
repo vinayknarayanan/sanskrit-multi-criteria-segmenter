@@ -1,0 +1,7708 @@
+meta:
+  name: Frontiers harvested top-1100
+  version: '1.0'
+  script: SLP1
+  source: empirically harvested from Frontiers 2026 gold splits
+  compiled_by: Notebook D
+  date: '2026-08-09'
+rules:
+- id: h_0001
+  name: m+->M
+  left: m
+  right: ''
+  output: M
+  category: nasal
+  notes: observed 17501x
+- id: h_0002
+  name: a+a->A
+  left: a
+  right: a
+  output: A
+  category: vowel
+  notes: observed 8294x
+- id: h_0003
+  name: H+->r
+  left: H
+  right: ''
+  output: r
+  category: visarga
+  notes: observed 7866x
+- id: h_0004
+  name: t+->d
+  left: t
+  right: ''
+  output: d
+  category: consonant
+  notes: observed 7861x
+- id: h_0005
+  name: aH+->o
+  left: aH
+  right: ''
+  output: o
+  category: visarga
+  notes: observed 6802x
+- id: h_0006
+  name: i+->y
+  left: i
+  right: ''
+  output: y
+  category: vowel
+  notes: observed 5250x
+- id: h_0007
+  name: +a->
+  left: ''
+  right: a
+  output: ''
+  category: vowel
+  notes: observed 4679x
+- id: h_0008
+  name: aH+a->o
+  left: aH
+  right: a
+  output: o
+  category: visarga
+  notes: observed 4488x
+- id: h_0009
+  name: H+->
+  left: H
+  right: ''
+  output: ''
+  category: visarga
+  notes: observed 4075x
+- id: h_0010
+  name: H+->s
+  left: H
+  right: ''
+  output: s
+  category: visarga
+  notes: observed 3773x
+- id: h_0011
+  name: H+->S
+  left: H
+  right: ''
+  output: S
+  category: visarga
+  notes: observed 3209x
+- id: h_0012
+  name: a+i->e
+  left: a
+  right: i
+  output: e
+  category: vowel
+  notes: observed 2618x
+- id: h_0013
+  name: a+->
+  left: a
+  right: ''
+  output: ''
+  category: vowel
+  notes: observed 2236x
+- id: h_0014
+  name: a+e->E
+  left: a
+  right: e
+  output: E
+  category: vowel
+  notes: observed 2178x
+- id: h_0015
+  name: a+u->o
+  left: a
+  right: u
+  output: o
+  category: vowel
+  notes: observed 1877x
+- id: h_0016
+  name: i+i->I
+  left: i
+  right: i
+  output: I
+  category: vowel
+  notes: observed 1523x
+- id: h_0017
+  name: aH+i->E
+  left: aH
+  right: i
+  output: E
+  category: visarga
+  notes: observed 1125x
+- id: h_0018
+  name: t+->n
+  left: t
+  right: ''
+  output: n
+  category: consonant
+  notes: observed 1105x
+- id: h_0019
+  name: u+->v
+  left: u
+  right: ''
+  output: v
+  category: vowel
+  notes: observed 1069x
+- id: h_0020
+  name: A+i->e
+  left: A
+  right: i
+  output: e
+  category: vowel
+  notes: observed 799x
+- id: h_0021
+  name: m+->Y
+  left: m
+  right: ''
+  output: Y
+  category: nasal
+  notes: observed 768x
+- id: h_0022
+  name: O+->Av
+  left: O
+  right: ''
+  output: Av
+  category: vowel
+  notes: observed 724x
+- id: h_0023
+  name: t+->c
+  left: t
+  right: ''
+  output: c
+  category: consonant
+  notes: observed 545x
+- id: h_0024
+  name: +A->
+  left: ''
+  right: A
+  output: ''
+  category: vowel
+  notes: observed 516x
+- id: h_0025
+  name: m+->n
+  left: m
+  right: ''
+  output: n
+  category: nasal
+  notes: observed 515x
+- id: h_0026
+  name: A+e->E
+  left: A
+  right: e
+  output: E
+  category: vowel
+  notes: observed 475x
+- id: h_0027
+  name: t+->
+  left: t
+  right: ''
+  output: ''
+  category: consonant
+  notes: observed 323x
+- id: h_0028
+  name: +i->
+  left: ''
+  right: i
+  output: ''
+  category: vowel
+  notes: observed 311x
+- id: h_0029
+  name: t+S->cC
+  left: t
+  right: S
+  output: cC
+  category: consonant
+  notes: observed 285x
+- id: h_0030
+  name: A+u->o
+  left: A
+  right: u
+  output: o
+  category: vowel
+  notes: observed 274x
+- id: h_0031
+  name: k+->g
+  left: k
+  right: ''
+  output: g
+  category: consonant
+  notes: observed 234x
+- id: h_0032
+  name: n+->MS
+  left: n
+  right: ''
+  output: MS
+  category: nasal
+  notes: observed 220x
+- id: h_0033
+  name: e+i->E
+  left: e
+  right: i
+  output: E
+  category: vowel
+  notes: observed 196x
+- id: h_0034
+  name: +a->na
+  left: ''
+  right: a
+  output: na
+  category: vowel
+  notes: observed 174x
+- id: h_0035
+  name: t+->j
+  left: t
+  right: ''
+  output: j
+  category: consonant
+  notes: observed 173x
+- id: h_0036
+  name: +a->s
+  left: ''
+  right: a
+  output: s
+  category: vowel
+  notes: observed 167x
+- id: h_0037
+  name: aH+u->O
+  left: aH
+  right: u
+  output: O
+  category: visarga
+  notes: observed 146x
+- id: h_0038
+  name: n+->Ms
+  left: n
+  right: ''
+  output: Ms
+  category: nasal
+  notes: observed 139x
+- id: h_0039
+  name: t+->l
+  left: t
+  right: ''
+  output: l
+  category: consonant
+  notes: observed 116x
+- id: h_0040
+  name: I+->y
+  left: I
+  right: ''
+  output: y
+  category: vowel
+  notes: observed 93x
+- id: h_0041
+  name: e+->a
+  left: e
+  right: ''
+  output: a
+  category: vowel
+  notes: observed 86x
+- id: h_0042
+  name: va+i->
+  left: va
+  right: i
+  output: ''
+  category: vowel
+  notes: observed 79x
+- id: h_0043
+  name: t+h->dD
+  left: t
+  right: h
+  output: dD
+  category: consonant
+  notes: observed 75x
+- id: h_0044
+  name: +e->ne
+  left: ''
+  right: e
+  output: ne
+  category: vowel
+  notes: observed 75x
+- id: h_0045
+  name: +a->A
+  left: ''
+  right: a
+  output: A
+  category: vowel
+  notes: observed 72x
+- id: h_0046
+  name: +A->nA
+  left: ''
+  right: A
+  output: nA
+  category: vowel
+  notes: observed 70x
+- id: h_0047
+  name: AUM+->oM
+  left: AUM
+  right: ''
+  output: oM
+  category: nasal
+  notes: observed 70x
+- id: h_0048
+  name: a+I->e
+  left: a
+  right: I
+  output: e
+  category: vowel
+  notes: observed 69x
+- id: h_0049
+  name: m+->N
+  left: m
+  right: ''
+  output: N
+  category: nasal
+  notes: observed 66x
+- id: h_0050
+  name: a+a->nA
+  left: a
+  right: a
+  output: nA
+  category: vowel
+  notes: observed 63x
+- id: h_0051
+  name: A+->
+  left: A
+  right: ''
+  output: ''
+  category: vowel
+  notes: observed 61x
+- id: h_0052
+  name: aH+a->os
+  left: aH
+  right: a
+  output: os
+  category: visarga
+  notes: observed 60x
+- id: h_0053
+  name: u+u->U
+  left: u
+  right: u
+  output: U
+  category: vowel
+  notes: observed 58x
+- id: h_0054
+  name: a+->n
+  left: a
+  right: ''
+  output: n
+  category: vowel
+  notes: observed 57x
+- id: h_0055
+  name: a+->Ev
+  left: a
+  right: ''
+  output: Ev
+  category: vowel
+  notes: observed 55x
+- id: h_0056
+  name: a+i->ce
+  left: a
+  right: i
+  output: ce
+  category: vowel
+  notes: observed 53x
+- id: h_0057
+  name: H+->rd
+  left: H
+  right: ''
+  output: rd
+  category: visarga
+  notes: observed 51x
+- id: h_0058
+  name: +i->ni
+  left: ''
+  right: i
+  output: ni
+  category: vowel
+  notes: observed 49x
+- id: h_0059
+  name: i+->
+  left: i
+  right: ''
+  output: ''
+  category: vowel
+  notes: observed 46x
+- id: h_0060
+  name: M+->Y
+  left: M
+  right: ''
+  output: Y
+  category: nasal
+  notes: observed 46x
+- id: h_0061
+  name: a+a->cA
+  left: a
+  right: a
+  output: cA
+  category: vowel
+  notes: observed 44x
+- id: h_0062
+  name: w+->q
+  left: w
+  right: ''
+  output: q
+  category: consonant
+  notes: observed 39x
+- id: h_0063
+  name: a+a->o
+  left: a
+  right: a
+  output: o
+  category: vowel
+  notes: observed 36x
+- id: h_0064
+  name: H+->rm
+  left: H
+  right: ''
+  output: rm
+  category: visarga
+  notes: observed 34x
+- id: h_0065
+  name: H+->z
+  left: H
+  right: ''
+  output: z
+  category: visarga
+  notes: observed 32x
+- id: h_0066
+  name: m+->
+  left: m
+  right: ''
+  output: ''
+  category: nasal
+  notes: observed 31x
+- id: h_0067
+  name: H+->rn
+  left: H
+  right: ''
+  output: rn
+  category: visarga
+  notes: observed 31x
+- id: h_0068
+  name: t+->w
+  left: t
+  right: ''
+  output: w
+  category: consonant
+  notes: observed 30x
+- id: h_0069
+  name: i+a->yA
+  left: i
+  right: a
+  output: yA
+  category: vowel
+  notes: observed 28x
+- id: h_0070
+  name: a+u->no
+  left: a
+  right: u
+  output: 'no'
+  category: vowel
+  notes: observed 28x
+- id: h_0071
+  name: aH+u->o
+  left: aH
+  right: u
+  output: o
+  category: visarga
+  notes: observed 27x
+- id: h_0072
+  name: H+u->rU
+  left: H
+  right: u
+  output: rU
+  category: visarga
+  notes: observed 26x
+- id: h_0073
+  name: p+->b
+  left: p
+  right: ''
+  output: b
+  category: consonant
+  notes: observed 26x
+- id: h_0074
+  name: a+i->E
+  left: a
+  right: i
+  output: E
+  category: vowel
+  notes: observed 24x
+- id: h_0075
+  name: A+->Ev
+  left: A
+  right: ''
+  output: Ev
+  category: vowel
+  notes: observed 24x
+- id: h_0076
+  name: a+U->o
+  left: a
+  right: U
+  output: o
+  category: vowel
+  notes: observed 23x
+- id: h_0077
+  name: +u->nu
+  left: ''
+  right: u
+  output: nu
+  category: vowel
+  notes: observed 23x
+- id: h_0078
+  name: +C->cC
+  left: ''
+  right: C
+  output: cC
+  category: consonant
+  notes: observed 22x
+- id: h_0079
+  name: H+->rv
+  left: H
+  right: ''
+  output: rv
+  category: visarga
+  notes: observed 21x
+- id: h_0080
+  name: O+a->A
+  left: O
+  right: a
+  output: A
+  category: vowel
+  notes: observed 19x
+- id: h_0081
+  name: +i->I
+  left: ''
+  right: i
+  output: I
+  category: vowel
+  notes: observed 18x
+- id: h_0082
+  name: aH+->
+  left: aH
+  right: ''
+  output: ''
+  category: visarga
+  notes: observed 18x
+- id: h_0083
+  name: t+->dy
+  left: t
+  right: ''
+  output: dy
+  category: consonant
+  notes: observed 18x
+- id: h_0084
+  name: n+->Y
+  left: n
+  right: ''
+  output: Y
+  category: nasal
+  notes: observed 16x
+- id: h_0085
+  name: H+a->
+  left: H
+  right: a
+  output: ''
+  category: visarga
+  notes: observed 16x
+- id: h_0086
+  name: A+i->E
+  left: A
+  right: i
+  output: E
+  category: vowel
+  notes: observed 16x
+- id: h_0087
+  name: A+I->e
+  left: A
+  right: I
+  output: e
+  category: vowel
+  notes: observed 16x
+- id: h_0088
+  name: +e->E
+  left: ''
+  right: e
+  output: E
+  category: vowel
+  notes: observed 15x
+- id: h_0089
+  name: aH+->or
+  left: aH
+  right: ''
+  output: or
+  category: visarga
+  notes: observed 15x
+- id: h_0090
+  name: a+u->co
+  left: a
+  right: u
+  output: co
+  category: vowel
+  notes: observed 15x
+- id: h_0091
+  name: a+i->ne
+  left: a
+  right: i
+  output: ne
+  category: vowel
+  notes: observed 15x
+- id: h_0092
+  name: m+a->
+  left: m
+  right: a
+  output: ''
+  category: nasal
+  notes: observed 14x
+- id: h_0093
+  name: +i->e
+  left: ''
+  right: i
+  output: e
+  category: vowel
+  notes: observed 14x
+- id: h_0094
+  name: +saH->sa
+  left: ''
+  right: saH
+  output: sa
+  category: consonant
+  notes: observed 14x
+- id: h_0095
+  name: +A->a
+  left: ''
+  right: A
+  output: a
+  category: vowel
+  notes: observed 14x
+- id: h_0096
+  name: +t->st
+  left: ''
+  right: t
+  output: st
+  category: consonant
+  notes: observed 14x
+- id: h_0097
+  name: n+->S
+  left: n
+  right: ''
+  output: S
+  category: nasal
+  notes: observed 13x
+- id: h_0098
+  name: +a->ra
+  left: ''
+  right: a
+  output: ra
+  category: vowel
+  notes: observed 13x
+- id: h_0099
+  name: +f->r
+  left: ''
+  right: f
+  output: r
+  category: vowel
+  notes: observed 13x
+- id: h_0100
+  name: at+->
+  left: at
+  right: ''
+  output: ''
+  category: consonant
+  notes: observed 12x
+- id: h_0101
+  name: a+a->As
+  left: a
+  right: a
+  output: As
+  category: vowel
+  notes: observed 12x
+- id: h_0102
+  name: a+->c
+  left: a
+  right: ''
+  output: c
+  category: vowel
+  notes: observed 12x
+- id: h_0103
+  name: t+->nn
+  left: t
+  right: ''
+  output: nn
+  category: consonant
+  notes: observed 12x
+- id: h_0104
+  name: +saM->sa
+  left: ''
+  right: saM
+  output: sa
+  category: consonant
+  notes: observed 12x
+- id: h_0105
+  name: t+h->D
+  left: t
+  right: h
+  output: D
+  category: consonant
+  notes: observed 11x
+- id: h_0106
+  name: n+->s
+  left: n
+  right: ''
+  output: s
+  category: nasal
+  notes: observed 11x
+- id: h_0107
+  name: t+->da
+  left: t
+  right: ''
+  output: da
+  category: consonant
+  notes: observed 11x
+- id: h_0108
+  name: ti+->y
+  left: ti
+  right: ''
+  output: y
+  category: vowel
+  notes: observed 11x
+- id: h_0109
+  name: t+a->dA
+  left: t
+  right: a
+  output: dA
+  category: consonant
+  notes: observed 11x
+- id: h_0110
+  name: t+i->dI
+  left: t
+  right: i
+  output: dI
+  category: consonant
+  notes: observed 11x
+- id: h_0111
+  name: a+e->cE
+  left: a
+  right: e
+  output: cE
+  category: vowel
+  notes: observed 11x
+- id: h_0112
+  name: aH+A->o
+  left: aH
+  right: A
+  output: o
+  category: visarga
+  notes: observed 11x
+- id: h_0113
+  name: a+->A
+  left: a
+  right: ''
+  output: A
+  category: vowel
+  notes: observed 10x
+- id: h_0114
+  name: a+->o
+  left: a
+  right: ''
+  output: o
+  category: vowel
+  notes: observed 10x
+- id: h_0115
+  name: +u->amu
+  left: ''
+  right: u
+  output: amu
+  category: vowel
+  notes: observed 10x
+- id: h_0116
+  name: t+u->dupa
+  left: t
+  right: u
+  output: dupa
+  category: consonant
+  notes: observed 10x
+- id: h_0117
+  name: c+->j
+  left: c
+  right: ''
+  output: j
+  category: consonant
+  notes: observed 10x
+- id: h_0118
+  name: a+i->o
+  left: a
+  right: i
+  output: o
+  category: vowel
+  notes: observed 9x
+- id: h_0119
+  name: i+e->yE
+  left: i
+  right: e
+  output: yE
+  category: vowel
+  notes: observed 9x
+- id: h_0120
+  name: a+e->nE
+  left: a
+  right: e
+  output: nE
+  category: vowel
+  notes: observed 9x
+- id: h_0121
+  name: +a->nA
+  left: ''
+  right: a
+  output: nA
+  category: vowel
+  notes: observed 9x
+- id: h_0122
+  name: aH+a->A
+  left: aH
+  right: a
+  output: A
+  category: visarga
+  notes: observed 9x
+- id: h_0123
+  name: +e->
+  left: ''
+  right: e
+  output: ''
+  category: vowel
+  notes: observed 9x
+- id: h_0124
+  name: H+tAH->stA
+  left: H
+  right: tAH
+  output: stA
+  category: visarga
+  notes: observed 8x
+- id: h_0125
+  name: n+S->YC
+  left: n
+  right: S
+  output: YC
+  category: nasal
+  notes: observed 8x
+- id: h_0126
+  name: aH+e->E
+  left: aH
+  right: e
+  output: E
+  category: visarga
+  notes: observed 8x
+- id: h_0127
+  name: am+->Am
+  left: am
+  right: ''
+  output: Am
+  category: nasal
+  notes: observed 8x
+- id: h_0128
+  name: H+a->rA
+  left: H
+  right: a
+  output: rA
+  category: visarga
+  notes: observed 8x
+- id: h_0129
+  name: +a->+a
+  left: ''
+  right: a
+  output: +a
+  category: vowel
+  notes: observed 8x
+- id: h_0130
+  name: H+i->ra
+  left: H
+  right: i
+  output: ra
+  category: visarga
+  notes: observed 8x
+- id: h_0131
+  name: +t->
+  left: ''
+  right: t
+  output: ''
+  category: consonant
+  notes: observed 8x
+- id: h_0132
+  name: AUM+->om
+  left: AUM
+  right: ''
+  output: om
+  category: nasal
+  notes: observed 8x
+- id: h_0133
+  name: H+t->s
+  left: H
+  right: t
+  output: s
+  category: visarga
+  notes: observed 8x
+- id: h_0134
+  name: u+a->vA
+  left: u
+  right: a
+  output: vA
+  category: vowel
+  notes: observed 8x
+- id: h_0135
+  name: +u->
+  left: ''
+  right: u
+  output: ''
+  category: vowel
+  notes: observed 7x
+- id: h_0136
+  name: i+->ya
+  left: i
+  right: ''
+  output: ya
+  category: vowel
+  notes: observed 7x
+- id: h_0137
+  name: i+A->ya
+  left: i
+  right: A
+  output: ya
+  category: vowel
+  notes: observed 7x
+- id: h_0138
+  name: am+->
+  left: am
+  right: ''
+  output: ''
+  category: nasal
+  notes: observed 7x
+- id: h_0139
+  name: m+a->M
+  left: m
+  right: a
+  output: M
+  category: nasal
+  notes: observed 7x
+- id: h_0140
+  name: +a->u
+  left: ''
+  right: a
+  output: u
+  category: vowel
+  notes: observed 7x
+- id: h_0141
+  name: H+->ra
+  left: H
+  right: ''
+  output: ra
+  category: visarga
+  notes: observed 7x
+- id: h_0142
+  name: e+u->O
+  left: e
+  right: u
+  output: O
+  category: vowel
+  notes: observed 7x
+- id: h_0143
+  name: t+->Y
+  left: t
+  right: ''
+  output: Y
+  category: consonant
+  notes: observed 7x
+- id: h_0144
+  name: a+ane->AnE
+  left: a
+  right: ane
+  output: AnE
+  category: vowel
+  notes: observed 7x
+- id: h_0145
+  name: a+u->e
+  left: a
+  right: u
+  output: e
+  category: vowel
+  notes: observed 6x
+- id: h_0146
+  name: M+->m
+  left: M
+  right: ''
+  output: m
+  category: nasal
+  notes: observed 6x
+- id: h_0147
+  name: i+->v
+  left: i
+  right: ''
+  output: v
+  category: vowel
+  notes: observed 6x
+- id: h_0148
+  name: +am->
+  left: ''
+  right: am
+  output: ''
+  category: vowel
+  notes: observed 6x
+- id: h_0149
+  name: Am+->am
+  left: Am
+  right: ''
+  output: am
+  category: nasal
+  notes: observed 6x
+- id: h_0150
+  name: +a->ya
+  left: ''
+  right: a
+  output: ya
+  category: vowel
+  notes: observed 6x
+- id: h_0151
+  name: k+->N
+  left: k
+  right: ''
+  output: N
+  category: consonant
+  notes: observed 6x
+- id: h_0152
+  name: +tri->tra
+  left: ''
+  right: tri
+  output: tra
+  category: consonant
+  notes: observed 6x
+- id: h_0153
+  name: a+o->O
+  left: a
+  right: o
+  output: O
+  category: vowel
+  notes: observed 6x
+- id: h_0154
+  name: aH+->A
+  left: aH
+  right: ''
+  output: A
+  category: visarga
+  notes: observed 6x
+- id: h_0155
+  name: +e->nE
+  left: ''
+  right: e
+  output: nE
+  category: vowel
+  notes: observed 6x
+- id: h_0156
+  name: m+saH->Msa
+  left: m
+  right: saH
+  output: Msa
+  category: nasal
+  notes: observed 6x
+- id: h_0157
+  name: t+->q
+  left: t
+  right: ''
+  output: q
+  category: consonant
+  notes: observed 6x
+- id: h_0158
+  name: aH+i->e
+  left: aH
+  right: i
+  output: e
+  category: visarga
+  notes: observed 5x
+- id: h_0159
+  name: t+i->de
+  left: t
+  right: i
+  output: de
+  category: consonant
+  notes: observed 5x
+- id: h_0160
+  name: i+u->ya
+  left: i
+  right: u
+  output: ya
+  category: vowel
+  notes: observed 5x
+- id: h_0161
+  name: i+u->yo
+  left: i
+  right: u
+  output: yo
+  category: vowel
+  notes: observed 5x
+- id: h_0162
+  name: t+S->C
+  left: t
+  right: S
+  output: C
+  category: consonant
+  notes: observed 5x
+- id: h_0163
+  name: a+a->e
+  left: a
+  right: a
+  output: e
+  category: vowel
+  notes: observed 5x
+- id: h_0164
+  name: H+->rj
+  left: H
+  right: ''
+  output: rj
+  category: visarga
+  notes: observed 5x
+- id: h_0165
+  name: A+U->o
+  left: A
+  right: U
+  output: o
+  category: vowel
+  notes: observed 5x
+- id: h_0166
+  name: t+b->dv
+  left: t
+  right: b
+  output: dv
+  category: consonant
+  notes: observed 5x
+- id: h_0167
+  name: m+->Ms
+  left: m
+  right: ''
+  output: Ms
+  category: nasal
+  notes: observed 5x
+- id: h_0168
+  name: +i->+i
+  left: ''
+  right: i
+  output: +i
+  category: vowel
+  notes: observed 5x
+- id: h_0169
+  name: M+->n
+  left: M
+  right: ''
+  output: n
+  category: nasal
+  notes: observed 5x
+- id: h_0170
+  name: H+->sta
+  left: H
+  right: ''
+  output: sta
+  category: visarga
+  notes: observed 5x
+- id: h_0171
+  name: u+->
+  left: u
+  right: ''
+  output: ''
+  category: vowel
+  notes: observed 5x
+- id: h_0172
+  name: +i->ri
+  left: ''
+  right: i
+  output: ri
+  category: vowel
+  notes: observed 5x
+- id: h_0173
+  name: iH+->ar
+  left: iH
+  right: ''
+  output: ar
+  category: visarga
+  notes: observed 5x
+- id: h_0174
+  name: t+->R
+  left: t
+  right: ''
+  output: R
+  category: consonant
+  notes: observed 5x
+- id: h_0175
+  name: w+->R
+  left: w
+  right: ''
+  output: R
+  category: consonant
+  notes: observed 5x
+- id: h_0176
+  name: c+->d
+  left: c
+  right: ''
+  output: d
+  category: consonant
+  notes: observed 4x
+- id: h_0177
+  name: An+->an
+  left: An
+  right: ''
+  output: an
+  category: nasal
+  notes: observed 4x
+- id: h_0178
+  name: +a->ama
+  left: ''
+  right: a
+  output: ama
+  category: vowel
+  notes: observed 4x
+- id: h_0179
+  name: a+ava->A
+  left: a
+  right: ava
+  output: A
+  category: vowel
+  notes: observed 4x
+- id: h_0180
+  name: t+a->
+  left: t
+  right: a
+  output: ''
+  category: consonant
+  notes: observed 4x
+- id: h_0181
+  name: iH+->I
+  left: iH
+  right: ''
+  output: I
+  category: visarga
+  notes: observed 4x
+- id: h_0182
+  name: H+->rl
+  left: H
+  right: ''
+  output: rl
+  category: visarga
+  notes: observed 4x
+- id: h_0183
+  name: O+->
+  left: O
+  right: ''
+  output: ''
+  category: vowel
+  notes: observed 4x
+- id: h_0184
+  name: +U->u
+  left: ''
+  right: U
+  output: u
+  category: vowel
+  notes: observed 4x
+- id: h_0185
+  name: At+->ad
+  left: At
+  right: ''
+  output: ad
+  category: consonant
+  notes: observed 4x
+- id: h_0186
+  name: H+tam->staM
+  left: H
+  right: tam
+  output: staM
+  category: visarga
+  notes: observed 4x
+- id: h_0187
+  name: +c->Sc
+  left: ''
+  right: c
+  output: Sc
+  category: consonant
+  notes: observed 4x
+- id: h_0188
+  name: a+i->I
+  left: a
+  right: i
+  output: I
+  category: vowel
+  notes: observed 4x
+- id: h_0189
+  name: H+ta->s
+  left: H
+  right: ta
+  output: s
+  category: visarga
+  notes: observed 4x
+- id: h_0190
+  name: a+u->O
+  left: a
+  right: u
+  output: O
+  category: vowel
+  notes: observed 4x
+- id: h_0191
+  name: k+h->G
+  left: k
+  right: h
+  output: G
+  category: consonant
+  notes: observed 4x
+- id: h_0192
+  name: ta+i->cce
+  left: ta
+  right: i
+  output: cce
+  category: vowel
+  notes: observed 4x
+- id: h_0193
+  name: a+->Apy
+  left: a
+  right: ''
+  output: Apy
+  category: vowel
+  notes: observed 3x
+- id: h_0194
+  name: +A->s
+  left: ''
+  right: A
+  output: s
+  category: vowel
+  notes: observed 3x
+- id: h_0195
+  name: t+e->dE
+  left: t
+  right: e
+  output: dE
+  category: consonant
+  notes: observed 3x
+- id: h_0196
+  name: a+e->O
+  left: a
+  right: e
+  output: O
+  category: vowel
+  notes: observed 3x
+- id: h_0197
+  name: m+->qaM
+  left: m
+  right: ''
+  output: qaM
+  category: nasal
+  notes: observed 3x
+- id: h_0198
+  name: +i->a
+  left: ''
+  right: i
+  output: a
+  category: vowel
+  notes: observed 3x
+- id: h_0199
+  name: At+->od
+  left: At
+  right: ''
+  output: od
+  category: consonant
+  notes: observed 3x
+- id: h_0200
+  name: +p->+p
+  left: ''
+  right: p
+  output: +p
+  category: consonant
+  notes: observed 3x
+- id: h_0201
+  name: yam+->m
+  left: yam
+  right: ''
+  output: m
+  category: nasal
+  notes: observed 3x
+- id: h_0202
+  name: +h->D
+  left: ''
+  right: h
+  output: D
+  category: consonant
+  notes: observed 3x
+- id: h_0203
+  name: e+a->o
+  left: e
+  right: a
+  output: o
+  category: vowel
+  notes: observed 3x
+- id: h_0204
+  name: e+->
+  left: e
+  right: ''
+  output: ''
+  category: vowel
+  notes: observed 3x
+- id: h_0205
+  name: t+a->nnA
+  left: t
+  right: a
+  output: nnA
+  category: consonant
+  notes: observed 3x
+- id: h_0206
+  name: aH+->os
+  left: aH
+  right: ''
+  output: os
+  category: visarga
+  notes: observed 3x
+- id: h_0207
+  name: i+->ty
+  left: i
+  right: ''
+  output: ty
+  category: vowel
+  notes: observed 3x
+- id: h_0208
+  name: O+a->AvA
+  left: O
+  right: a
+  output: AvA
+  category: vowel
+  notes: observed 3x
+- id: h_0209
+  name: +a->aM
+  left: ''
+  right: a
+  output: aM
+  category: vowel
+  notes: observed 3x
+- id: h_0210
+  name: u+->y
+  left: u
+  right: ''
+  output: y
+  category: vowel
+  notes: observed 3x
+- id: h_0211
+  name: +an->
+  left: ''
+  right: an
+  output: ''
+  category: vowel
+  notes: observed 3x
+- id: h_0212
+  name: +anu->anva
+  left: ''
+  right: anu
+  output: anva
+  category: vowel
+  notes: observed 3x
+- id: h_0213
+  name: taH+->s
+  left: taH
+  right: ''
+  output: s
+  category: visarga
+  notes: observed 3x
+- id: h_0214
+  name: a+u->A
+  left: a
+  right: u
+  output: A
+  category: vowel
+  notes: observed 3x
+- id: h_0215
+  name: +A->+A
+  left: ''
+  right: A
+  output: +A
+  category: vowel
+  notes: observed 3x
+- id: h_0216
+  name: uH+->U
+  left: uH
+  right: ''
+  output: U
+  category: visarga
+  notes: observed 3x
+- id: h_0217
+  name: n+->Ml
+  left: n
+  right: ''
+  output: Ml
+  category: nasal
+  notes: observed 3x
+- id: h_0218
+  name: +I->nI
+  left: ''
+  right: I
+  output: nI
+  category: vowel
+  notes: observed 3x
+- id: h_0219
+  name: +a->da
+  left: ''
+  right: a
+  output: da
+  category: vowel
+  notes: observed 3x
+- id: h_0220
+  name: t+v->db
+  left: t
+  right: v
+  output: db
+  category: consonant
+  notes: observed 3x
+- id: h_0221
+  name: +e->+e
+  left: ''
+  right: e
+  output: +e
+  category: vowel
+  notes: observed 3x
+- id: h_0222
+  name: i+e->ya
+  left: i
+  right: e
+  output: ya
+  category: vowel
+  notes: observed 3x
+- id: h_0223
+  name: m+->Mm
+  left: m
+  right: ''
+  output: Mm
+  category: nasal
+  notes: observed 3x
+- id: h_0224
+  name: ntu+->Mtv
+  left: ntu
+  right: ''
+  output: Mtv
+  category: vowel
+  notes: observed 3x
+- id: h_0225
+  name: u+e->
+  left: u
+  right: e
+  output: ''
+  category: vowel
+  notes: observed 3x
+- id: h_0226
+  name: m+->MS
+  left: m
+  right: ''
+  output: MS
+  category: nasal
+  notes: observed 3x
+- id: h_0227
+  name: t+niH->nni
+  left: t
+  right: niH
+  output: nni
+  category: consonant
+  notes: observed 3x
+- id: h_0228
+  name: +kiY->kiM
+  left: ''
+  right: kiY
+  output: kiM
+  category: consonant
+  notes: observed 3x
+- id: h_0229
+  name: i+a->
+  left: i
+  right: a
+  output: ''
+  category: vowel
+  notes: observed 3x
+- id: h_0230
+  name: iti+->y
+  left: iti
+  right: ''
+  output: y
+  category: vowel
+  notes: observed 3x
+- id: h_0231
+  name: H+yaH->ryo
+  left: H
+  right: yaH
+  output: ryo
+  category: visarga
+  notes: observed 3x
+- id: h_0232
+  name: A+f->ar
+  left: A
+  right: f
+  output: ar
+  category: vowel
+  notes: observed 3x
+- id: h_0233
+  name: +sT->zW
+  left: ''
+  right: sT
+  output: zW
+  category: consonant
+  notes: observed 3x
+- id: h_0234
+  name: aH+->is
+  left: aH
+  right: ''
+  output: is
+  category: visarga
+  notes: observed 2x
+- id: h_0235
+  name: +et->
+  left: ''
+  right: et
+  output: ''
+  category: vowel
+  notes: observed 2x
+- id: h_0236
+  name: e+->y
+  left: e
+  right: ''
+  output: y
+  category: vowel
+  notes: observed 2x
+- id: h_0237
+  name: am+->im
+  left: am
+  right: ''
+  output: im
+  category: nasal
+  notes: observed 2x
+- id: h_0238
+  name: H+u->rUd
+  left: H
+  right: u
+  output: rUd
+  category: visarga
+  notes: observed 2x
+- id: h_0239
+  name: ena+u->ano
+  left: ena
+  right: u
+  output: ano
+  category: vowel
+  notes: observed 2x
+- id: h_0240
+  name: t+G->dD
+  left: t
+  right: G
+  output: dD
+  category: consonant
+  notes: observed 2x
+- id: h_0241
+  name: tat+->
+  left: tat
+  right: ''
+  output: ''
+  category: consonant
+  notes: observed 2x
+- id: h_0242
+  name: i+e->E
+  left: i
+  right: e
+  output: E
+  category: vowel
+  notes: observed 2x
+- id: h_0243
+  name: tat+->at
+  left: tat
+  right: ''
+  output: at
+  category: consonant
+  notes: observed 2x
+- id: h_0244
+  name: +a->apya
+  left: ''
+  right: a
+  output: apya
+  category: vowel
+  notes: observed 2x
+- id: h_0245
+  name: a+av->Ab
+  left: a
+  right: av
+  output: Ab
+  category: vowel
+  notes: observed 2x
+- id: h_0246
+  name: di+->Mdy
+  left: di
+  right: ''
+  output: Mdy
+  category: vowel
+  notes: observed 2x
+- id: h_0247
+  name: ca+e->tE
+  left: ca
+  right: e
+  output: tE
+  category: vowel
+  notes: observed 2x
+- id: h_0248
+  name: O+A->Ava
+  left: O
+  right: A
+  output: Ava
+  category: vowel
+  notes: observed 2x
+- id: h_0249
+  name: at+->Ad
+  left: at
+  right: ''
+  output: Ad
+  category: consonant
+  notes: observed 2x
+- id: h_0250
+  name: Adi+->ady
+  left: Adi
+  right: ''
+  output: ady
+  category: vowel
+  notes: observed 2x
+- id: h_0251
+  name: A+o->O
+  left: A
+  right: o
+  output: O
+  category: vowel
+  notes: observed 2x
+- id: h_0252
+  name: aH+a->e
+  left: aH
+  right: a
+  output: e
+  category: visarga
+  notes: observed 2x
+- id: h_0253
+  name: m+->tiM
+  left: m
+  right: ''
+  output: tiM
+  category: nasal
+  notes: observed 2x
+- id: h_0254
+  name: ni+->any
+  left: ni
+  right: ''
+  output: any
+  category: vowel
+  notes: observed 2x
+- id: h_0255
+  name: t+->nna
+  left: t
+  right: ''
+  output: nna
+  category: consonant
+  notes: observed 2x
+- id: h_0256
+  name: +a->M
+  left: ''
+  right: a
+  output: M
+  category: vowel
+  notes: observed 2x
+- id: h_0257
+  name: i+ic->Ica
+  left: i
+  right: ic
+  output: Ica
+  category: vowel
+  notes: observed 2x
+- id: h_0258
+  name: nu+->tv
+  left: nu
+  right: ''
+  output: tv
+  category: vowel
+  notes: observed 2x
+- id: h_0259
+  name: H+->rity
+  left: H
+  right: ''
+  output: rity
+  category: visarga
+  notes: observed 2x
+- id: h_0260
+  name: iti+Aha->AhaH
+  left: iti
+  right: Aha
+  output: AhaH
+  category: vowel
+  notes: observed 2x
+- id: h_0261
+  name: i+->ay
+  left: i
+  right: ''
+  output: ay
+  category: vowel
+  notes: observed 2x
+- id: h_0262
+  name: +u->o
+  left: ''
+  right: u
+  output: o
+  category: vowel
+  notes: observed 2x
+- id: h_0263
+  name: u+a->
+  left: u
+  right: a
+  output: ''
+  category: vowel
+  notes: observed 2x
+- id: h_0264
+  name: Hm+->m
+  left: Hm
+  right: ''
+  output: m
+  category: visarga
+  notes: observed 2x
+- id: h_0265
+  name: aH+a->I
+  left: aH
+  right: a
+  output: I
+  category: visarga
+  notes: observed 2x
+- id: h_0266
+  name: t+g->dr
+  left: t
+  right: g
+  output: dr
+  category: consonant
+  notes: observed 2x
+- id: h_0267
+  name: H+->MS
+  left: H
+  right: ''
+  output: MS
+  category: visarga
+  notes: observed 2x
+- id: h_0268
+  name: +t->et
+  left: ''
+  right: t
+  output: et
+  category: consonant
+  notes: observed 2x
+- id: h_0269
+  name: u+->va
+  left: u
+  right: ''
+  output: va
+  category: vowel
+  notes: observed 2x
+- id: h_0270
+  name: t+->de
+  left: t
+  right: ''
+  output: de
+  category: consonant
+  notes: observed 2x
+- id: h_0271
+  name: a+->Am
+  left: a
+  right: ''
+  output: Am
+  category: vowel
+  notes: observed 2x
+- id: h_0272
+  name: u+->vam
+  left: u
+  right: ''
+  output: vam
+  category: vowel
+  notes: observed 2x
+- id: h_0273
+  name: +v->ev
+  left: ''
+  right: v
+  output: ev
+  category: consonant
+  notes: observed 2x
+- id: h_0274
+  name: EH+->er
+  left: EH
+  right: ''
+  output: er
+  category: visarga
+  notes: observed 2x
+- id: h_0275
+  name: a+ava->AvA
+  left: a
+  right: ava
+  output: AvA
+  category: vowel
+  notes: observed 2x
+- id: h_0276
+  name: t+->dyad
+  left: t
+  right: ''
+  output: dyad
+  category: consonant
+  notes: observed 2x
+- id: h_0277
+  name: +ava->avA
+  left: ''
+  right: ava
+  output: avA
+  category: vowel
+  notes: observed 2x
+- id: h_0278
+  name: +i->ami
+  left: ''
+  right: i
+  output: ami
+  category: vowel
+  notes: observed 2x
+- id: h_0279
+  name: I+a->yA
+  left: I
+  right: a
+  output: yA
+  category: vowel
+  notes: observed 2x
+- id: h_0280
+  name: m+tAm->ntAM
+  left: m
+  right: tAm
+  output: ntAM
+  category: nasal
+  notes: observed 2x
+- id: h_0281
+  name: aH+->no
+  left: aH
+  right: ''
+  output: 'no'
+  category: visarga
+  notes: observed 2x
+- id: h_0282
+  name: +a->c
+  left: ''
+  right: a
+  output: c
+  category: vowel
+  notes: observed 2x
+- id: h_0283
+  name: H+->Y
+  left: H
+  right: ''
+  output: Y
+  category: visarga
+  notes: observed 2x
+- id: h_0284
+  name: I+->yy
+  left: I
+  right: ''
+  output: yy
+  category: vowel
+  notes: observed 2x
+- id: h_0285
+  name: w+i->qa
+  left: w
+  right: i
+  output: qa
+  category: consonant
+  notes: observed 2x
+- id: h_0286
+  name: H+e->rE
+  left: H
+  right: e
+  output: rE
+  category: visarga
+  notes: observed 2x
+- id: h_0287
+  name: +f->nf
+  left: ''
+  right: f
+  output: nf
+  category: vowel
+  notes: observed 2x
+- id: h_0288
+  name: O+a->avA
+  left: O
+  right: a
+  output: avA
+  category: vowel
+  notes: observed 2x
+- id: h_0289
+  name: +tam->taM
+  left: ''
+  right: tam
+  output: taM
+  category: consonant
+  notes: observed 2x
+- id: h_0290
+  name: n+t->Ms
+  left: n
+  right: t
+  output: Ms
+  category: nasal
+  notes: observed 2x
+- id: h_0291
+  name: u+e->vE
+  left: u
+  right: e
+  output: vE
+  category: vowel
+  notes: observed 2x
+- id: h_0292
+  name: H+D->rG
+  left: H
+  right: D
+  output: rG
+  category: visarga
+  notes: observed 2x
+- id: h_0293
+  name: H+ca->ScaH
+  left: H
+  right: ca
+  output: ScaH
+  category: visarga
+  notes: observed 2x
+- id: h_0294
+  name: H+b->rv
+  left: H
+  right: b
+  output: rv
+  category: visarga
+  notes: observed 2x
+- id: h_0295
+  name: a+->Av
+  left: a
+  right: ''
+  output: Av
+  category: vowel
+  notes: observed 2x
+- id: h_0296
+  name: H+ca->ScA
+  left: H
+  right: ca
+  output: ScA
+  category: visarga
+  notes: observed 2x
+- id: h_0297
+  name: ta+->n
+  left: ta
+  right: ''
+  output: n
+  category: vowel
+  notes: observed 2x
+- id: h_0298
+  name: O+u->Ava
+  left: O
+  right: u
+  output: Ava
+  category: vowel
+  notes: observed 2x
+- id: h_0299
+  name: tA+->d
+  left: tA
+  right: ''
+  output: d
+  category: vowel
+  notes: observed 2x
+- id: h_0300
+  name: ca+a->ScA
+  left: ca
+  right: a
+  output: ScA
+  category: vowel
+  notes: observed 2x
+- id: h_0301
+  name: iH+->y
+  left: iH
+  right: ''
+  output: y
+  category: visarga
+  notes: observed 2x
+- id: h_0302
+  name: u+i->ve
+  left: u
+  right: i
+  output: ve
+  category: vowel
+  notes: observed 2x
+- id: h_0303
+  name: +A->amA
+  left: ''
+  right: A
+  output: amA
+  category: vowel
+  notes: observed 2x
+- id: h_0304
+  name: M+->N
+  left: M
+  right: ''
+  output: N
+  category: nasal
+  notes: observed 2x
+- id: h_0305
+  name: Hca+->Sc
+  left: Hca
+  right: ''
+  output: Sc
+  category: visarga
+  notes: observed 2x
+- id: h_0306
+  name: Ram+->mam
+  left: Ram
+  right: ''
+  output: mam
+  category: nasal
+  notes: observed 2x
+- id: h_0307
+  name: e+e->E
+  left: e
+  right: e
+  output: E
+  category: vowel
+  notes: observed 2x
+- id: h_0308
+  name: H+->n
+  left: H
+  right: ''
+  output: n
+  category: visarga
+  notes: observed 2x
+- id: h_0309
+  name: a+->y
+  left: a
+  right: ''
+  output: y
+  category: vowel
+  notes: observed 2x
+- id: h_0310
+  name: O+->A
+  left: O
+  right: ''
+  output: A
+  category: vowel
+  notes: observed 2x
+- id: h_0311
+  name: ta+->d
+  left: ta
+  right: ''
+  output: d
+  category: vowel
+  notes: observed 2x
+- id: h_0312
+  name: A+->o
+  left: A
+  right: ''
+  output: o
+  category: vowel
+  notes: observed 2x
+- id: h_0313
+  name: M+->
+  left: M
+  right: ''
+  output: ''
+  category: nasal
+  notes: observed 2x
+- id: h_0314
+  name: H+i->riM
+  left: H
+  right: i
+  output: riM
+  category: visarga
+  notes: observed 2x
+- id: h_0315
+  name: k+h->gG
+  left: k
+  right: h
+  output: gG
+  category: consonant
+  notes: observed 2x
+- id: h_0316
+  name: a+A->Aha
+  left: a
+  right: A
+  output: Aha
+  category: vowel
+  notes: observed 2x
+- id: h_0317
+  name: +e->o
+  left: ''
+  right: e
+  output: o
+  category: vowel
+  notes: observed 2x
+- id: h_0318
+  name: a+u->U
+  left: a
+  right: u
+  output: U
+  category: vowel
+  notes: observed 2x
+- id: h_0319
+  name: n+->l
+  left: n
+  right: ''
+  output: l
+  category: nasal
+  notes: observed 2x
+- id: h_0320
+  name: am+->AY
+  left: am
+  right: ''
+  output: AY
+  category: nasal
+  notes: observed 2x
+- id: h_0321
+  name: +iti->etya
+  left: ''
+  right: iti
+  output: etya
+  category: vowel
+  notes: observed 2x
+- id: h_0322
+  name: m+kim->MkiM
+  left: m
+  right: kim
+  output: MkiM
+  category: nasal
+  notes: observed 2x
+- id: h_0323
+  name: +apA->apa
+  left: ''
+  right: apA
+  output: apa
+  category: vowel
+  notes: observed 2x
+- id: h_0324
+  name: +a->ana
+  left: ''
+  right: a
+  output: ana
+  category: vowel
+  notes: observed 2x
+- id: h_0325
+  name: +i->ne
+  left: ''
+  right: i
+  output: ne
+  category: vowel
+  notes: observed 2x
+- id: h_0326
+  name: m+na->Mno
+  left: m
+  right: na
+  output: Mno
+  category: nasal
+  notes: observed 2x
+- id: h_0327
+  name: kam+->m
+  left: kam
+  right: ''
+  output: m
+  category: nasal
+  notes: observed 2x
+- id: h_0328
+  name: O+i->Ave
+  left: O
+  right: i
+  output: Ave
+  category: vowel
+  notes: observed 2x
+- id: h_0329
+  name: RAm+->m
+  left: RAm
+  right: ''
+  output: m
+  category: nasal
+  notes: observed 2x
+- id: h_0330
+  name: i+->yay
+  left: i
+  right: ''
+  output: yay
+  category: vowel
+  notes: observed 2x
+- id: h_0331
+  name: a+ane->Ana
+  left: a
+  right: ane
+  output: Ana
+  category: vowel
+  notes: observed 2x
+- id: h_0332
+  name: aH+as->o
+  left: aH
+  right: as
+  output: o
+  category: visarga
+  notes: observed 2x
+- id: h_0333
+  name: pi+->vy
+  left: pi
+  right: ''
+  output: vy
+  category: vowel
+  notes: observed 2x
+- id: h_0334
+  name: H+->sva
+  left: H
+  right: ''
+  output: sva
+  category: visarga
+  notes: observed 2x
+- id: h_0335
+  name: m+->t
+  left: m
+  right: ''
+  output: t
+  category: nasal
+  notes: observed 2x
+- id: h_0336
+  name: +Aha->nahA
+  left: ''
+  right: Aha
+  output: nahA
+  category: vowel
+  notes: observed 2x
+- id: h_0337
+  name: H+a->s
+  left: H
+  right: a
+  output: s
+  category: visarga
+  notes: observed 2x
+- id: h_0338
+  name: t+A->da
+  left: t
+  right: A
+  output: da
+  category: consonant
+  notes: observed 2x
+- id: h_0339
+  name: i+aha->yaho
+  left: i
+  right: aha
+  output: yaho
+  category: vowel
+  notes: observed 2x
+- id: h_0340
+  name: u+anv->vant
+  left: u
+  right: anv
+  output: vant
+  category: vowel
+  notes: observed 2x
+- id: h_0341
+  name: um+->aM
+  left: um
+  right: ''
+  output: aM
+  category: nasal
+  notes: observed 2x
+- id: h_0342
+  name: +aG->aD
+  left: ''
+  right: aG
+  output: aD
+  category: vowel
+  notes: observed 2x
+- id: h_0343
+  name: m+p->M
+  left: m
+  right: p
+  output: M
+  category: nasal
+  notes: observed 2x
+- id: h_0344
+  name: +B->rB
+  left: ''
+  right: B
+  output: rB
+  category: consonant
+  notes: observed 2x
+- id: h_0345
+  name: m+->taM
+  left: m
+  right: ''
+  output: taM
+  category: nasal
+  notes: observed 2x
+- id: h_0346
+  name: taH+->
+  left: taH
+  right: ''
+  output: ''
+  category: visarga
+  notes: observed 2x
+- id: h_0347
+  name: a+e->o
+  left: a
+  right: e
+  output: o
+  category: vowel
+  notes: observed 2x
+- id: h_0348
+  name: a+->E
+  left: a
+  right: ''
+  output: E
+  category: vowel
+  notes: observed 2x
+- id: h_0349
+  name: t+z->cC
+  left: t
+  right: z
+  output: cC
+  category: consonant
+  notes: observed 2x
+- id: h_0350
+  name: +e->a
+  left: ''
+  right: e
+  output: a
+  category: vowel
+  notes: observed 2x
+- id: h_0351
+  name: +A->yA
+  left: ''
+  right: A
+  output: yA
+  category: vowel
+  notes: observed 2x
+- id: h_0352
+  name: A+i->ve
+  left: A
+  right: i
+  output: ve
+  category: vowel
+  notes: observed 2x
+- id: h_0353
+  name: +e->me
+  left: ''
+  right: e
+  output: me
+  category: vowel
+  notes: observed 2x
+- id: h_0354
+  name: a+it->en
+  left: a
+  right: it
+  output: en
+  category: vowel
+  notes: observed 2x
+- id: h_0355
+  name: A+a->o
+  left: A
+  right: a
+  output: o
+  category: vowel
+  notes: observed 2x
+- id: h_0356
+  name: m+->R
+  left: m
+  right: ''
+  output: R
+  category: nasal
+  notes: observed 2x
+- id: h_0357
+  name: +A->rA
+  left: ''
+  right: A
+  output: rA
+  category: vowel
+  notes: observed 2x
+- id: h_0358
+  name: t+v->dva
+  left: t
+  right: v
+  output: dva
+  category: consonant
+  notes: observed 2x
+- id: h_0359
+  name: H+a->ro
+  left: H
+  right: a
+  output: ro
+  category: visarga
+  notes: observed 2x
+- id: h_0360
+  name: api+->Av
+  left: api
+  right: ''
+  output: Av
+  category: vowel
+  notes: observed 2x
+- id: h_0361
+  name: i+u->yO
+  left: i
+  right: u
+  output: yO
+  category: vowel
+  notes: observed 2x
+- id: h_0362
+  name: +u->U
+  left: ''
+  right: u
+  output: U
+  category: vowel
+  notes: observed 2x
+- id: h_0363
+  name: aH+->e
+  left: aH
+  right: ''
+  output: e
+  category: visarga
+  notes: observed 2x
+- id: h_0364
+  name: t+Sa->cCr
+  left: t
+  right: Sa
+  output: cCr
+  category: consonant
+  notes: observed 2x
+- id: h_0365
+  name: m+df->Mdra
+  left: m
+  right: df
+  output: Mdra
+  category: nasal
+  notes: observed 2x
+- id: h_0366
+  name: iH+i->I
+  left: iH
+  right: i
+  output: I
+  category: visarga
+  notes: observed 2x
+- id: h_0367
+  name: +p->np
+  left: ''
+  right: p
+  output: np
+  category: consonant
+  notes: observed 2x
+- id: h_0368
+  name: H+->oS
+  left: H
+  right: ''
+  output: oS
+  category: visarga
+  notes: observed 2x
+- id: h_0369
+  name: ama+->
+  left: ama
+  right: ''
+  output: ''
+  category: vowel
+  notes: observed 2x
+- id: h_0370
+  name: i+i->o
+  left: i
+  right: i
+  output: o
+  category: vowel
+  notes: observed 2x
+- id: h_0371
+  name: +l->rl
+  left: ''
+  right: l
+  output: rl
+  category: consonant
+  notes: observed 2x
+- id: h_0372
+  name: +san->saM
+  left: ''
+  right: san
+  output: saM
+  category: consonant
+  notes: observed 2x
+- id: h_0373
+  name: ap+->Ab
+  left: ap
+  right: ''
+  output: Ab
+  category: consonant
+  notes: observed 2x
+- id: h_0374
+  name: t+y->d
+  left: t
+  right: y
+  output: d
+  category: consonant
+  notes: observed 2x
+- id: h_0375
+  name: +saN->saM
+  left: ''
+  right: saN
+  output: saM
+  category: consonant
+  notes: observed 2x
+- id: h_0376
+  name: it+->Ed
+  left: it
+  right: ''
+  output: Ed
+  category: consonant
+  notes: observed 2x
+- id: h_0377
+  name: iw+->eq
+  left: iw
+  right: ''
+  output: eq
+  category: consonant
+  notes: observed 2x
+- id: h_0378
+  name: +c->cc
+  left: ''
+  right: c
+  output: cc
+  category: consonant
+  notes: observed 2x
+- id: h_0379
+  name: H+E->
+  left: H
+  right: E
+  output: ''
+  category: visarga
+  notes: observed 2x
+- id: h_0380
+  name: ut+->od
+  left: ut
+  right: ''
+  output: od
+  category: consonant
+  notes: observed 2x
+- id: h_0381
+  name: +At->
+  left: ''
+  right: At
+  output: ''
+  category: vowel
+  notes: observed 2x
+- id: h_0382
+  name: +j->Aj
+  left: ''
+  right: j
+  output: Aj
+  category: consonant
+  notes: observed 1x
+- id: h_0383
+  name: a+a->enA
+  left: a
+  right: a
+  output: enA
+  category: vowel
+  notes: observed 1x
+- id: h_0384
+  name: t+h->T
+  left: t
+  right: h
+  output: T
+  category: consonant
+  notes: observed 1x
+- id: h_0385
+  name: d+S->cC
+  left: d
+  right: S
+  output: cC
+  category: consonant
+  notes: observed 1x
+- id: h_0386
+  name: a+aya->AyA
+  left: a
+  right: aya
+  output: AyA
+  category: vowel
+  notes: observed 1x
+- id: h_0387
+  name: H+->t
+  left: H
+  right: ''
+  output: t
+  category: visarga
+  notes: observed 1x
+- id: h_0388
+  name: pi+->
+  left: pi
+  right: ''
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0389
+  name: +a->va
+  left: ''
+  right: a
+  output: va
+  category: vowel
+  notes: observed 1x
+- id: h_0390
+  name: tu+a->A
+  left: tu
+  right: a
+  output: A
+  category: vowel
+  notes: observed 1x
+- id: h_0391
+  name: +a->tva
+  left: ''
+  right: a
+  output: tva
+  category: vowel
+  notes: observed 1x
+- id: h_0392
+  name: +kiM->ki
+  left: ''
+  right: kiM
+  output: ki
+  category: consonant
+  notes: observed 1x
+- id: h_0393
+  name: iH+->er
+  left: iH
+  right: ''
+  output: er
+  category: visarga
+  notes: observed 1x
+- id: h_0394
+  name: at+->is
+  left: at
+  right: ''
+  output: is
+  category: consonant
+  notes: observed 1x
+- id: h_0395
+  name: +D->at+D
+  left: ''
+  right: D
+  output: at+D
+  category: consonant
+  notes: observed 1x
+- id: h_0396
+  name: H+nA->r
+  left: H
+  right: nA
+  output: r
+  category: visarga
+  notes: observed 1x
+- id: h_0397
+  name: vat+->bad
+  left: vat
+  right: ''
+  output: bad
+  category: consonant
+  notes: observed 1x
+- id: h_0398
+  name: t+nA->nna
+  left: t
+  right: nA
+  output: nna
+  category: consonant
+  notes: observed 1x
+- id: h_0399
+  name: a+I->E
+  left: a
+  right: I
+  output: E
+  category: vowel
+  notes: observed 1x
+- id: h_0400
+  name: m+v->Mb
+  left: m
+  right: v
+  output: Mb
+  category: nasal
+  notes: observed 1x
+- id: h_0401
+  name: H+ana->ranu
+  left: H
+  right: ana
+  output: ranu
+  category: visarga
+  notes: observed 1x
+- id: h_0402
+  name: +saM->san
+  left: ''
+  right: saM
+  output: san
+  category: consonant
+  notes: observed 1x
+- id: h_0403
+  name: a+->Aham
+  left: a
+  right: ''
+  output: Aham
+  category: vowel
+  notes: observed 1x
+- id: h_0404
+  name: o+->er
+  left: o
+  right: ''
+  output: er
+  category: vowel
+  notes: observed 1x
+- id: h_0405
+  name: +uB->up
+  left: ''
+  right: uB
+  output: up
+  category: vowel
+  notes: observed 1x
+- id: h_0406
+  name: +i->eve
+  left: ''
+  right: i
+  output: eve
+  category: vowel
+  notes: observed 1x
+- id: h_0407
+  name: a+an->Am
+  left: a
+  right: an
+  output: Am
+  category: vowel
+  notes: observed 1x
+- id: h_0408
+  name: A+eva->EvA
+  left: A
+  right: eva
+  output: EvA
+  category: vowel
+  notes: observed 1x
+- id: h_0409
+  name: t+j->d
+  left: t
+  right: j
+  output: d
+  category: consonant
+  notes: observed 1x
+- id: h_0410
+  name: +u->du
+  left: ''
+  right: u
+  output: du
+  category: vowel
+  notes: observed 1x
+- id: h_0411
+  name: Msa+a->sAM
+  left: Msa
+  right: a
+  output: sAM
+  category: vowel
+  notes: observed 1x
+- id: h_0412
+  name: t+Da->dDU
+  left: t
+  right: Da
+  output: dDU
+  category: consonant
+  notes: observed 1x
+- id: h_0413
+  name: Msa+a->sA
+  left: Msa
+  right: a
+  output: sA
+  category: vowel
+  notes: observed 1x
+- id: h_0414
+  name: +a->kA
+  left: ''
+  right: a
+  output: kA
+  category: vowel
+  notes: observed 1x
+- id: h_0415
+  name: t+->dva
+  left: t
+  right: ''
+  output: dva
+  category: consonant
+  notes: observed 1x
+- id: h_0416
+  name: +kza->kz
+  left: ''
+  right: kza
+  output: kz
+  category: consonant
+  notes: observed 1x
+- id: h_0417
+  name: ti+->d
+  left: ti
+  right: ''
+  output: d
+  category: vowel
+  notes: observed 1x
+- id: h_0418
+  name: +evO->evo
+  left: ''
+  right: evO
+  output: evo
+  category: vowel
+  notes: observed 1x
+- id: h_0419
+  name: eya+u->atyo
+  left: eya
+  right: u
+  output: atyo
+  category: vowel
+  notes: observed 1x
+- id: h_0420
+  name: waH+i->We
+  left: waH
+  right: i
+  output: We
+  category: visarga
+  notes: observed 1x
+- id: h_0421
+  name: a+apa->od
+  left: a
+  right: apa
+  output: od
+  category: vowel
+  notes: observed 1x
+- id: h_0422
+  name: m+->kaM
+  left: m
+  right: ''
+  output: kaM
+  category: nasal
+  notes: observed 1x
+- id: h_0423
+  name: im+->am
+  left: im
+  right: ''
+  output: am
+  category: nasal
+  notes: observed 1x
+- id: h_0424
+  name: t+->dapy
+  left: t
+  right: ''
+  output: dapy
+  category: consonant
+  notes: observed 1x
+- id: h_0425
+  name: +a->o
+  left: ''
+  right: a
+  output: o
+  category: vowel
+  notes: observed 1x
+- id: h_0426
+  name: Am+->aM
+  left: Am
+  right: ''
+  output: aM
+  category: nasal
+  notes: observed 1x
+- id: h_0427
+  name: yam+->ayam
+  left: yam
+  right: ''
+  output: ayam
+  category: nasal
+  notes: observed 1x
+- id: h_0428
+  name: t+->vAc
+  left: t
+  right: ''
+  output: vAc
+  category: consonant
+  notes: observed 1x
+- id: h_0429
+  name: E+->y
+  left: E
+  right: ''
+  output: y
+  category: vowel
+  notes: observed 1x
+- id: h_0430
+  name: a+a->AM
+  left: a
+  right: a
+  output: AM
+  category: vowel
+  notes: observed 1x
+- id: h_0431
+  name: m+eva->M
+  left: m
+  right: eva
+  output: M
+  category: nasal
+  notes: observed 1x
+- id: h_0432
+  name: +pa->pU
+  left: ''
+  right: pa
+  output: pU
+  category: consonant
+  notes: observed 1x
+- id: h_0433
+  name: ya+a->ayA
+  left: ya
+  right: a
+  output: ayA
+  category: vowel
+  notes: observed 1x
+- id: h_0434
+  name: t+da->ddaR
+  left: t
+  right: da
+  output: ddaR
+  category: consonant
+  notes: observed 1x
+- id: h_0435
+  name: pi+->v
+  left: pi
+  right: ''
+  output: v
+  category: vowel
+  notes: observed 1x
+- id: h_0436
+  name: t+Sar->cC
+  left: t
+  right: Sar
+  output: cC
+  category: consonant
+  notes: observed 1x
+- id: h_0437
+  name: vat+->d
+  left: vat
+  right: ''
+  output: d
+  category: consonant
+  notes: observed 1x
+- id: h_0438
+  name: aka+i->e
+  left: aka
+  right: i
+  output: e
+  category: vowel
+  notes: observed 1x
+- id: h_0439
+  name: t+e->da
+  left: t
+  right: e
+  output: da
+  category: consonant
+  notes: observed 1x
+- id: h_0440
+  name: m+ni->Mna
+  left: m
+  right: ni
+  output: Mna
+  category: nasal
+  notes: observed 1x
+- id: h_0441
+  name: +A->kA
+  left: ''
+  right: A
+  output: kA
+  category: vowel
+  notes: observed 1x
+- id: h_0442
+  name: t+v->dB
+  left: t
+  right: v
+  output: dB
+  category: consonant
+  notes: observed 1x
+- id: h_0443
+  name: fH+u->urU
+  left: fH
+  right: u
+  output: urU
+  category: visarga
+  notes: observed 1x
+- id: h_0444
+  name: ena+->En
+  left: ena
+  right: ''
+  output: En
+  category: vowel
+  notes: observed 1x
+- id: h_0445
+  name: aH+u->os
+  left: aH
+  right: u
+  output: os
+  category: visarga
+  notes: observed 1x
+- id: h_0446
+  name: idO+->Av
+  left: idO
+  right: ''
+  output: Av
+  category: vowel
+  notes: observed 1x
+- id: h_0447
+  name: i+Adi->yA
+  left: i
+  right: Adi
+  output: yA
+  category: vowel
+  notes: observed 1x
+- id: h_0448
+  name: +t->tat
+  left: ''
+  right: t
+  output: tat
+  category: consonant
+  notes: observed 1x
+- id: h_0449
+  name: i+AkA->yAka
+  left: i
+  right: AkA
+  output: yAka
+  category: vowel
+  notes: observed 1x
+- id: h_0450
+  name: i+a->yaM
+  left: i
+  right: a
+  output: yaM
+  category: vowel
+  notes: observed 1x
+- id: h_0451
+  name: O+->ov
+  left: O
+  right: ''
+  output: ov
+  category: vowel
+  notes: observed 1x
+- id: h_0452
+  name: a+ava->Avac
+  left: a
+  right: ava
+  output: Avac
+  category: vowel
+  notes: observed 1x
+- id: h_0453
+  name: am+->Anum
+  left: am
+  right: ''
+  output: Anum
+  category: nasal
+  notes: observed 1x
+- id: h_0454
+  name: t+->rac
+  left: t
+  right: ''
+  output: rac
+  category: consonant
+  notes: observed 1x
+- id: h_0455
+  name: Ya+a->cA
+  left: Ya
+  right: a
+  output: cA
+  category: vowel
+  notes: observed 1x
+- id: h_0456
+  name: i+i->ye
+  left: i
+  right: i
+  output: ye
+  category: vowel
+  notes: observed 1x
+- id: h_0457
+  name: t+i->
+  left: t
+  right: i
+  output: ''
+  category: consonant
+  notes: observed 1x
+- id: h_0458
+  name: t+upa->du
+  left: t
+  right: upa
+  output: du
+  category: consonant
+  notes: observed 1x
+- id: h_0459
+  name: m+me->MmeM
+  left: m
+  right: me
+  output: MmeM
+  category: nasal
+  notes: observed 1x
+- id: h_0460
+  name: a+api->A
+  left: a
+  right: api
+  output: A
+  category: vowel
+  notes: observed 1x
+- id: h_0461
+  name: +i->itya
+  left: ''
+  right: i
+  output: itya
+  category: vowel
+  notes: observed 1x
+- id: h_0462
+  name: ti+anu->nuya
+  left: ti
+  right: anu
+  output: nuya
+  category: vowel
+  notes: observed 1x
+- id: h_0463
+  name: a+At->Atma
+  left: a
+  right: At
+  output: Atma
+  category: vowel
+  notes: observed 1x
+- id: h_0464
+  name: +i->tI
+  left: ''
+  right: i
+  output: tI
+  category: vowel
+  notes: observed 1x
+- id: h_0465
+  name: m+->M+
+  left: m
+  right: ''
+  output: M+
+  category: nasal
+  notes: observed 1x
+- id: h_0466
+  name: ni+->M
+  left: ni
+  right: ''
+  output: M
+  category: vowel
+  notes: observed 1x
+- id: h_0467
+  name: t+B->dBi
+  left: t
+  right: B
+  output: dBi
+  category: consonant
+  notes: observed 1x
+- id: h_0468
+  name: ti+->ny
+  left: ti
+  right: ''
+  output: ny
+  category: vowel
+  notes: observed 1x
+- id: h_0469
+  name: a+a->es
+  left: a
+  right: a
+  output: es
+  category: vowel
+  notes: observed 1x
+- id: h_0470
+  name: +AMg->Amga
+  left: ''
+  right: AMg
+  output: Amga
+  category: vowel
+  notes: observed 1x
+- id: h_0471
+  name: H+av->var
+  left: H
+  right: av
+  output: var
+  category: visarga
+  notes: observed 1x
+- id: h_0472
+  name: EH+->arEr
+  left: EH
+  right: ''
+  output: arEr
+  category: visarga
+  notes: observed 1x
+- id: h_0473
+  name: H+a->S
+  left: H
+  right: a
+  output: S
+  category: visarga
+  notes: observed 1x
+- id: h_0474
+  name: +agn->gr
+  left: ''
+  right: agn
+  output: gr
+  category: vowel
+  notes: observed 1x
+- id: h_0475
+  name: +al->
+  left: ''
+  right: al
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0476
+  name: a+as->A
+  left: a
+  right: as
+  output: A
+  category: vowel
+  notes: observed 1x
+- id: h_0477
+  name: At+->at
+  left: At
+  right: ''
+  output: at
+  category: consonant
+  notes: observed 1x
+- id: h_0478
+  name: t+->dyan
+  left: t
+  right: ''
+  output: dyan
+  category: consonant
+  notes: observed 1x
+- id: h_0479
+  name: ayA+a->A
+  left: ayA
+  right: a
+  output: A
+  category: vowel
+  notes: observed 1x
+- id: h_0480
+  name: +tat->tad
+  left: ''
+  right: tat
+  output: tad
+  category: consonant
+  notes: observed 1x
+- id: h_0481
+  name: a+a->nnA
+  left: a
+  right: a
+  output: nnA
+  category: vowel
+  notes: observed 1x
+- id: h_0482
+  name: anA+e->enE
+  left: anA
+  right: e
+  output: enE
+  category: vowel
+  notes: observed 1x
+- id: h_0483
+  name: +m->am
+  left: ''
+  right: m
+  output: am
+  category: consonant
+  notes: observed 1x
+- id: h_0484
+  name: a+av->cAk
+  left: a
+  right: av
+  output: cAk
+  category: vowel
+  notes: observed 1x
+- id: h_0485
+  name: H+a->r
+  left: H
+  right: a
+  output: r
+  category: visarga
+  notes: observed 1x
+- id: h_0486
+  name: m+->tam
+  left: m
+  right: ''
+  output: tam
+  category: nasal
+  notes: observed 1x
+- id: h_0487
+  name: O+->Ava
+  left: O
+  right: ''
+  output: Ava
+  category: vowel
+  notes: observed 1x
+- id: h_0488
+  name: a+->Ek
+  left: a
+  right: ''
+  output: Ek
+  category: vowel
+  notes: observed 1x
+- id: h_0489
+  name: kam+e->nE
+  left: kam
+  right: e
+  output: nE
+  category: nasal
+  notes: observed 1x
+- id: h_0490
+  name: m+ek->kim
+  left: m
+  right: ek
+  output: kim
+  category: nasal
+  notes: observed 1x
+- id: h_0491
+  name: m+->nam
+  left: m
+  right: ''
+  output: nam
+  category: nasal
+  notes: observed 1x
+- id: h_0492
+  name: H+ra->ru
+  left: H
+  right: ra
+  output: ru
+  category: visarga
+  notes: observed 1x
+- id: h_0493
+  name: H+maM->rman
+  left: H
+  right: maM
+  output: rman
+  category: visarga
+  notes: observed 1x
+- id: h_0494
+  name: +v->iv
+  left: ''
+  right: v
+  output: iv
+  category: consonant
+  notes: observed 1x
+- id: h_0495
+  name: +a->apa
+  left: ''
+  right: a
+  output: apa
+  category: vowel
+  notes: observed 1x
+- id: h_0496
+  name: t+aDu->dyan
+  left: t
+  right: aDu
+  output: dyan
+  category: consonant
+  notes: observed 1x
+- id: h_0497
+  name: +a->DunA
+  left: ''
+  right: a
+  output: DunA
+  category: vowel
+  notes: observed 1x
+- id: h_0498
+  name: +ek->ekam
+  left: ''
+  right: ek
+  output: ekam
+  category: vowel
+  notes: observed 1x
+- id: h_0499
+  name: m+->yam
+  left: m
+  right: ''
+  output: yam
+  category: nasal
+  notes: observed 1x
+- id: h_0500
+  name: yam+->may
+  left: yam
+  right: ''
+  output: may
+  category: nasal
+  notes: observed 1x
+- id: h_0501
+  name: ttO+a->rttO
+  left: ttO
+  right: a
+  output: rttO
+  category: vowel
+  notes: observed 1x
+- id: h_0502
+  name: +k->ak
+  left: ''
+  right: k
+  output: ak
+  category: consonant
+  notes: observed 1x
+- id: h_0503
+  name: +o->O
+  left: ''
+  right: o
+  output: O
+  category: vowel
+  notes: observed 1x
+- id: h_0504
+  name: vA+e->fvE
+  left: vA
+  right: e
+  output: fvE
+  category: vowel
+  notes: observed 1x
+- id: h_0505
+  name: H+ta->stat
+  left: H
+  right: ta
+  output: stat
+  category: visarga
+  notes: observed 1x
+- id: h_0506
+  name: +asm->asy
+  left: ''
+  right: asm
+  output: asy
+  category: vowel
+  notes: observed 1x
+- id: h_0507
+  name: O+ap->Apav
+  left: O
+  right: ap
+  output: Apav
+  category: vowel
+  notes: observed 1x
+- id: h_0508
+  name: a+->nne
+  left: a
+  right: ''
+  output: nne
+  category: vowel
+  notes: observed 1x
+- id: h_0509
+  name: ayA+a->AyA
+  left: ayA
+  right: a
+  output: AyA
+  category: vowel
+  notes: observed 1x
+- id: h_0510
+  name: H+->Sca
+  left: H
+  right: ''
+  output: Sca
+  category: visarga
+  notes: observed 1x
+- id: h_0511
+  name: BiH+->rBir
+  left: BiH
+  right: ''
+  output: rBir
+  category: visarga
+  notes: observed 1x
+- id: h_0512
+  name: +id->idr
+  left: ''
+  right: id
+  output: idr
+  category: vowel
+  notes: observed 1x
+- id: h_0513
+  name: AH+->aS
+  left: AH
+  right: ''
+  output: aS
+  category: visarga
+  notes: observed 1x
+- id: h_0514
+  name: aH+akz->oB
+  left: aH
+  right: akz
+  output: oB
+  category: visarga
+  notes: observed 1x
+- id: h_0515
+  name: H+ka->
+  left: H
+  right: ka
+  output: ''
+  category: visarga
+  notes: observed 1x
+- id: h_0516
+  name: t+ci->
+  left: t
+  right: ci
+  output: ''
+  category: consonant
+  notes: observed 1x
+- id: h_0517
+  name: u+->U
+  left: u
+  right: ''
+  output: U
+  category: vowel
+  notes: observed 1x
+- id: h_0518
+  name: +m->prAm
+  left: ''
+  right: m
+  output: prAm
+  category: consonant
+  notes: observed 1x
+- id: h_0519
+  name: H+->stu
+  left: H
+  right: ''
+  output: stu
+  category: visarga
+  notes: observed 1x
+- id: h_0520
+  name: aH+as->ok
+  left: aH
+  right: as
+  output: ok
+  category: visarga
+  notes: observed 1x
+- id: h_0521
+  name: m+->lam
+  left: m
+  right: ''
+  output: lam
+  category: nasal
+  notes: observed 1x
+- id: h_0522
+  name: H+dv->rdb
+  left: H
+  right: dv
+  output: rdb
+  category: visarga
+  notes: observed 1x
+- id: h_0523
+  name: a+utS->ocC
+  left: a
+  right: utS
+  output: ocC
+  category: vowel
+  notes: observed 1x
+- id: h_0524
+  name: a+AsA->Asa
+  left: a
+  right: AsA
+  output: Asa
+  category: vowel
+  notes: observed 1x
+- id: h_0525
+  name: H+vi->vir
+  left: H
+  right: vi
+  output: vir
+  category: visarga
+  notes: observed 1x
+- id: h_0526
+  name: +e->i
+  left: ''
+  right: e
+  output: i
+  category: vowel
+  notes: observed 1x
+- id: h_0527
+  name: dA+->l
+  left: dA
+  right: ''
+  output: l
+  category: vowel
+  notes: observed 1x
+- id: h_0528
+  name: +k->Ak
+  left: ''
+  right: k
+  output: Ak
+  category: consonant
+  notes: observed 1x
+- id: h_0529
+  name: t+a->ccA
+  left: t
+  right: a
+  output: ccA
+  category: consonant
+  notes: observed 1x
+- id: h_0530
+  name: +a->Atra
+  left: ''
+  right: a
+  output: Atra
+  category: vowel
+  notes: observed 1x
+- id: h_0531
+  name: asA+->As
+  left: asA
+  right: ''
+  output: As
+  category: vowel
+  notes: observed 1x
+- id: h_0532
+  name: vam+a->me
+  left: vam
+  right: a
+  output: me
+  category: nasal
+  notes: observed 1x
+- id: h_0533
+  name: u+b->v
+  left: u
+  right: b
+  output: v
+  category: vowel
+  notes: observed 1x
+- id: h_0534
+  name: +v->Mv
+  left: ''
+  right: v
+  output: Mv
+  category: consonant
+  notes: observed 1x
+- id: h_0535
+  name: i+i->yeve
+  left: i
+  right: i
+  output: yeve
+  category: vowel
+  notes: observed 1x
+- id: h_0536
+  name: ntu+->Mntv
+  left: ntu
+  right: ''
+  output: Mntv
+  category: vowel
+  notes: observed 1x
+- id: h_0537
+  name: vA+e->E
+  left: vA
+  right: e
+  output: E
+  category: vowel
+  notes: observed 1x
+- id: h_0538
+  name: aH+va->ovar
+  left: aH
+  right: va
+  output: ovar
+  category: visarga
+  notes: observed 1x
+- id: h_0539
+  name: i+a->o
+  left: i
+  right: a
+  output: o
+  category: vowel
+  notes: observed 1x
+- id: h_0540
+  name: u+->vi
+  left: u
+  right: ''
+  output: vi
+  category: vowel
+  notes: observed 1x
+- id: h_0541
+  name: t+->dav
+  left: t
+  right: ''
+  output: dav
+  category: consonant
+  notes: observed 1x
+- id: h_0542
+  name: t+->y
+  left: t
+  right: ''
+  output: y
+  category: consonant
+  notes: observed 1x
+- id: h_0543
+  name: A+eva->Evam
+  left: A
+  right: eva
+  output: Evam
+  category: vowel
+  notes: observed 1x
+- id: h_0544
+  name: a+aD->ADya
+  left: a
+  right: aD
+  output: ADya
+  category: vowel
+  notes: observed 1x
+- id: h_0545
+  name: +s->As
+  left: ''
+  right: s
+  output: As
+  category: consonant
+  notes: observed 1x
+- id: h_0546
+  name: +a->kadA
+  left: ''
+  right: a
+  output: kadA
+  category: vowel
+  notes: observed 1x
+- id: h_0547
+  name: +ut->utpa
+  left: ''
+  right: ut
+  output: utpa
+  category: vowel
+  notes: observed 1x
+- id: h_0548
+  name: ne+a->tre
+  left: ne
+  right: a
+  output: tre
+  category: vowel
+  notes: observed 1x
+- id: h_0549
+  name: i+ay->yah
+  left: i
+  right: ay
+  output: yah
+  category: vowel
+  notes: observed 1x
+- id: h_0550
+  name: u+eva->ve
+  left: u
+  right: eva
+  output: ve
+  category: vowel
+  notes: observed 1x
+- id: h_0551
+  name: t+t->d
+  left: t
+  right: t
+  output: d
+  category: consonant
+  notes: observed 1x
+- id: h_0552
+  name: tan+->nn
+  left: tan
+  right: ''
+  output: nn
+  category: nasal
+  notes: observed 1x
+- id: h_0553
+  name: t+->van
+  left: t
+  right: ''
+  output: van
+  category: consonant
+  notes: observed 1x
+- id: h_0554
+  name: +Ikz->IS
+  left: ''
+  right: Ikz
+  output: IS
+  category: vowel
+  notes: observed 1x
+- id: h_0555
+  name: tum+->rtum
+  left: tum
+  right: ''
+  output: rtum
+  category: nasal
+  notes: observed 1x
+- id: h_0556
+  name: a+y->
+  left: a
+  right: y
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0557
+  name: aH+->op
+  left: aH
+  right: ''
+  output: op
+  category: visarga
+  notes: observed 1x
+- id: h_0558
+  name: H+A->
+  left: H
+  right: A
+  output: ''
+  category: visarga
+  notes: observed 1x
+- id: h_0559
+  name: t+ja->cCA
+  left: t
+  right: ja
+  output: cCA
+  category: consonant
+  notes: observed 1x
+- id: h_0560
+  name: a+->nAtn
+  left: a
+  right: ''
+  output: nAtn
+  category: vowel
+  notes: observed 1x
+- id: h_0561
+  name: t+a->l
+  left: t
+  right: a
+  output: l
+  category: consonant
+  notes: observed 1x
+- id: h_0562
+  name: A+i->a
+  left: A
+  right: i
+  output: a
+  category: vowel
+  notes: observed 1x
+- id: h_0563
+  name: raH+->tro
+  left: raH
+  right: ''
+  output: tro
+  category: visarga
+  notes: observed 1x
+- id: h_0564
+  name: +aTa->To
+  left: ''
+  right: aTa
+  output: To
+  category: vowel
+  notes: observed 1x
+- id: h_0565
+  name: m+Kam->MKaM
+  left: m
+  right: Kam
+  output: MKaM
+  category: nasal
+  notes: observed 1x
+- id: h_0566
+  name: m+sOm->MsO
+  left: m
+  right: sOm
+  output: MsO
+  category: nasal
+  notes: observed 1x
+- id: h_0567
+  name: n+ti->stiM
+  left: n
+  right: ti
+  output: stiM
+  category: nasal
+  notes: observed 1x
+- id: h_0568
+  name: u+->tv
+  left: u
+  right: ''
+  output: tv
+  category: vowel
+  notes: observed 1x
+- id: h_0569
+  name: H+->rb
+  left: H
+  right: ''
+  output: rb
+  category: visarga
+  notes: observed 1x
+- id: h_0570
+  name: t+->g
+  left: t
+  right: ''
+  output: g
+  category: consonant
+  notes: observed 1x
+- id: h_0571
+  name: a+az->AS
+  left: a
+  right: az
+  output: AS
+  category: vowel
+  notes: observed 1x
+- id: h_0572
+  name: m+tat->Mta
+  left: m
+  right: tat
+  output: Mta
+  category: nasal
+  notes: observed 1x
+- id: h_0573
+  name: w+h->Q
+  left: w
+  right: h
+  output: Q
+  category: consonant
+  notes: observed 1x
+- id: h_0574
+  name: m+sr->Mst
+  left: m
+  right: sr
+  output: Mst
+  category: nasal
+  notes: observed 1x
+- id: h_0575
+  name: +B->MB
+  left: ''
+  right: B
+  output: MB
+  category: consonant
+  notes: observed 1x
+- id: h_0576
+  name: i+->yapy
+  left: i
+  right: ''
+  output: yapy
+  category: vowel
+  notes: observed 1x
+- id: h_0577
+  name: m+Sa->MSA
+  left: m
+  right: Sa
+  output: MSA
+  category: nasal
+  notes: observed 1x
+- id: h_0578
+  name: o+->av
+  left: o
+  right: ''
+  output: av
+  category: vowel
+  notes: observed 1x
+- id: h_0579
+  name: t+->dd
+  left: t
+  right: ''
+  output: dd
+  category: consonant
+  notes: observed 1x
+- id: h_0580
+  name: +aM->m
+  left: ''
+  right: aM
+  output: m
+  category: vowel
+  notes: observed 1x
+- id: h_0581
+  name: yA+u->o
+  left: yA
+  right: u
+  output: o
+  category: vowel
+  notes: observed 1x
+- id: h_0582
+  name: n+S->YcC
+  left: n
+  right: S
+  output: YcC
+  category: nasal
+  notes: observed 1x
+- id: h_0583
+  name: ca+e->SvE
+  left: ca
+  right: e
+  output: SvE
+  category: vowel
+  notes: observed 1x
+- id: h_0584
+  name: H+->ry
+  left: H
+  right: ''
+  output: ry
+  category: visarga
+  notes: observed 1x
+- id: h_0585
+  name: O+->AvAv
+  left: O
+  right: ''
+  output: AvAv
+  category: vowel
+  notes: observed 1x
+- id: h_0586
+  name: H+db->rdv
+  left: H
+  right: db
+  output: rdv
+  category: visarga
+  notes: observed 1x
+- id: h_0587
+  name: +d->agd
+  left: ''
+  right: d
+  output: agd
+  category: consonant
+  notes: observed 1x
+- id: h_0588
+  name: in+->In
+  left: in
+  right: ''
+  output: In
+  category: nasal
+  notes: observed 1x
+- id: h_0589
+  name: aH+->S
+  left: aH
+  right: ''
+  output: S
+  category: visarga
+  notes: observed 1x
+- id: h_0590
+  name: t+jva->jjvA
+  left: t
+  right: jva
+  output: jjvA
+  category: consonant
+  notes: observed 1x
+- id: h_0591
+  name: t+->rd
+  left: t
+  right: ''
+  output: rd
+  category: consonant
+  notes: observed 1x
+- id: h_0592
+  name: uu+u->U
+  left: uu
+  right: u
+  output: U
+  category: vowel
+  notes: observed 1x
+- id: h_0593
+  name: i+o->yO
+  left: i
+  right: o
+  output: yO
+  category: vowel
+  notes: observed 1x
+- id: h_0594
+  name: H+ca->Sci
+  left: H
+  right: ca
+  output: Sci
+  category: visarga
+  notes: observed 1x
+- id: h_0595
+  name: H+ji->rjI
+  left: H
+  right: ji
+  output: rjI
+  category: visarga
+  notes: observed 1x
+- id: h_0596
+  name: +sk->sP
+  left: ''
+  right: sk
+  output: sP
+  category: consonant
+  notes: observed 1x
+- id: h_0597
+  name: t+D->dG
+  left: t
+  right: D
+  output: dG
+  category: consonant
+  notes: observed 1x
+- id: h_0598
+  name: +st->sT
+  left: ''
+  right: st
+  output: sT
+  category: consonant
+  notes: observed 1x
+- id: h_0599
+  name: +aM->aN
+  left: ''
+  right: aM
+  output: aN
+  category: vowel
+  notes: observed 1x
+- id: h_0600
+  name: H+yo->ryu
+  left: H
+  right: yo
+  output: ryu
+  category: visarga
+  notes: observed 1x
+- id: h_0601
+  name: I+->
+  left: I
+  right: ''
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0602
+  name: t+e->ddE
+  left: t
+  right: e
+  output: ddE
+  category: consonant
+  notes: observed 1x
+- id: h_0603
+  name: um+->im
+  left: um
+  right: ''
+  output: im
+  category: nasal
+  notes: observed 1x
+- id: h_0604
+  name: t+->dvy
+  left: t
+  right: ''
+  output: dvy
+  category: consonant
+  notes: observed 1x
+- id: h_0605
+  name: api+->zy
+  left: api
+  right: ''
+  output: zy
+  category: vowel
+  notes: observed 1x
+- id: h_0606
+  name: waH+->WaS
+  left: waH
+  right: ''
+  output: WaS
+  category: visarga
+  notes: observed 1x
+- id: h_0607
+  name: t+ja->jjA
+  left: t
+  right: ja
+  output: jjA
+  category: consonant
+  notes: observed 1x
+- id: h_0608
+  name: cit+->Scid
+  left: cit
+  right: ''
+  output: Scid
+  category: consonant
+  notes: observed 1x
+- id: h_0609
+  name: t+->d+
+  left: t
+  right: ''
+  output: d+
+  category: consonant
+  notes: observed 1x
+- id: h_0610
+  name: t+Sru->cCf
+  left: t
+  right: Sru
+  output: cCf
+  category: consonant
+  notes: observed 1x
+- id: h_0611
+  name: H+u->
+  left: H
+  right: u
+  output: ''
+  category: visarga
+  notes: observed 1x
+- id: h_0612
+  name: yam+->iyam
+  left: yam
+  right: ''
+  output: iyam
+  category: nasal
+  notes: observed 1x
+- id: h_0613
+  name: Im+->am
+  left: Im
+  right: ''
+  output: am
+  category: nasal
+  notes: observed 1x
+- id: h_0614
+  name: +n->na
+  left: ''
+  right: n
+  output: na
+  category: consonant
+  notes: observed 1x
+- id: h_0615
+  name: t+anu->dUna
+  left: t
+  right: anu
+  output: dUna
+  category: consonant
+  notes: observed 1x
+- id: h_0616
+  name: +B->aB
+  left: ''
+  right: B
+  output: aB
+  category: consonant
+  notes: observed 1x
+- id: h_0617
+  name: uH+->fr
+  left: uH
+  right: ''
+  output: fr
+  category: visarga
+  notes: observed 1x
+- id: h_0618
+  name: E+->A
+  left: E
+  right: ''
+  output: A
+  category: vowel
+  notes: observed 1x
+- id: h_0619
+  name: H+j->rd
+  left: H
+  right: j
+  output: rd
+  category: visarga
+  notes: observed 1x
+- id: h_0620
+  name: +Ar->A
+  left: ''
+  right: Ar
+  output: A
+  category: vowel
+  notes: observed 1x
+- id: h_0621
+  name: m+e->
+  left: m
+  right: e
+  output: ''
+  category: nasal
+  notes: observed 1x
+- id: h_0622
+  name: I+i->ye
+  left: I
+  right: i
+  output: ye
+  category: vowel
+  notes: observed 1x
+- id: h_0623
+  name: i+a->I
+  left: i
+  right: a
+  output: I
+  category: vowel
+  notes: observed 1x
+- id: h_0624
+  name: eva+a->nevA
+  left: eva
+  right: a
+  output: nevA
+  category: vowel
+  notes: observed 1x
+- id: h_0625
+  name: +y->+y
+  left: ''
+  right: y
+  output: +y
+  category: consonant
+  notes: observed 1x
+- id: h_0626
+  name: t+a->du
+  left: t
+  right: a
+  output: du
+  category: consonant
+  notes: observed 1x
+- id: h_0627
+  name: t+t->dd
+  left: t
+  right: t
+  output: dd
+  category: consonant
+  notes: observed 1x
+- id: h_0628
+  name: m+->Ml
+  left: m
+  right: ''
+  output: Ml
+  category: nasal
+  notes: observed 1x
+- id: h_0629
+  name: At+->akAn
+  left: At
+  right: ''
+  output: akAn
+  category: consonant
+  notes: observed 1x
+- id: h_0630
+  name: na+i->e
+  left: na
+  right: i
+  output: e
+  category: vowel
+  notes: observed 1x
+- id: h_0631
+  name: +ta->tA
+  left: ''
+  right: ta
+  output: tA
+  category: consonant
+  notes: observed 1x
+- id: h_0632
+  name: m+s->Msav
+  left: m
+  right: s
+  output: Msav
+  category: nasal
+  notes: observed 1x
+- id: h_0633
+  name: +C->c
+  left: ''
+  right: C
+  output: c
+  category: consonant
+  notes: observed 1x
+- id: h_0634
+  name: t+SA->cCa
+  left: t
+  right: SA
+  output: cCa
+  category: consonant
+  notes: observed 1x
+- id: h_0635
+  name: aH+t->
+  left: aH
+  right: t
+  output: ''
+  category: visarga
+  notes: observed 1x
+- id: h_0636
+  name: H+Be->Ba
+  left: H
+  right: Be
+  output: Ba
+  category: visarga
+  notes: observed 1x
+- id: h_0637
+  name: ede+a->ade
+  left: ede
+  right: a
+  output: ade
+  category: vowel
+  notes: observed 1x
+- id: h_0638
+  name: i+->vity
+  left: i
+  right: ''
+  output: vity
+  category: vowel
+  notes: observed 1x
+- id: h_0639
+  name: O+->uv
+  left: O
+  right: ''
+  output: uv
+  category: vowel
+  notes: observed 1x
+- id: h_0640
+  name: t+->dD
+  left: t
+  right: ''
+  output: dD
+  category: consonant
+  notes: observed 1x
+- id: h_0641
+  name: na+->MS
+  left: na
+  right: ''
+  output: MS
+  category: vowel
+  notes: observed 1x
+- id: h_0642
+  name: raH+->o
+  left: raH
+  right: ''
+  output: o
+  category: visarga
+  notes: observed 1x
+- id: h_0643
+  name: t+->cCa
+  left: t
+  right: ''
+  output: cCa
+  category: consonant
+  notes: observed 1x
+- id: h_0644
+  name: aam+->HaaM
+  left: aam
+  right: ''
+  output: HaaM
+  category: nasal
+  notes: observed 1x
+- id: h_0645
+  name: t+A->nna
+  left: t
+  right: A
+  output: nna
+  category: consonant
+  notes: observed 1x
+- id: h_0646
+  name: H+D->rT
+  left: H
+  right: D
+  output: rT
+  category: visarga
+  notes: observed 1x
+- id: h_0647
+  name: H+eva->evaH
+  left: H
+  right: eva
+  output: evaH
+  category: visarga
+  notes: observed 1x
+- id: h_0648
+  name: H+bO->rbo
+  left: H
+  right: bO
+  output: rbo
+  category: visarga
+  notes: observed 1x
+- id: h_0649
+  name: tak+->n
+  left: tak
+  right: ''
+  output: n
+  category: consonant
+  notes: observed 1x
+- id: h_0650
+  name: t+yug->dyut
+  left: t
+  right: yug
+  output: dyut
+  category: consonant
+  notes: observed 1x
+- id: h_0651
+  name: t+Srf->cCru
+  left: t
+  right: Srf
+  output: cCru
+  category: consonant
+  notes: observed 1x
+- id: h_0652
+  name: a+->As
+  left: a
+  right: ''
+  output: As
+  category: vowel
+  notes: observed 1x
+- id: h_0653
+  name: AH+->o
+  left: AH
+  right: ''
+  output: o
+  category: visarga
+  notes: observed 1x
+- id: h_0654
+  name: taH+->c
+  left: taH
+  right: ''
+  output: c
+  category: visarga
+  notes: observed 1x
+- id: h_0655
+  name: ati+->y
+  left: ati
+  right: ''
+  output: y
+  category: vowel
+  notes: observed 1x
+- id: h_0656
+  name: H+vA->
+  left: H
+  right: vA
+  output: ''
+  category: visarga
+  notes: observed 1x
+- id: h_0657
+  name: +u->pyu
+  left: ''
+  right: u
+  output: pyu
+  category: vowel
+  notes: observed 1x
+- id: h_0658
+  name: O+->Avev
+  left: O
+  right: ''
+  output: Avev
+  category: vowel
+  notes: observed 1x
+- id: h_0659
+  name: t+->cc
+  left: t
+  right: ''
+  output: cc
+  category: consonant
+  notes: observed 1x
+- id: h_0660
+  name: Hf+->
+  left: Hf
+  right: ''
+  output: ''
+  category: visarga
+  notes: observed 1x
+- id: h_0661
+  name: H+d->rdvi
+  left: H
+  right: d
+  output: rdvi
+  category: visarga
+  notes: observed 1x
+- id: h_0662
+  name: m+ka->MkA
+  left: m
+  right: ka
+  output: MkA
+  category: nasal
+  notes: observed 1x
+- id: h_0663
+  name: d+a->
+  left: d
+  right: a
+  output: ''
+  category: consonant
+  notes: observed 1x
+- id: h_0664
+  name: +a->i
+  left: ''
+  right: a
+  output: i
+  category: vowel
+  notes: observed 1x
+- id: h_0665
+  name: aH+yaT->oyaD
+  left: aH
+  right: yaT
+  output: oyaD
+  category: visarga
+  notes: observed 1x
+- id: h_0666
+  name: gam+->Mgam
+  left: gam
+  right: ''
+  output: Mgam
+  category: nasal
+  notes: observed 1x
+- id: h_0667
+  name: m+paY->MpaM
+  left: m
+  right: paY
+  output: MpaM
+  category: nasal
+  notes: observed 1x
+- id: h_0668
+  name: iva+->
+  left: iva
+  right: ''
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0669
+  name: H+an->ram
+  left: H
+  right: an
+  output: ram
+  category: visarga
+  notes: observed 1x
+- id: h_0670
+  name: yaH+->s
+  left: yaH
+  right: ''
+  output: s
+  category: visarga
+  notes: observed 1x
+- id: h_0671
+  name: Yca+a->McA
+  left: Yca
+  right: a
+  output: McA
+  category: vowel
+  notes: observed 1x
+- id: h_0672
+  name: m+->MvAM
+  left: m
+  right: ''
+  output: MvAM
+  category: nasal
+  notes: observed 1x
+- id: h_0673
+  name: i+idA->IdI
+  left: i
+  right: idA
+  output: IdI
+  category: vowel
+  notes: observed 1x
+- id: h_0674
+  name: t+a->n
+  left: t
+  right: a
+  output: n
+  category: consonant
+  notes: observed 1x
+- id: h_0675
+  name: i+p->
+  left: i
+  right: p
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0676
+  name: t+vy->dv
+  left: t
+  right: vy
+  output: dv
+  category: consonant
+  notes: observed 1x
+- id: h_0677
+  name: a+->nAnn
+  left: a
+  right: ''
+  output: nAnn
+  category: vowel
+  notes: observed 1x
+- id: h_0678
+  name: +ni->na
+  left: ''
+  right: ni
+  output: na
+  category: consonant
+  notes: observed 1x
+- id: h_0679
+  name: H+->pr
+  left: H
+  right: ''
+  output: pr
+  category: visarga
+  notes: observed 1x
+- id: h_0680
+  name: ntu+u->MtU
+  left: ntu
+  right: u
+  output: MtU
+  category: vowel
+  notes: observed 1x
+- id: h_0681
+  name: cit+->Mcil
+  left: cit
+  right: ''
+  output: Mcil
+  category: consonant
+  notes: observed 1x
+- id: h_0682
+  name: naH+->r
+  left: naH
+  right: ''
+  output: r
+  category: visarga
+  notes: observed 1x
+- id: h_0683
+  name: ita+->aty
+  left: ita
+  right: ''
+  output: aty
+  category: vowel
+  notes: observed 1x
+- id: h_0684
+  name: jYA+i->MjYe
+  left: jYA
+  right: i
+  output: MjYe
+  category: vowel
+  notes: observed 1x
+- id: h_0685
+  name: H+adf->rada
+  left: H
+  right: adf
+  output: rada
+  category: visarga
+  notes: observed 1x
+- id: h_0686
+  name: i+a->yu
+  left: i
+  right: a
+  output: yu
+  category: vowel
+  notes: observed 1x
+- id: h_0687
+  name: i+->vay
+  left: i
+  right: ''
+  output: vay
+  category: vowel
+  notes: observed 1x
+- id: h_0688
+  name: a+a->ivA
+  left: a
+  right: a
+  output: ivA
+  category: vowel
+  notes: observed 1x
+- id: h_0689
+  name: u+->viv
+  left: u
+  right: ''
+  output: viv
+  category: vowel
+  notes: observed 1x
+- id: h_0690
+  name: ld+->ty
+  left: ld
+  right: ''
+  output: ty
+  category: consonant
+  notes: observed 1x
+- id: h_0691
+  name: m+ca->YcA
+  left: m
+  right: ca
+  output: YcA
+  category: nasal
+  notes: observed 1x
+- id: h_0692
+  name: t+du->dda
+  left: t
+  right: du
+  output: dda
+  category: consonant
+  notes: observed 1x
+- id: h_0693
+  name: Hca+a->ScA
+  left: Hca
+  right: a
+  output: ScA
+  category: visarga
+  notes: observed 1x
+- id: h_0694
+  name: +api->pya
+  left: ''
+  right: api
+  output: pya
+  category: vowel
+  notes: observed 1x
+- id: h_0695
+  name: t+BA->dga
+  left: t
+  right: BA
+  output: dga
+  category: consonant
+  notes: observed 1x
+- id: h_0696
+  name: nya+->l
+  left: nya
+  right: ''
+  output: l
+  category: vowel
+  notes: observed 1x
+- id: h_0697
+  name: t+jY->jj
+  left: t
+  right: jY
+  output: jj
+  category: consonant
+  notes: observed 1x
+- id: h_0698
+  name: A+c->
+  left: A
+  right: c
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0699
+  name: u+a->ve
+  left: u
+  right: a
+  output: ve
+  category: vowel
+  notes: observed 1x
+- id: h_0700
+  name: H+ve->rvi
+  left: H
+  right: ve
+  output: rvi
+  category: visarga
+  notes: observed 1x
+- id: h_0701
+  name: I+i->E
+  left: I
+  right: i
+  output: E
+  category: vowel
+  notes: observed 1x
+- id: h_0702
+  name: zAm+->SAm
+  left: zAm
+  right: ''
+  output: SAm
+  category: nasal
+  notes: observed 1x
+- id: h_0703
+  name: m+ye->Mya
+  left: m
+  right: ye
+  output: Mya
+  category: nasal
+  notes: observed 1x
+- id: h_0704
+  name: azu+->ezv
+  left: azu
+  right: ''
+  output: ezv
+  category: vowel
+  notes: observed 1x
+- id: h_0705
+  name: +pu->pura
+  left: ''
+  right: pu
+  output: pura
+  category: consonant
+  notes: observed 1x
+- id: h_0706
+  name: Eva+->ev
+  left: Eva
+  right: ''
+  output: ev
+  category: vowel
+  notes: observed 1x
+- id: h_0707
+  name: d+bah->D
+  left: d
+  right: bah
+  output: D
+  category: consonant
+  notes: observed 1x
+- id: h_0708
+  name: +e->yE
+  left: ''
+  right: e
+  output: yE
+  category: vowel
+  notes: observed 1x
+- id: h_0709
+  name: i+at->
+  left: i
+  right: at
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0710
+  name: A+e->ayE
+  left: A
+  right: e
+  output: ayE
+  category: vowel
+  notes: observed 1x
+- id: h_0711
+  name: a+av->
+  left: a
+  right: av
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0712
+  name: iy+->eyam
+  left: iy
+  right: ''
+  output: eyam
+  category: consonant
+  notes: observed 1x
+- id: h_0713
+  name: t+duH->ddu
+  left: t
+  right: duH
+  output: ddu
+  category: consonant
+  notes: observed 1x
+- id: h_0714
+  name: +iva->ivaM
+  left: ''
+  right: iva
+  output: ivaM
+  category: vowel
+  notes: observed 1x
+- id: h_0715
+  name: aH+mAm->omAM
+  left: aH
+  right: mAm
+  output: omAM
+  category: visarga
+  notes: observed 1x
+- id: h_0716
+  name: +upa->u
+  left: ''
+  right: upa
+  output: u
+  category: vowel
+  notes: observed 1x
+- id: h_0717
+  name: tam+->n
+  left: tam
+  right: ''
+  output: n
+  category: nasal
+  notes: observed 1x
+- id: h_0718
+  name: +t->+t
+  left: ''
+  right: t
+  output: +t
+  category: consonant
+  notes: observed 1x
+- id: h_0719
+  name: +g->+g
+  left: ''
+  right: g
+  output: +g
+  category: consonant
+  notes: observed 1x
+- id: h_0720
+  name: m+->S
+  left: m
+  right: ''
+  output: S
+  category: nasal
+  notes: observed 1x
+- id: h_0721
+  name: nAm+->mAm
+  left: nAm
+  right: ''
+  output: mAm
+  category: nasal
+  notes: observed 1x
+- id: h_0722
+  name: ham+->sm
+  left: ham
+  right: ''
+  output: sm
+  category: nasal
+  notes: observed 1x
+- id: h_0723
+  name: a+Avf->Ava
+  left: a
+  right: Avf
+  output: Ava
+  category: vowel
+  notes: observed 1x
+- id: h_0724
+  name: H+tAm->stAM
+  left: H
+  right: tAm
+  output: stAM
+  category: visarga
+  notes: observed 1x
+- id: h_0725
+  name: a+asy->AsT
+  left: a
+  right: asy
+  output: AsT
+  category: vowel
+  notes: observed 1x
+- id: h_0726
+  name: m+->paM
+  left: m
+  right: ''
+  output: paM
+  category: nasal
+  notes: observed 1x
+- id: h_0727
+  name: A+iva->evaM
+  left: A
+  right: iva
+  output: evaM
+  category: vowel
+  notes: observed 1x
+- id: h_0728
+  name: i+A->yAsa
+  left: i
+  right: A
+  output: yAsa
+  category: vowel
+  notes: observed 1x
+- id: h_0729
+  name: fhO+->ahAv
+  left: fhO
+  right: ''
+  output: ahAv
+  category: vowel
+  notes: observed 1x
+- id: h_0730
+  name: +a->ma
+  left: ''
+  right: a
+  output: ma
+  category: vowel
+  notes: observed 1x
+- id: h_0731
+  name: A+->a
+  left: A
+  right: ''
+  output: a
+  category: vowel
+  notes: observed 1x
+- id: h_0732
+  name: a+iN->eM
+  left: a
+  right: iN
+  output: eM
+  category: vowel
+  notes: observed 1x
+- id: h_0733
+  name: a+udb->odg
+  left: a
+  right: udb
+  output: odg
+  category: vowel
+  notes: observed 1x
+- id: h_0734
+  name: m+ta->M
+  left: m
+  right: ta
+  output: M
+  category: nasal
+  notes: observed 1x
+- id: h_0735
+  name: t+ru->drU
+  left: t
+  right: ru
+  output: drU
+  category: consonant
+  notes: observed 1x
+- id: h_0736
+  name: m+tAm->MtAM
+  left: m
+  right: tAm
+  output: MtAM
+  category: nasal
+  notes: observed 1x
+- id: h_0737
+  name: dam+->
+  left: dam
+  right: ''
+  output: ''
+  category: nasal
+  notes: observed 1x
+- id: h_0738
+  name: +u->Mno
+  left: ''
+  right: u
+  output: Mno
+  category: vowel
+  notes: observed 1x
+- id: h_0739
+  name: H+tEH->stE
+  left: H
+  right: tEH
+  output: stE
+  category: visarga
+  notes: observed 1x
+- id: h_0740
+  name: m+->c
+  left: m
+  right: ''
+  output: c
+  category: nasal
+  notes: observed 1x
+- id: h_0741
+  name: +aB->aBav
+  left: ''
+  right: aB
+  output: aBav
+  category: vowel
+  notes: observed 1x
+- id: h_0742
+  name: aH+->ir
+  left: aH
+  right: ''
+  output: ir
+  category: visarga
+  notes: observed 1x
+- id: h_0743
+  name: +eka->ekaM
+  left: ''
+  right: eka
+  output: ekaM
+  category: vowel
+  notes: observed 1x
+- id: h_0744
+  name: m+ced->M
+  left: m
+  right: ced
+  output: M
+  category: nasal
+  notes: observed 1x
+- id: h_0745
+  name: H+tat->stal
+  left: H
+  right: tat
+  output: stal
+  category: visarga
+  notes: observed 1x
+- id: h_0746
+  name: n+->MMs
+  left: n
+  right: ''
+  output: MMs
+  category: nasal
+  notes: observed 1x
+- id: h_0747
+  name: tat+->d
+  left: tat
+  right: ''
+  output: d
+  category: consonant
+  notes: observed 1x
+- id: h_0748
+  name: ava+->Av
+  left: ava
+  right: ''
+  output: Av
+  category: vowel
+  notes: observed 1x
+- id: h_0749
+  name: +a->py
+  left: ''
+  right: a
+  output: py
+  category: vowel
+  notes: observed 1x
+- id: h_0750
+  name: pi+eza->ezaH
+  left: pi
+  right: eza
+  output: ezaH
+  category: vowel
+  notes: observed 1x
+- id: h_0751
+  name: ena+e->E
+  left: ena
+  right: e
+  output: E
+  category: vowel
+  notes: observed 1x
+- id: h_0752
+  name: aH+i->I
+  left: aH
+  right: i
+  output: I
+  category: visarga
+  notes: observed 1x
+- id: h_0753
+  name: H+ezA->reza
+  left: H
+  right: ezA
+  output: reza
+  category: visarga
+  notes: observed 1x
+- id: h_0754
+  name: t+aDa->daDo
+  left: t
+  right: aDa
+  output: daDo
+  category: consonant
+  notes: observed 1x
+- id: h_0755
+  name: +f->
+  left: ''
+  right: f
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0756
+  name: +h->rh
+  left: ''
+  right: h
+  output: rh
+  category: consonant
+  notes: observed 1x
+- id: h_0757
+  name: A+e->yE
+  left: A
+  right: e
+  output: yE
+  category: vowel
+  notes: observed 1x
+- id: h_0758
+  name: m+t->nn
+  left: m
+  right: t
+  output: nn
+  category: nasal
+  notes: observed 1x
+- id: h_0759
+  name: +ag->
+  left: ''
+  right: ag
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0760
+  name: +e->ae
+  left: ''
+  right: e
+  output: ae
+  category: vowel
+  notes: observed 1x
+- id: h_0761
+  name: +anE->ane
+  left: ''
+  right: anE
+  output: ane
+  category: vowel
+  notes: observed 1x
+- id: h_0762
+  name: em+->aM
+  left: em
+  right: ''
+  output: aM
+  category: nasal
+  notes: observed 1x
+- id: h_0763
+  name: +sA->sa
+  left: ''
+  right: sA
+  output: sa
+  category: consonant
+  notes: observed 1x
+- id: h_0764
+  name: m+naH->Mno
+  left: m
+  right: naH
+  output: Mno
+  category: nasal
+  notes: observed 1x
+- id: h_0765
+  name: a+ev->en
+  left: a
+  right: ev
+  output: en
+  category: vowel
+  notes: observed 1x
+- id: h_0766
+  name: t+u->de
+  left: t
+  right: u
+  output: de
+  category: consonant
+  notes: observed 1x
+- id: h_0767
+  name: m+cal->Mcar
+  left: m
+  right: cal
+  output: Mcar
+  category: nasal
+  notes: observed 1x
+- id: h_0768
+  name: t+mat->nmad
+  left: t
+  right: mat
+  output: nmad
+  category: consonant
+  notes: observed 1x
+- id: h_0769
+  name: At+->rAt
+  left: At
+  right: ''
+  output: rAt
+  category: consonant
+  notes: observed 1x
+- id: h_0770
+  name: i+eka->yeko
+  left: i
+  right: eka
+  output: yeko
+  category: vowel
+  notes: observed 1x
+- id: h_0771
+  name: A+i->aye
+  left: A
+  right: i
+  output: aye
+  category: vowel
+  notes: observed 1x
+- id: h_0772
+  name: I+u->yo
+  left: I
+  right: u
+  output: yo
+  category: vowel
+  notes: observed 1x
+- id: h_0773
+  name: t+ja->jj
+  left: t
+  right: ja
+  output: jj
+  category: consonant
+  notes: observed 1x
+- id: h_0774
+  name: a+as->Asa
+  left: a
+  right: as
+  output: Asa
+  category: vowel
+  notes: observed 1x
+- id: h_0775
+  name: tam+->m
+  left: tam
+  right: ''
+  output: m
+  category: nasal
+  notes: observed 1x
+- id: h_0776
+  name: t+Br->dB
+  left: t
+  right: Br
+  output: dB
+  category: consonant
+  notes: observed 1x
+- id: h_0777
+  name: O+->Ap
+  left: O
+  right: ''
+  output: Ap
+  category: vowel
+  notes: observed 1x
+- id: h_0778
+  name: a+anu->A
+  left: a
+  right: anu
+  output: A
+  category: vowel
+  notes: observed 1x
+- id: h_0779
+  name: ta+->c
+  left: ta
+  right: ''
+  output: c
+  category: vowel
+  notes: observed 1x
+- id: h_0780
+  name: tAm+->atAM
+  left: tAm
+  right: ''
+  output: atAM
+  category: nasal
+  notes: observed 1x
+- id: h_0781
+  name: +ant->ntar
+  left: ''
+  right: ant
+  output: ntar
+  category: vowel
+  notes: observed 1x
+- id: h_0782
+  name: H+ivE->vii
+  left: H
+  right: ivE
+  output: vii
+  category: visarga
+  notes: observed 1x
+- id: h_0783
+  name: nAm+->anAM
+  left: nAm
+  right: ''
+  output: anAM
+  category: nasal
+  notes: observed 1x
+- id: h_0784
+  name: yat+->tya
+  left: yat
+  right: ''
+  output: tya
+  category: consonant
+  notes: observed 1x
+- id: h_0785
+  name: n+->M
+  left: n
+  right: ''
+  output: M
+  category: nasal
+  notes: observed 1x
+- id: h_0786
+  name: +A->syA
+  left: ''
+  right: A
+  output: syA
+  category: vowel
+  notes: observed 1x
+- id: h_0787
+  name: am+a->A
+  left: am
+  right: a
+  output: A
+  category: nasal
+  notes: observed 1x
+- id: h_0788
+  name: +as->asa
+  left: ''
+  right: as
+  output: asa
+  category: vowel
+  notes: observed 1x
+- id: h_0789
+  name: H+nir->rni
+  left: H
+  right: nir
+  output: rni
+  category: visarga
+  notes: observed 1x
+- id: h_0790
+  name: am+->yaM
+  left: am
+  right: ''
+  output: yaM
+  category: nasal
+  notes: observed 1x
+- id: h_0791
+  name: nEH+->rnar
+  left: nEH
+  right: ''
+  output: rnar
+  category: visarga
+  notes: observed 1x
+- id: h_0792
+  name: +A->O
+  left: ''
+  right: A
+  output: O
+  category: vowel
+  notes: observed 1x
+- id: h_0793
+  name: +B->m
+  left: ''
+  right: B
+  output: m
+  category: consonant
+  notes: observed 1x
+- id: h_0794
+  name: H+->sa
+  left: H
+  right: ''
+  output: sa
+  category: visarga
+  notes: observed 1x
+- id: h_0795
+  name: t+ni->nnir
+  left: t
+  right: ni
+  output: nnir
+  category: consonant
+  notes: observed 1x
+- id: h_0796
+  name: ram+->m
+  left: ram
+  right: ''
+  output: m
+  category: nasal
+  notes: observed 1x
+- id: h_0797
+  name: H+tat->stad
+  left: H
+  right: tat
+  output: stad
+  category: visarga
+  notes: observed 1x
+- id: h_0798
+  name: o+a->e
+  left: o
+  right: a
+  output: e
+  category: vowel
+  notes: observed 1x
+- id: h_0799
+  name: +iti->
+  left: ''
+  right: iti
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0800
+  name: H+yaH->rya
+  left: H
+  right: yaH
+  output: rya
+  category: visarga
+  notes: observed 1x
+- id: h_0801
+  name: u+a->vi
+  left: u
+  right: a
+  output: vi
+  category: vowel
+  notes: observed 1x
+- id: h_0802
+  name: m+yaH->Myo
+  left: m
+  right: yaH
+  output: Myo
+  category: nasal
+  notes: observed 1x
+- id: h_0803
+  name: +iva->nivi
+  left: ''
+  right: iva
+  output: nivi
+  category: vowel
+  notes: observed 1x
+- id: h_0804
+  name: na+->S
+  left: na
+  right: ''
+  output: S
+  category: vowel
+  notes: observed 1x
+- id: h_0805
+  name: f+->
+  left: f
+  right: ''
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0806
+  name: um+->UM
+  left: um
+  right: ''
+  output: UM
+  category: nasal
+  notes: observed 1x
+- id: h_0807
+  name: a+as->Asi
+  left: a
+  right: as
+  output: Asi
+  category: vowel
+  notes: observed 1x
+- id: h_0808
+  name: in+->ann
+  left: in
+  right: ''
+  output: ann
+  category: nasal
+  notes: observed 1x
+- id: h_0809
+  name: A+ut->oda
+  left: A
+  right: ut
+  output: oda
+  category: vowel
+  notes: observed 1x
+- id: h_0810
+  name: a+eka->Eko
+  left: a
+  right: eka
+  output: Eko
+  category: vowel
+  notes: observed 1x
+- id: h_0811
+  name: tam+->ataM
+  left: tam
+  right: ''
+  output: ataM
+  category: nasal
+  notes: observed 1x
+- id: h_0812
+  name: +u->no
+  left: ''
+  right: u
+  output: 'no'
+  category: vowel
+  notes: observed 1x
+- id: h_0813
+  name: u+->anv
+  left: u
+  right: ''
+  output: anv
+  category: vowel
+  notes: observed 1x
+- id: h_0814
+  name: a+aDa->ADo
+  left: a
+  right: aDa
+  output: ADo
+  category: vowel
+  notes: observed 1x
+- id: h_0815
+  name: a+upa->A
+  left: a
+  right: upa
+  output: A
+  category: vowel
+  notes: observed 1x
+- id: h_0816
+  name: a+->Al
+  left: a
+  right: ''
+  output: Al
+  category: vowel
+  notes: observed 1x
+- id: h_0817
+  name: m+ka->Mko
+  left: m
+  right: ka
+  output: Mko
+  category: nasal
+  notes: observed 1x
+- id: h_0818
+  name: k+i->ge
+  left: k
+  right: i
+  output: ge
+  category: consonant
+  notes: observed 1x
+- id: h_0819
+  name: A+->am
+  left: A
+  right: ''
+  output: am
+  category: vowel
+  notes: observed 1x
+- id: h_0820
+  name: +eka->eko
+  left: ''
+  right: eka
+  output: eko
+  category: vowel
+  notes: observed 1x
+- id: h_0821
+  name: tAt+->atAd
+  left: tAt
+  right: ''
+  output: atAd
+  category: consonant
+  notes: observed 1x
+- id: h_0822
+  name: +u->uva
+  left: ''
+  right: u
+  output: uva
+  category: vowel
+  notes: observed 1x
+- id: h_0823
+  name: t+eka->deko
+  left: t
+  right: eka
+  output: deko
+  category: consonant
+  notes: observed 1x
+- id: h_0824
+  name: +aha->ahar
+  left: ''
+  right: aha
+  output: ahar
+  category: vowel
+  notes: observed 1x
+- id: h_0825
+  name: m+u->
+  left: m
+  right: u
+  output: ''
+  category: nasal
+  notes: observed 1x
+- id: h_0826
+  name: a+ita->eto
+  left: a
+  right: ita
+  output: eto
+  category: vowel
+  notes: observed 1x
+- id: h_0827
+  name: m+vAY->MvAM
+  left: m
+  right: vAY
+  output: MvAM
+  category: nasal
+  notes: observed 1x
+- id: h_0828
+  name: n+a->
+  left: n
+  right: a
+  output: ''
+  category: nasal
+  notes: observed 1x
+- id: h_0829
+  name: O+e->AvE
+  left: O
+  right: e
+  output: AvE
+  category: vowel
+  notes: observed 1x
+- id: h_0830
+  name: m+t->Mj
+  left: m
+  right: t
+  output: Mj
+  category: nasal
+  notes: observed 1x
+- id: h_0831
+  name: a+eke->E
+  left: a
+  right: eke
+  output: E
+  category: vowel
+  notes: observed 1x
+- id: h_0832
+  name: +ard->ar
+  left: ''
+  right: ard
+  output: ar
+  category: vowel
+  notes: observed 1x
+- id: h_0833
+  name: ena+e->anE
+  left: ena
+  right: e
+  output: anE
+  category: vowel
+  notes: observed 1x
+- id: h_0834
+  name: t+s->cC
+  left: t
+  right: s
+  output: cC
+  category: consonant
+  notes: observed 1x
+- id: h_0835
+  name: +a->ta
+  left: ''
+  right: a
+  output: ta
+  category: vowel
+  notes: observed 1x
+- id: h_0836
+  name: m+->sam
+  left: m
+  right: ''
+  output: sam
+  category: nasal
+  notes: observed 1x
+- id: h_0837
+  name: +tat->ta
+  left: ''
+  right: tat
+  output: ta
+  category: consonant
+  notes: observed 1x
+- id: h_0838
+  name: m+gAH->MgA
+  left: m
+  right: gAH
+  output: MgA
+  category: nasal
+  notes: observed 1x
+- id: h_0839
+  name: H+->Sc
+  left: H
+  right: ''
+  output: Sc
+  category: visarga
+  notes: observed 1x
+- id: h_0840
+  name: m+a->YcA
+  left: m
+  right: a
+  output: YcA
+  category: nasal
+  notes: observed 1x
+- id: h_0841
+  name: +u->annu
+  left: ''
+  right: u
+  output: annu
+  category: vowel
+  notes: observed 1x
+- id: h_0842
+  name: Ani+->y
+  left: Ani
+  right: ''
+  output: y
+  category: vowel
+  notes: observed 1x
+- id: h_0843
+  name: m+tu->ntuM
+  left: m
+  right: tu
+  output: ntuM
+  category: nasal
+  notes: observed 1x
+- id: h_0844
+  name: atA+->it
+  left: atA
+  right: ''
+  output: it
+  category: vowel
+  notes: observed 1x
+- id: h_0845
+  name: nam+->taM
+  left: nam
+  right: ''
+  output: taM
+  category: nasal
+  notes: observed 1x
+- id: h_0846
+  name: +a->p
+  left: ''
+  right: a
+  output: p
+  category: vowel
+  notes: observed 1x
+- id: h_0847
+  name: m+->yaM
+  left: m
+  right: ''
+  output: yaM
+  category: nasal
+  notes: observed 1x
+- id: h_0848
+  name: am+->um
+  left: am
+  right: ''
+  output: um
+  category: nasal
+  notes: observed 1x
+- id: h_0849
+  name: m+kaH->Mko
+  left: m
+  right: kaH
+  output: Mko
+  category: nasal
+  notes: observed 1x
+- id: h_0850
+  name: Sat+->sad
+  left: Sat
+  right: ''
+  output: sad
+  category: consonant
+  notes: observed 1x
+- id: h_0851
+  name: arO+->ArAv
+  left: arO
+  right: ''
+  output: ArAv
+  category: vowel
+  notes: observed 1x
+- id: h_0852
+  name: a+asi->AsI
+  left: a
+  right: asi
+  output: AsI
+  category: vowel
+  notes: observed 1x
+- id: h_0853
+  name: na+ava->vA
+  left: na
+  right: ava
+  output: vA
+  category: vowel
+  notes: observed 1x
+- id: h_0854
+  name: H+->sS
+  left: H
+  right: ''
+  output: sS
+  category: visarga
+  notes: observed 1x
+- id: h_0855
+  name: api+->py
+  left: api
+  right: ''
+  output: py
+  category: vowel
+  notes: observed 1x
+- id: h_0856
+  name: +b->rb
+  left: ''
+  right: b
+  output: rb
+  category: consonant
+  notes: observed 1x
+- id: h_0857
+  name: t+u->nno
+  left: t
+  right: u
+  output: nno
+  category: consonant
+  notes: observed 1x
+- id: h_0858
+  name: ca+i->Sce
+  left: ca
+  right: i
+  output: Sce
+  category: vowel
+  notes: observed 1x
+- id: h_0859
+  name: A+->E
+  left: A
+  right: ''
+  output: E
+  category: vowel
+  notes: observed 1x
+- id: h_0860
+  name: H+a->ru
+  left: H
+  right: a
+  output: ru
+  category: visarga
+  notes: observed 1x
+- id: h_0861
+  name: t+rU->dru
+  left: t
+  right: rU
+  output: dru
+  category: consonant
+  notes: observed 1x
+- id: h_0862
+  name: a+z->C
+  left: a
+  right: z
+  output: C
+  category: vowel
+  notes: observed 1x
+- id: h_0863
+  name: et+->od
+  left: et
+  right: ''
+  output: od
+  category: consonant
+  notes: observed 1x
+- id: h_0864
+  name: m+->tvam
+  left: m
+  right: ''
+  output: tvam
+  category: nasal
+  notes: observed 1x
+- id: h_0865
+  name: te+->d
+  left: te
+  right: ''
+  output: d
+  category: vowel
+  notes: observed 1x
+- id: h_0866
+  name: e+->Av
+  left: e
+  right: ''
+  output: Av
+  category: vowel
+  notes: observed 1x
+- id: h_0867
+  name: H+->d
+  left: H
+  right: ''
+  output: d
+  category: visarga
+  notes: observed 1x
+- id: h_0868
+  name: a+a->EvA
+  left: a
+  right: a
+  output: EvA
+  category: vowel
+  notes: observed 1x
+- id: h_0869
+  name: a+a->no
+  left: a
+  right: a
+  output: 'no'
+  category: vowel
+  notes: observed 1x
+- id: h_0870
+  name: vA+i->eve
+  left: vA
+  right: i
+  output: eve
+  category: vowel
+  notes: observed 1x
+- id: h_0871
+  name: t+a->d
+  left: t
+  right: a
+  output: d
+  category: consonant
+  notes: observed 1x
+- id: h_0872
+  name: +da->d
+  left: ''
+  right: da
+  output: d
+  category: consonant
+  notes: observed 1x
+- id: h_0873
+  name: a+uc->o
+  left: a
+  right: uc
+  output: o
+  category: vowel
+  notes: observed 1x
+- id: h_0874
+  name: m+e->MtE
+  left: m
+  right: e
+  output: MtE
+  category: nasal
+  notes: observed 1x
+- id: h_0875
+  name: H+vya->rvyA
+  left: H
+  right: vya
+  output: rvyA
+  category: visarga
+  notes: observed 1x
+- id: h_0876
+  name: it+->Ety
+  left: it
+  right: ''
+  output: Ety
+  category: consonant
+  notes: observed 1x
+- id: h_0877
+  name: k+i->gI
+  left: k
+  right: i
+  output: gI
+  category: consonant
+  notes: observed 1x
+- id: h_0878
+  name: i+i->ya
+  left: i
+  right: i
+  output: ya
+  category: vowel
+  notes: observed 1x
+- id: h_0879
+  name: ta+->j
+  left: ta
+  right: ''
+  output: j
+  category: vowel
+  notes: observed 1x
+- id: h_0880
+  name: u+v->y
+  left: u
+  right: v
+  output: y
+  category: vowel
+  notes: observed 1x
+- id: h_0881
+  name: t+u->
+  left: t
+  right: u
+  output: ''
+  category: consonant
+  notes: observed 1x
+- id: h_0882
+  name: t+h->dv
+  left: t
+  right: h
+  output: dv
+  category: consonant
+  notes: observed 1x
+- id: h_0883
+  name: e+->av
+  left: e
+  right: ''
+  output: av
+  category: vowel
+  notes: observed 1x
+- id: h_0884
+  name: a+->nA
+  left: a
+  right: ''
+  output: nA
+  category: vowel
+  notes: observed 1x
+- id: h_0885
+  name: H+i->
+  left: H
+  right: i
+  output: ''
+  category: visarga
+  notes: observed 1x
+- id: h_0886
+  name: m+->ram
+  left: m
+  right: ''
+  output: ram
+  category: nasal
+  notes: observed 1x
+- id: h_0887
+  name: +an->anEt
+  left: ''
+  right: an
+  output: anEt
+  category: vowel
+  notes: observed 1x
+- id: h_0888
+  name: +e->aye
+  left: ''
+  right: e
+  output: aye
+  category: vowel
+  notes: observed 1x
+- id: h_0889
+  name: yam+->vam
+  left: yam
+  right: ''
+  output: vam
+  category: nasal
+  notes: observed 1x
+- id: h_0890
+  name: +i->ye
+  left: ''
+  right: i
+  output: ye
+  category: vowel
+  notes: observed 1x
+- id: h_0891
+  name: +a->itya
+  left: ''
+  right: a
+  output: itya
+  category: vowel
+  notes: observed 1x
+- id: h_0892
+  name: i+an->
+  left: i
+  right: an
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0893
+  name: ta+->y
+  left: ta
+  right: ''
+  output: y
+  category: vowel
+  notes: observed 1x
+- id: h_0894
+  name: O+ava->AvA
+  left: O
+  right: ava
+  output: AvA
+  category: vowel
+  notes: observed 1x
+- id: h_0895
+  name: +u->anu
+  left: ''
+  right: u
+  output: anu
+  category: vowel
+  notes: observed 1x
+- id: h_0896
+  name: uH+->r
+  left: uH
+  right: ''
+  output: r
+  category: visarga
+  notes: observed 1x
+- id: h_0897
+  name: aH+->yata
+  left: aH
+  right: ''
+  output: yata
+  category: visarga
+  notes: observed 1x
+- id: h_0898
+  name: vam+->m
+  left: vam
+  right: ''
+  output: m
+  category: nasal
+  notes: observed 1x
+- id: h_0899
+  name: tu+->v
+  left: tu
+  right: ''
+  output: v
+  category: vowel
+  notes: observed 1x
+- id: h_0900
+  name: ca+->Sv
+  left: ca
+  right: ''
+  output: Sv
+  category: vowel
+  notes: observed 1x
+- id: h_0901
+  name: u+->vav
+  left: u
+  right: ''
+  output: vav
+  category: vowel
+  notes: observed 1x
+- id: h_0902
+  name: O+i->Ava
+  left: O
+  right: i
+  output: Ava
+  category: vowel
+  notes: observed 1x
+- id: h_0903
+  name: O+->av
+  left: O
+  right: ''
+  output: av
+  category: vowel
+  notes: observed 1x
+- id: h_0904
+  name: t+->dApy
+  left: t
+  right: ''
+  output: dApy
+  category: consonant
+  notes: observed 1x
+- id: h_0905
+  name: pi+e->
+  left: pi
+  right: e
+  output: ''
+  category: vowel
+  notes: observed 1x
+- id: h_0906
+  name: H+->m
+  left: H
+  right: ''
+  output: m
+  category: visarga
+  notes: observed 1x
+- id: h_0907
+  name: ma+->B
+  left: ma
+  right: ''
+  output: B
+  category: vowel
+  notes: observed 1x
+- id: h_0908
+  name: t+vi->dv
+  left: t
+  right: vi
+  output: dv
+  category: consonant
+  notes: observed 1x
+- id: h_0909
+  name: H+->ru
+  left: H
+  right: ''
+  output: ru
+  category: visarga
+  notes: observed 1x
+- id: h_0910
+  name: aH+mU->omu
+  left: aH
+  right: mU
+  output: omu
+  category: visarga
+  notes: observed 1x
+- id: h_0911
+  name: a+upe->opE
+  left: a
+  right: upe
+  output: opE
+  category: vowel
+  notes: observed 1x
+- id: h_0912
+  name: H+u->ra
+  left: H
+  right: u
+  output: ra
+  category: visarga
+  notes: observed 1x
+- id: h_0913
+  name: H+a->A
+  left: H
+  right: a
+  output: A
+  category: visarga
+  notes: observed 1x
+- id: h_0914
+  name: t+Sf->cCru
+  left: t
+  right: Sf
+  output: cCru
+  category: consonant
+  notes: observed 1x
+- id: h_0915
+  name: aM+->Am
+  left: aM
+  right: ''
+  output: Am
+  category: nasal
+  notes: observed 1x
+- id: h_0916
+  name: i+ASa->yAS
+  left: i
+  right: ASa
+  output: yAS
+  category: vowel
+  notes: observed 1x
+- id: h_0917
+  name: eH+->or
+  left: eH
+  right: ''
+  output: or
+  category: visarga
+  notes: observed 1x
+- id: h_0918
+  name: ama+->Am
+  left: ama
+  right: ''
+  output: Am
+  category: vowel
+  notes: observed 1x
+- id: h_0919
+  name: H+n->rv
+  left: H
+  right: n
+  output: rv
+  category: visarga
+  notes: observed 1x
+- id: h_0920
+  name: a+eke->EkE
+  left: a
+  right: eke
+  output: EkE
+  category: vowel
+  notes: observed 1x
+- id: h_0921
+  name: H+->stA
+  left: H
+  right: ''
+  output: stA
+  category: visarga
+  notes: observed 1x
+- id: h_0922
+  name: aH+itT->oity
+  left: aH
+  right: itT
+  output: oity
+  category: visarga
+  notes: observed 1x
+- id: h_0923
+  name: i+as->y
+  left: i
+  right: as
+  output: y
+  category: vowel
+  notes: observed 1x
+- id: h_0924
+  name: H+ta->stA
+  left: H
+  right: ta
+  output: stA
+  category: visarga
+  notes: observed 1x
+- id: h_0925
+  name: +d->rd
+  left: ''
+  right: d
+  output: rd
+  category: consonant
+  notes: observed 1x
+- id: h_0926
+  name: +v->rv
+  left: ''
+  right: v
+  output: rv
+  category: consonant
+  notes: observed 1x
+- id: h_0927
+  name: H+f->r
+  left: H
+  right: f
+  output: r
+  category: visarga
+  notes: observed 1x
+- id: h_0928
+  name: H+gr->rg
+  left: H
+  right: gr
+  output: rg
+  category: visarga
+  notes: observed 1x
+- id: h_0929
+  name: t+u->dO
+  left: t
+  right: u
+  output: dO
+  category: consonant
+  notes: observed 1x
+- id: h_0930
+  name: n+a->M
+  left: n
+  right: a
+  output: M
+  category: nasal
+  notes: observed 1x
+- id: h_0931
+  name: +a->evA
+  left: ''
+  right: a
+  output: evA
+  category: vowel
+  notes: observed 1x
+- id: h_0932
+  name: ena+u->ono
+  left: ena
+  right: u
+  output: ono
+  category: vowel
+  notes: observed 1x
+- id: h_0933
+  name: niH+->mir
+  left: niH
+  right: ''
+  output: mir
+  category: visarga
+  notes: observed 1x
+- id: h_0934
+  name: +a->ata
+  left: ''
+  right: a
+  output: ata
+  category: vowel
+  notes: observed 1x
+- id: h_0935
+  name: H+Dar->rDa
+  left: H
+  right: Dar
+  output: rDa
+  category: visarga
+  notes: observed 1x
+- id: h_0936
+  name: H+lu->rla
+  left: H
+  right: lu
+  output: rla
+  category: visarga
+  notes: observed 1x
+- id: h_0937
+  name: H+d->rg
+  left: H
+  right: d
+  output: rg
+  category: visarga
+  notes: observed 1x
+- id: h_0938
+  name: t+u->do
+  left: t
+  right: u
+  output: do
+  category: consonant
+  notes: observed 1x
+- id: h_0939
+  name: t+a->di
+  left: t
+  right: a
+  output: di
+  category: consonant
+  notes: observed 1x
+- id: h_0940
+  name: H+cA->Sca
+  left: H
+  right: cA
+  output: Sca
+  category: visarga
+  notes: observed 1x
+- id: h_0941
+  name: +e->He
+  left: ''
+  right: e
+  output: He
+  category: vowel
+  notes: observed 1x
+- id: h_0942
+  name: +c->+c
+  left: ''
+  right: c
+  output: +c
+  category: consonant
+  notes: observed 1x
+- id: h_0943
+  name: vam+->tam
+  left: vam
+  right: ''
+  output: tam
+  category: nasal
+  notes: observed 1x
+- id: h_0944
+  name: H+->ha
+  left: H
+  right: ''
+  output: ha
+  category: visarga
+  notes: observed 1x
+- id: h_0945
+  name: H+->rnir
+  left: H
+  right: ''
+  output: rnir
+  category: visarga
+  notes: observed 1x
+- id: h_0946
+  name: Qum+->duM
+  left: Qum
+  right: ''
+  output: duM
+  category: nasal
+  notes: observed 1x
+- id: h_0947
+  name: vA+->+vA+
+  left: vA
+  right: ''
+  output: +vA+
+  category: vowel
+  notes: observed 1x
+- id: h_0948
+  name: m+A->M
+  left: m
+  right: A
+  output: M
+  category: nasal
+  notes: observed 1x
+- id: h_0949
+  name: yam+->Tam
+  left: yam
+  right: ''
+  output: Tam
+  category: nasal
+  notes: observed 1x
+- id: h_0950
+  name: ci+->da
+  left: ci
+  right: ''
+  output: da
+  category: vowel
+  notes: observed 1x
+- id: h_0951
+  name: t+D->dv
+  left: t
+  right: D
+  output: dv
+  category: consonant
+  notes: observed 1x
+- id: h_0952
+  name: yA+i->aye
+  left: yA
+  right: i
+  output: aye
+  category: vowel
+  notes: observed 1x
+- id: h_0953
+  name: +a->za
+  left: ''
+  right: a
+  output: za
+  category: vowel
+  notes: observed 1x
+- id: h_0954
+  name: api+->epy
+  left: api
+  right: ''
+  output: epy
+  category: vowel
+  notes: observed 1x
+- id: h_0955
+  name: A+->e
+  left: A
+  right: ''
+  output: e
+  category: vowel
+  notes: observed 1x
+- id: h_0956
+  name: a+a->E
+  left: a
+  right: a
+  output: E
+  category: vowel
+  notes: observed 1x
+- id: h_0957
+  name: H+t->sT
+  left: H
+  right: t
+  output: sT
+  category: visarga
+  notes: observed 1x
+- id: h_0958
+  name: H+vAI->rvA
+  left: H
+  right: vAI
+  output: rvA
+  category: visarga
+  notes: observed 1x
+- id: h_0959
+  name: u+a->avA
+  left: u
+  right: a
+  output: avA
+  category: vowel
+  notes: observed 1x
+- id: h_0960
+  name: a+ekO->Oko
+  left: a
+  right: ekO
+  output: Oko
+  category: vowel
+  notes: observed 1x
+- id: h_0961
+  name: a+eva->EvaM
+  left: a
+  right: eva
+  output: EvaM
+  category: vowel
+  notes: observed 1x
+- id: h_0962
+  name: na+->ta
+  left: na
+  right: ''
+  output: ta
+  category: vowel
+  notes: observed 1x
+- id: h_0963
+  name: a+->AM
+  left: a
+  right: ''
+  output: AM
+  category: vowel
+  notes: observed 1x
+- id: h_0964
+  name: et+saM->otsa
+  left: et
+  right: saM
+  output: otsa
+  category: consonant
+  notes: observed 1x
+- id: h_0965
+  name: ma+->M
+  left: ma
+  right: ''
+  output: M
+  category: vowel
+  notes: observed 1x
+- id: h_0966
+  name: a+ukt->ok
+  left: a
+  right: ukt
+  output: ok
+  category: vowel
+  notes: observed 1x
+- id: h_0967
+  name: m+pu->Mpa
+  left: m
+  right: pu
+  output: Mpa
+  category: nasal
+  notes: observed 1x
+- id: h_0968
+  name: sat+->asad
+  left: sat
+  right: ''
+  output: asad
+  category: consonant
+  notes: observed 1x
+- id: h_0969
+  name: +a->tvA
+  left: ''
+  right: a
+  output: tvA
+  category: vowel
+  notes: observed 1x
+- id: h_0970
+  name: na+->r
+  left: na
+  right: ''
+  output: r
+  category: vowel
+  notes: observed 1x
+- id: h_0971
+  name: m+A->tma
+  left: m
+  right: A
+  output: tma
+  category: nasal
+  notes: observed 1x
+- id: h_0972
+  name: aH+->odv
+  left: aH
+  right: ''
+  output: odv
+  category: visarga
+  notes: observed 1x
+- id: h_0973
+  name: uH+->v
+  left: uH
+  right: ''
+  output: v
+  category: visarga
+  notes: observed 1x
+- id: h_0974
+  name: H+Bu->rBuM
+  left: H
+  right: Bu
+  output: rBuM
+  category: visarga
+  notes: observed 1x
+- id: h_0975
+  name: a+eka->E
+  left: a
+  right: eka
+  output: E
+  category: vowel
+  notes: observed 1x
+- id: h_0976
+  name: m+nI->MnA
+  left: m
+  right: nI
+  output: MnA
+  category: nasal
+  notes: observed 1x
+- id: h_0977
+  name: m+ca->M
+  left: m
+  right: ca
+  output: M
+  category: nasal
+  notes: observed 1x
+- id: h_0978
+  name: +tad->tadU
+  left: ''
+  right: tad
+  output: tadU
+  category: consonant
+  notes: observed 1x
+- id: h_0979
+  name: aH+na->o
+  left: aH
+  right: na
+  output: o
+  category: visarga
+  notes: observed 1x
+- id: h_0980
+  name: +a->ava
+  left: ''
+  right: a
+  output: ava
+  category: vowel
+  notes: observed 1x
+- id: h_0981
+  name: At+->ac
+  left: At
+  right: ''
+  output: ac
+  category: consonant
+  notes: observed 1x
+- id: h_0982
+  name: aca+a->AcA
+  left: aca
+  right: a
+  output: AcA
+  category: vowel
+  notes: observed 1x
+- id: h_0983
+  name: ad+->
+  left: ad
+  right: ''
+  output: ''
+  category: consonant
+  notes: observed 1x
+- id: h_0984
+  name: H+na->rnA
+  left: H
+  right: na
+  output: rnA
+  category: visarga
+  notes: observed 1x
+- id: h_0985
+  name: +a->ka
+  left: ''
+  right: a
+  output: ka
+  category: vowel
+  notes: observed 1x
+- id: h_0986
+  name: H+a->ras
+  left: H
+  right: a
+  output: ras
+  category: visarga
+  notes: observed 1x
+- id: h_0987
+  name: +arT->ardD
+  left: ''
+  right: arT
+  output: ardD
+  category: vowel
+  notes: observed 1x
+- id: h_0988
+  name: +i->vAdi
+  left: ''
+  right: i
+  output: vAdi
+  category: vowel
+  notes: observed 1x
+- id: h_0989
+  name: +k->
+  left: ''
+  right: k
+  output: ''
+  category: consonant
+  notes: observed 1x
+- id: h_0990
+  name: i+uk->yu
+  left: i
+  right: uk
+  output: yu
+  category: vowel
+  notes: observed 1x
+- id: h_0991
+  name: m+Ga->
+  left: m
+  right: Ga
+  output: ''
+  category: nasal
+  notes: observed 1x
+- id: h_0992
+  name: waH+ca->M
+  left: waH
+  right: ca
+  output: M
+  category: visarga
+  notes: observed 1x
+- id: h_0993
+  name: H+ata->rati
+  left: H
+  right: ata
+  output: rati
+  category: visarga
+  notes: observed 1x
+- id: h_0994
+  name: kam+->M
+  left: kam
+  right: ''
+  output: M
+  category: nasal
+  notes: observed 1x
+- id: h_0995
+  name: t+Sa->cCA
+  left: t
+  right: Sa
+  output: cCA
+  category: consonant
+  notes: observed 1x
+- id: h_0996
+  name: i+->yA
+  left: i
+  right: ''
+  output: yA
+  category: vowel
+  notes: observed 1x
+- id: h_0997
+  name: a+iti->ety
+  left: a
+  right: iti
+  output: ety
+  category: vowel
+  notes: observed 1x
+- id: h_0998
+  name: t+u->dyA
+  left: t
+  right: u
+  output: dyA
+  category: consonant
+  notes: observed 1x
+- id: h_0999
+  name: O+e->Avi
+  left: O
+  right: e
+  output: Avi
+  category: vowel
+  notes: observed 1x
+- id: h_1000
+  name: n+cE->MSca
+  left: n
+  right: cE
+  output: MSca
+  category: nasal
+  notes: observed 1x
+- id: h_1001
+  name: +b->+b
+  left: ''
+  right: b
+  output: +b
+  category: consonant
+  notes: observed 1x
+- id: h_1002
+  name: tta+->n
+  left: tta
+  right: ''
+  output: n
+  category: vowel
+  notes: observed 1x
+- id: h_1003
+  name: a+bo->obA
+  left: a
+  right: bo
+  output: obA
+  category: vowel
+  notes: observed 1x
+- id: h_1004
+  name: H+dvi->rda
+  left: H
+  right: dvi
+  output: rda
+  category: visarga
+  notes: observed 1x
+- id: h_1005
+  name: vam+->mav
+  left: vam
+  right: ''
+  output: mav
+  category: nasal
+  notes: observed 1x
+- id: h_1006
+  name: t+eka->de
+  left: t
+  right: eka
+  output: de
+  category: consonant
+  notes: observed 1x
+- id: h_1007
+  name: e+a->A
+  left: e
+  right: a
+  output: A
+  category: vowel
+  notes: observed 1x
+- id: h_1008
+  name: +e->re
+  left: ''
+  right: e
+  output: re
+  category: vowel
+  notes: observed 1x
+- id: h_1009
+  name: +a->as
+  left: ''
+  right: a
+  output: as
+  category: vowel
+  notes: observed 1x
+- id: h_1010
+  name: iti+->Ity
+  left: iti
+  right: ''
+  output: Ity
+  category: vowel
+  notes: observed 1x
+- id: h_1011
+  name: H+viz->rviS
+  left: H
+  right: viz
+  output: rviS
+  category: visarga
+  notes: observed 1x
+- id: h_1012
+  name: i+->ar
+  left: i
+  right: ''
+  output: ar
+  category: vowel
+  notes: observed 1x
+- id: h_1013
+  name: t+nae->nnE
+  left: t
+  right: nae
+  output: nnE
+  category: consonant
+  notes: observed 1x
+- id: h_1014
+  name: at+->tad
+  left: at
+  right: ''
+  output: tad
+  category: consonant
+  notes: observed 1x
+- id: h_1015
+  name: um+->fm
+  left: um
+  right: ''
+  output: fm
+  category: nasal
+  notes: observed 1x
+- id: h_1016
+  name: a+i->Ate
+  left: a
+  right: i
+  output: Ate
+  category: vowel
+  notes: observed 1x
+- id: h_1017
+  name: a+any->Ann
+  left: a
+  right: any
+  output: Ann
+  category: vowel
+  notes: observed 1x
+- id: h_1018
+  name: Sca+e->zcE
+  left: Sca
+  right: e
+  output: zcE
+  category: vowel
+  notes: observed 1x
+- id: h_1019
+  name: +pra->prA
+  left: ''
+  right: pra
+  output: prA
+  category: consonant
+  notes: observed 1x
+- id: h_1020
+  name: aH+ap->or
+  left: aH
+  right: ap
+  output: or
+  category: visarga
+  notes: observed 1x
+- id: h_1021
+  name: +u->a
+  left: ''
+  right: u
+  output: a
+  category: vowel
+  notes: observed 1x
+- id: h_1022
+  name: m+na->Mnat
+  left: m
+  right: na
+  output: Mnat
+  category: nasal
+  notes: observed 1x
+- id: h_1023
+  name: m+p->MP
+  left: m
+  right: p
+  output: MP
+  category: nasal
+  notes: observed 1x
+- id: h_1024
+  name: t+cAk->ccA
+  left: t
+  right: cAk
+  output: ccA
+  category: consonant
+  notes: observed 1x
+- id: h_1025
+  name: zam+->m
+  left: zam
+  right: ''
+  output: m
+  category: nasal
+  notes: observed 1x
+- id: h_1026
+  name: i+i->ItI
+  left: i
+  right: i
+  output: ItI
+  category: vowel
+  notes: observed 1x
+- id: h_1027
+  name: aH+->O
+  left: aH
+  right: ''
+  output: O
+  category: visarga
+  notes: observed 1x
+- id: h_1028
+  name: ca+->S
+  left: ca
+  right: ''
+  output: S
+  category: vowel
+  notes: observed 1x
+- id: h_1029
+  name: ik+h->EgG
+  left: ik
+  right: h
+  output: EgG
+  category: consonant
+  notes: observed 1x
+- id: h_1030
+  name: ac+h->ojJ
+  left: ac
+  right: h
+  output: ojJ
+  category: consonant
+  notes: observed 1x
+- id: h_1031
+  name: OH+->Er
+  left: OH
+  right: ''
+  output: Er
+  category: visarga
+  notes: observed 1x
+- id: h_1032
+  name: ac+->j
+  left: ac
+  right: ''
+  output: j
+  category: consonant
+  notes: observed 1x
+- id: h_1033
+  name: +ca->
+  left: ''
+  right: ca
+  output: ''
+  category: consonant
+  notes: observed 1x
+- id: h_1034
+  name: saH+RO->
+  left: saH
+  right: RO
+  output: ''
+  category: visarga
+  notes: observed 1x
+- id: h_1035
+  name: +I->ce
+  left: ''
+  right: I
+  output: ce
+  category: vowel
+  notes: observed 1x
+- id: h_1036
+  name: m+sam->MsaM
+  left: m
+  right: sam
+  output: MsaM
+  category: nasal
+  notes: observed 1x
+- id: h_1037
+  name: e+->Er
+  left: e
+  right: ''
+  output: Er
+  category: vowel
+  notes: observed 1x
+- id: h_1038
+  name: ah+->o
+  left: ah
+  right: ''
+  output: o
+  category: consonant
+  notes: observed 1x
+- id: h_1039
+  name: aH+Ric->o
+  left: aH
+  right: Ric
+  output: o
+  category: visarga
+  notes: observed 1x
+- id: h_1040
+  name: c+h->jJ
+  left: c
+  right: h
+  output: jJ
+  category: consonant
+  notes: observed 1x
+- id: h_1041
+  name: +pa->pat
+  left: ''
+  right: pa
+  output: pat
+  category: consonant
+  notes: observed 1x
+- id: h_1042
+  name: i+->In
+  left: i
+  right: ''
+  output: In
+  category: vowel
+  notes: observed 1x
+- id: h_1043
+  name: ni+->r
+  left: ni
+  right: ''
+  output: r
+  category: vowel
+  notes: observed 1x
+- id: h_1044
+  name: yaH+->Yo
+  left: yaH
+  right: ''
+  output: Yo
+  category: visarga
+  notes: observed 1x
+- id: h_1045
+  name: aH+->AM
+  left: aH
+  right: ''
+  output: AM
+  category: visarga
+  notes: observed 1x
+- id: h_1046
+  name: vA+->d
+  left: vA
+  right: ''
+  output: d
+  category: vowel
+  notes: observed 1x
+- id: h_1047
+  name: +C->SC
+  left: ''
+  right: C
+  output: SC
+  category: consonant
+  notes: observed 1x
+- id: h_1048
+  name: t+->qq
+  left: t
+  right: ''
+  output: qq
+  category: consonant
+  notes: observed 1x
+- id: h_1049
+  name: a+->AR
+  left: a
+  right: ''
+  output: AR
+  category: vowel
+  notes: observed 1x
+- id: h_1050
+  name: +W->zW
+  left: ''
+  right: W
+  output: zW
+  category: consonant
+  notes: observed 1x
+- id: h_1051
+  name: aH+ya->o
+  left: aH
+  right: ya
+  output: o
+  category: visarga
+  notes: observed 1x
+- id: h_1052
+  name: H+y->r
+  left: H
+  right: y
+  output: r
+  category: visarga
+  notes: observed 1x
+- id: h_1053
+  name: +E->nE
+  left: ''
+  right: E
+  output: nE
+  category: vowel
+  notes: observed 1x
+- id: h_1054
+  name: aH+an->oS
+  left: aH
+  right: an
+  output: oS
+  category: visarga
+  notes: observed 1x
+- id: h_1055
+  name: p+->m
+  left: p
+  right: ''
+  output: m
+  category: consonant
+  notes: observed 1x
+- id: h_1056
+  name: OH+->or
+  left: OH
+  right: ''
+  output: or
+  category: visarga
+  notes: observed 1x
+- id: h_1057
+  name: c+->Y
+  left: c
+  right: ''
+  output: Y
+  category: consonant
+  notes: observed 1x
+- id: h_1058
+  name: it+->ed
+  left: it
+  right: ''
+  output: ed
+  category: consonant
+  notes: observed 1x
+- id: h_1059
+  name: aH+U->o
+  left: aH
+  right: U
+  output: o
+  category: visarga
+  notes: observed 1x
+- id: h_1060
+  name: iw+->Iq
+  left: iw
+  right: ''
+  output: Iq
+  category: consonant
+  notes: observed 1x
+- id: h_1061
+  name: +pum->puM
+  left: ''
+  right: pum
+  output: puM
+  category: consonant
+  notes: observed 1x
+- id: h_1062
+  name: vc+->j
+  left: vc
+  right: ''
+  output: j
+  category: consonant
+  notes: observed 1x
+- id: h_1063
+  name: a+I->ce
+  left: a
+  right: I
+  output: ce
+  category: vowel
+  notes: observed 1x
+- id: h_1064
+  name: k+ASI->gASi
+  left: k
+  right: ASI
+  output: gASi
+  category: consonant
+  notes: observed 1x
+- id: h_1065
+  name: W+->q
+  left: W
+  right: ''
+  output: q
+  category: consonant
+  notes: observed 1x
+- id: h_1066
+  name: hO+->dDAv
+  left: hO
+  right: ''
+  output: dDAv
+  category: vowel
+  notes: observed 1x
+- id: h_1067
+  name: f+->r
+  left: f
+  right: ''
+  output: r
+  category: vowel
+  notes: observed 1x
+- id: h_1068
+  name: maH+->as
+  left: maH
+  right: ''
+  output: as
+  category: visarga
+  notes: observed 1x
+- id: h_1069
+  name: w+h->qQ
+  left: w
+  right: h
+  output: qQ
+  category: consonant
+  notes: observed 1x
+- id: h_1070
+  name: it+->Ec
+  left: it
+  right: ''
+  output: Ec
+  category: consonant
+  notes: observed 1x
+- id: h_1071
+  name: +a->Na
+  left: ''
+  right: a
+  output: Na
+  category: vowel
+  notes: observed 1x
+- id: h_1072
+  name: u+A->va
+  left: u
+  right: A
+  output: va
+  category: vowel
+  notes: observed 1x
+- id: h_1073
+  name: t+->di
+  left: t
+  right: ''
+  output: di
+  category: consonant
+  notes: observed 1x
+- id: h_1074
+  name: H+at->
+  left: H
+  right: at
+  output: ''
+  category: visarga
+  notes: observed 1x
+- id: h_1075
+  name: ija+u->Ijo
+  left: ija
+  right: u
+  output: Ijo
+  category: vowel
+  notes: observed 1x
+- id: h_1076
+  name: m+kA->k
+  left: m
+  right: kA
+  output: k
+  category: nasal
+  notes: observed 1x
+- id: h_1077
+  name: +h->ah
+  left: ''
+  right: h
+  output: ah
+  category: consonant
+  notes: observed 1x
+- id: h_1078
+  name: a+->An
+  left: a
+  right: ''
+  output: An
+  category: vowel
+  notes: observed 1x
+- id: h_1079
+  name: as+->o
+  left: as
+  right: ''
+  output: o
+  category: consonant
+  notes: observed 1x
+- id: h_1080
+  name: d+->t
+  left: d
+  right: ''
+  output: t
+  category: consonant
+  notes: observed 1x
+- id: h_1081
+  name: d+->n
+  left: d
+  right: ''
+  output: n
+  category: consonant
+  notes: observed 1x
+- id: h_1082
+  name: +v->av
+  left: ''
+  right: v
+  output: av
+  category: consonant
+  notes: observed 1x
+- id: h_1083
+  name: +e->jY
+  left: ''
+  right: e
+  output: jY
+  category: vowel
+  notes: observed 1x
+- id: h_1084
+  name: za+->Anam
+  left: za
+  right: ''
+  output: Anam
+  category: vowel
+  notes: observed 1x
+- id: h_1085
+  name: ram+->aram
+  left: ram
+  right: ''
+  output: aram
+  category: nasal
+  notes: observed 1x
+- id: h_1086
+  name: a+u->ot
+  left: a
+  right: u
+  output: ot
+  category: vowel
+  notes: observed 1x
+- id: h_1087
+  name: aH+du->oduH
+  left: aH
+  right: du
+  output: oduH
+  category: visarga
+  notes: observed 1x
+- id: h_1088
+  name: +y->ry
+  left: ''
+  right: y
+  output: ry
+  category: consonant
+  notes: observed 1x
+- id: h_1089
+  name: +k->Nk
+  left: ''
+  right: k
+  output: Nk
+  category: consonant
+  notes: observed 1x
+- id: h_1090
+  name: +A->mA
+  left: ''
+  right: A
+  output: mA
+  category: vowel
+  notes: observed 1x
+- id: h_1091
+  name: +s->
+  left: ''
+  right: s
+  output: ''
+  category: consonant
+  notes: observed 1x
+- id: h_1092
+  name: TaH+->zWo
+  left: TaH
+  right: ''
+  output: zWo
+  category: visarga
+  notes: observed 1x
+- id: h_1093
+  name: m+SrI->MSri
+  left: m
+  right: SrI
+  output: MSri
+  category: nasal
+  notes: observed 1x
+- id: h_1094
+  name: Am+->aY
+  left: Am
+  right: ''
+  output: aY
+  category: nasal
+  notes: observed 1x
+- id: h_1095
+  name: aH+aDi->osDy
+  left: aH
+  right: aDi
+  output: osDy
+  category: visarga
+  notes: observed 1x
+- id: h_1096
+  name: +AU->o
+  left: ''
+  right: AU
+  output: o
+  category: vowel
+  notes: observed 1x
+- id: h_1097
+  name: m+trI->MtrE
+  left: m
+  right: trI
+  output: MtrE
+  category: nasal
+  notes: observed 1x
+- id: h_1098
+  name: am+->yam
+  left: am
+  right: ''
+  output: yam
+  category: nasal
+  notes: observed 1x
+- id: h_1099
+  name: +upe->upE
+  left: ''
+  right: upe
+  output: upE
+  category: vowel
+  notes: observed 1x
+- id: h_1100
+  name: +s->as
+  left: ''
+  right: s
+  output: as
+  category: consonant
+  notes: observed 1x

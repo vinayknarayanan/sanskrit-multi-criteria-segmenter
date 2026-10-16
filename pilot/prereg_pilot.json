@@ -1,0 +1,35 @@
+{
+  "study": "Paper 2 pilot v2 - are convention disagreements principled, unstable, or both?",
+  "version": 2,
+  "supersedes": "v1 (2026-10-15 morning). Replaced BEFORE any annotation existed, after the corpus-proxy test (h2c_proxy_summary.py) showed convention disagreements inside ordinary compounds are LESS inconsistent within DCS than agreed cuts, while nominal prefix/negation junctions are MORE inconsistent. v2 tests both patterns on fresh items with experts.",
+  "written_before_any_annotation": true,
+  "date": "2026-10-15",
+  "seed": 20261015,
+  "unit": "one junction in one written word (one junction per word); 190 items + 10 repeats = 200 rows",
+  "groups": {
+    "D_prefix": "25 disagreement junctions after a nominal prefix/negation (a-, an-, su-, dur-, ku-, sa-, ati-)",
+    "D_compound": "40 disagreement junctions inside compounds",
+    "D_between": "25 disagreement junctions between words",
+    "A_compound": "35 agreed cuts inside compounds",
+    "A_between": "25 agreed cuts between words",
+    "C": "40 agreed no-cuts that the Heritage segmenter proposes (control for 'no' answers)"
+  },
+  "sources": "Frontiers evaluation words, held-out DCS words, frequent DCS words (dcs_frequent_eval.csv)",
+  "filters": "words <= 40 chars, not avagraha-initial; both pieces attested >= 3x as DCS word forms; <= 2 junctions per identical piece (left piece <= 6 in the prefix group)",
+  "junction_type": "left piece in the nominal-prefix list -> prefix; else DCS compound-member share of the left piece: >= 0.8 compound, <= 0.2 between words",
+  "annotators": "2, independent, same items in different orders; they see word (IAST + Devanagari), the marked point and the two pieces; not group, source, model outputs or gold, and are not told the hypotheses",
+  "labels": {"Y": "split here", "N": "keep whole here", "E": "either defensible", "X": "division wrong", "U": "unsure"},
+  "item_measures": {
+    "either": "at least one annotator answered E",
+    "conflict": "one annotator answered Y and the other N or X (hard disagreement)",
+    "contested": "collapsed labels differ (split = Y; no_split = N, X; open = E, U) OR at least one E"
+  },
+  "predictions": {
+    "P1_principled": "Inside compounds, convention disagreements are principled alternatives: 'either' rate D_compound - A_compound >= 10 points, 95% Newcombe interval lower bound > 0.",
+    "P2_unstable": "Prefix/negation disagreements are unstable: 'conflict' rate D_prefix - D_compound >= 10 points, interval lower bound > 0.",
+    "P3_original_H2c": "Retained from v1 for honesty; the proxy predicts it FAILS. 'contested' rate D - A within compound and between-word junctions, pooled as the mean of the two differences, >= 15 points with bootstrap interval lower bound > 0."
+  },
+  "reading": "Each prediction: supported (threshold met, interval excludes 0) / not supported (point estimate <= 0) / inconclusive (otherwise). With 25-40 items per cell this is a pilot: only large effects (~20+ points) can reach 'supported'; inconclusive results go to a 400-item run, not into the paper.",
+  "secondary": ["Cohen's kappa on collapsed labels per group", "X share per group: X > 30% in a D cell means that cell is dominated by model errors", "C vs A 'no' answers as a sanity check that controls behave as expected"],
+  "quality_check": "10 repeats: per-annotator self-agreement on collapsed labels; < 80% is reported (data kept)"
+}
