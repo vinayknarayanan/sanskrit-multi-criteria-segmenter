@@ -20,7 +20,7 @@ def norm(s):
     s = re.sub(r's$', 'ḥ', s); s = re.sub(r'r$', 'ḥ', s); s = re.sub(r'd$', 't', s)
     return s
 
-cuts = pd.read_csv('kt4_extra_cuts.csv')
+cuts = pd.read_csv('suffix_extra_cuts.csv')
 NEED = set(map(norm, cuts.left)) | set(map(norm, cuts.right))
 PAIRS = set(zip(map(norm, cuts.left), map(norm, cuts.right)))
 

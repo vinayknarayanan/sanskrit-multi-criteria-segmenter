@@ -1,6 +1,6 @@
 """Re-score ByT5 and INRIA (top-1) against Frontiers gold: strict vs convention-aware boundary-F1.
 
-Alignment follows V's boundary_score.py: gold and candidate are each derived onto the surface; boundaries are spans
+Alignment follows the original boundary_score.py: gold and candidate are each derived onto the surface; boundaries are spans
 in surface coordinates; a candidate boundary is correct if its span overlaps an unused gold span. Partial derivation
 when a full one fails (unplaceable boundaries count against the candidate, as in boundary_score.py).
 Rule index = grammar table (vidyut + 8.4.59 + 8.4.46) UNION harvested top-100 + insertions, so alignment does not
@@ -16,7 +16,7 @@ from collections import defaultdict
 from indic_transliteration import sanscript
 from derive_engine import build_index, build_grammar_index
 from dcs_match import level as dcs_level
-from kt4_suffix_cuts import label as cut_label
+from suffix_cuts import label as cut_label
 
 slp = lambda s: sanscript.transliterate(s, 'iast', 'slp1')
 iast = lambda s: sanscript.transliterate(s, 'slp1', 'iast')

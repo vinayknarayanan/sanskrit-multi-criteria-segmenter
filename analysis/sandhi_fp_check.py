@@ -1,4 +1,4 @@
-"""Point 1 of the fine-tune weak points: does lenient scoring undercount convention?
+"""Lenient-scoring check: does lenient scoring undercount convention?
 
 For every UNMATCHED candidate boundary (false positive) of each system, record:
   kind      plain / sandhi junction (from the candidate's derivation)
@@ -15,7 +15,7 @@ from indic_transliteration import sanscript
 from rescore import spans, overlaps
 with contextlib.redirect_stdout(io.StringIO()):
     from dcs_match import level as dcs_level
-from kt4_suffix_cuts import label as cut_label
+from suffix_cuts import label as cut_label
 
 slp = lambda s: sanscript.transliterate(s, 'iast', 'slp1')
 POP = {2: .709, 3: .212, 4: .057, 5: .017, 6: .005}

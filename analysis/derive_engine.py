@@ -1,4 +1,4 @@
-"""Faithful port of V's sandhi.py derivation (Drive: Colab_Sandhi_Output/sandhi.py, 2026-08-09),
+"""Faithful port of the original sandhi.py derivation (2026-08-09),
 with the rule table _rules_100.yaml (top-100 harvested rules, SLP1) and sandhi_rules_insertions.yaml.
 
 Rules are written compactly as "LEFT+RIGHT->OUTPUT" exactly as their `name` fields in _rules_100.yaml.

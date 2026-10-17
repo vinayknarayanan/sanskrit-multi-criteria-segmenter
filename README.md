@@ -60,7 +60,7 @@ Scripts read their inputs from the current folder, so run them from `results/`.
 | §5.1 Same words, both keys | `corpus_compare.py` (Frontiers pieces vs DCS), `converted_gold.py` (Table 4), `validate_key.py` |
 | §5.2 One model | `robust_ci.py`, `score_heritage_w.py` |
 | §5.3 Dataset map, UoH | `convention_distance.py`, `convention_distance_tol.py` (zero-tolerance footnote, `TOL=0`), `uoh_vs_dcs.py`, `uoh_convention_study.py`, `frontiers_vs_uoh.py`, `sandhikosh_compare.py` |
-| §5.4 Consistency | `h2c_corpus_proxy.py`, `h2c_proxy_summary.py` |
+| §5.4 Consistency | `consistency_proxy.py`, `consistency_summary.py` |
 | §5.5 Benchmark problems | `tools/check_sighum_splits.py` |
 | Method, leakage | `tools/check_training_overlap.py` |
 

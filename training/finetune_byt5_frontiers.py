@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """Fine-tune ByT5 on the Frontiers training data, then predict the 3,259-item evaluation sample.
 
-Purpose (Thesis A, controlled comparison): same architecture as ByT5-Sanskrit, but trained on the Frontiers
+Purpose (controlled comparison): same architecture as ByT5-Sanskrit, but trained on the Frontiers
 convention instead of DCS. Prediction: under strict Frontiers scoring this model beats DCS-trained ByT5-Sanskrit;
 under convention-aware scoring the gap shrinks or reverses. Output is written in the same format as
 results_byt5.csv, so rescore.py can score it unchanged.
 
 Defaults are set for a 4-6 GB laptop GPU (e.g. RTX 3050 Laptop): Adafactor (factored, low-memory optimizer, the
 standard for T5), gradient checkpointing, batch 4 x 8 accumulation (effective 32), bf16, one model-only checkpoint.
-On Colab/bigger GPUs you can raise --bs and lower --grad-accum. Expect ~4-8 h for 3 epochs on a laptop 3050.
+On bigger GPUs you can raise --bs and lower --grad-accum. Expect ~4-8 h for 3 epochs on a laptop 3050.
 
 Usage
   pip install -q transformers==4.44.2 datasets accelerate sentencepiece pandas

@@ -1,7 +1,7 @@
 {
-  "study": "Paper 2 pilot v2 - are convention disagreements principled, unstable, or both?",
+  "study": "Expert pilot v2 - are convention disagreements principled, unstable, or both?",
   "version": 2,
-  "supersedes": "v1 (2026-10-15 morning). Replaced BEFORE any annotation existed, after the corpus-proxy test (h2c_proxy_summary.py) showed convention disagreements inside ordinary compounds are LESS inconsistent within DCS than agreed cuts, while nominal prefix/negation junctions are MORE inconsistent. v2 tests both patterns on fresh items with experts.",
+  "supersedes": "v1 (2026-10-15 morning). Replaced BEFORE any annotation existed, after the corpus-proxy test (consistency_summary.py) showed convention disagreements inside ordinary compounds are LESS inconsistent within DCS than agreed cuts, while nominal prefix/negation junctions are MORE inconsistent. v2 tests both patterns on fresh items with experts.",
   "written_before_any_annotation": true,
   "date": "2026-10-15",
   "seed": 20261015,
@@ -27,7 +27,7 @@
   "predictions": {
     "P1_principled": "Inside compounds, convention disagreements are principled alternatives: 'either' rate D_compound - A_compound >= 10 points, 95% Newcombe interval lower bound > 0.",
     "P2_unstable": "Prefix/negation disagreements are unstable: 'conflict' rate D_prefix - D_compound >= 10 points, interval lower bound > 0.",
-    "P3_original_H2c": "Retained from v1 for honesty; the proxy predicts it FAILS. 'contested' rate D - A within compound and between-word junctions, pooled as the mean of the two differences, >= 15 points with bootstrap interval lower bound > 0."
+    "P3_original": "Retained from v1 for honesty; the proxy predicts it FAILS. 'contested' rate D - A within compound and between-word junctions, pooled as the mean of the two differences, >= 15 points with bootstrap interval lower bound > 0."
   },
   "reading": "Each prediction: supported (threshold met, interval excludes 0) / not supported (point estimate <= 0) / inconclusive (otherwise). With 25-40 items per cell this is a pilot: only large effects (~20+ points) can reach 'supported'; inconclusive results go to a 400-item run, not into the paper.",
   "secondary": ["Cohen's kappa on collapsed labels per group", "X share per group: X > 30% in a D cell means that cell is dominated by model errors", "C vs A 'no' answers as a sanity check that controls behave as expected"],

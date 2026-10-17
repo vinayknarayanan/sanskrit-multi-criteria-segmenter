@@ -39,6 +39,6 @@ cells = {(g, s): cell(f'{g}_{s}').contested.values for g in 'DA' for s in S}
 pt = np.mean([cells[('D', s)].mean() - cells[('A', s)].mean() for s in S])
 bs = [np.mean([rng.choice(cells[('D', s)], len(cells[('D', s)])).mean() - rng.choice(cells[('A', s)], len(cells[('A', s)])).mean() for s in S]) for _ in range(5000)]
 lo, hi = np.percentile(bs, [2.5, 97.5])
-print(f'P3 original H2c contested D - A (within compound & between, pooled) = {pt:+.1%}  [{lo:+.1%}, {hi:+.1%}]  -> {verdict(pt, lo, .15)}')
+print(f'P3 original hypothesis contested D - A (within compound & between, pooled) = {pt:+.1%}  [{lo:+.1%}, {hi:+.1%}]  -> {verdict(pt, lo, .15)}')
 L = pd.concat([m[['cell', 'a']].rename(columns={'a': 'label'}), m[['cell', 'b']].rename(columns={'b': 'label'})], ignore_index=True)
 print('\nlabel counts per cell (both annotators):'); print(pd.crosstab(L.cell, L.label).to_string())

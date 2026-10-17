@@ -1,4 +1,4 @@
-# Paper 2 pilot v2 - boundary judgements
+# Expert pilot v2 - boundary judgements
 
 Send each annotator ONE workbook and nothing else:
 - `pilot_annotator_A.xlsx` -> annotator 1
@@ -17,4 +17,4 @@ When both come back:
   P2 prefix/negation differences are unstable (experts contradict each other)
   P3 the original claim (disagreement = contested), kept for honesty; the corpus proxy predicts it fails
 Don't edit it after answers arrive. v1 was replaced before any annotation, after the corpus-proxy test
-(`h2c_proxy_summary.py`). `build_pilot.py` / `make_workbooks.py` regenerate everything (seeded).
+(`consistency_summary.py`). `build_pilot.py` / `make_workbooks.py` regenerate everything (seeded).

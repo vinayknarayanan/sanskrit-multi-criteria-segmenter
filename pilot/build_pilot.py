@@ -1,4 +1,4 @@
-"""Paper 2, H2c pilot: do boundaries where conventions disagree coincide with boundaries humans find contested?
+"""Expert pilot: do boundaries where conventions disagree coincide with boundaries humans find contested?
 
 Unit = one junction (cut point) in one written word; one junction per word.
 Groups (hidden from annotators):
@@ -17,7 +17,7 @@ from indic_transliteration import sanscript
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'analysis')); import paths as PATHS
 with contextlib.redirect_stdout(io.StringIO()):
     from robust_ci import cuts_on_surface
-    from kt4_suffix_cuts import label
+    from suffix_cuts import label
 SEED = 20261015; rng = random.Random(SEED)
 U = PATHS.ROOT + '/'   # expects predictions/ and results/heritage_modes.csv
 W = pickle.load(open(PATHS.CACHE + 'dcs_surface.pkl', 'rb'))['words']

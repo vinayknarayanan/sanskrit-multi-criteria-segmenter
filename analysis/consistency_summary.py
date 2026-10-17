@@ -1,10 +1,10 @@
-"""Summary of h2c_proxy_junctions.csv with a fast word-cluster bootstrap.
+"""Summary of consistency_junctions.csv with a fast word-cluster bootstrap.
 Construction check: on training words the <dcs> setting mostly reproduces the DCS MAJORITY analysis, so group
 membership is partly fixed by whether DCS's majority cuts. The fair comparison holds that constant:
 among junctions the DCS majority cuts (p > .5): A (Frontiers setting also cuts) vs D (Frontiers setting does not)."""
 import paths as P
 import numpy as np, pandas as pd
-R = pd.read_csv('h2c_proxy_junctions.csv')
+R = pd.read_csv('consistency_junctions.csv')
 R = R[R.src == 'dcs_frequent']
 def boot(df, m1, m2, reps=2000):
     w = pd.factorize(df.word)[0]; nW = w.max() + 1; rng = np.random.default_rng(0)

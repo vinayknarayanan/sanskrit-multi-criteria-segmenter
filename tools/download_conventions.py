@@ -1,5 +1,5 @@
-"""Download extra segmentation datasets (SIGHUM, Hackathon, ...) for Paper 2 into this folder.
-Run from this folder on your Windows machine:
+"""Download extra segmentation datasets (SIGHUM, Hackathon, ...) into external/hf/.
+Usage (from the repository root):
     pip install -U huggingface_hub
     python download_conventions.py
 Lists every dataset by chronbmm (Nehrdich, ByT5-Sanskrit author), downloads those whose name mentions

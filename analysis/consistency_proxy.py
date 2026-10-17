@@ -1,4 +1,4 @@
-"""H2c proxy without annotators: are junctions where the <fr>/<dcs> settings disagree also junctions where DCS's own
+"""Corpus consistency check (paper, Sec. 5.4), no annotators: are junctions where the <fr>/<dcs> settings disagree also junctions where DCS's own
 annotators were inconsistent (same written word, cut here in some occurrences and not in others)?
 
 Words: Frontiers eval (3,259) + held-out DCS (3,000) + 6,000 frequent DCS words (dcs_frequent_eval.csv), all that occur >= 5 times in DCS.
@@ -51,7 +51,7 @@ for src, ff, fd in (('frontiers', U + 'byt5_tagged/results_fr.csv', U + 'byt5_ta
             rows.append(dict(src=src, word=w, cut=c, n_dcs=tot, p=p, group='A' if nf and nd else 'D' if nf != nd else 'N',
                              cut_by='both' if nf and nd else 'fr_only' if nf else 'dcs_only' if nd else 'neither', junction=jt))
 R = pd.DataFrame(rows); R['minority'] = np.minimum(R.p, 1 - R.p); R['contested'] = R.minority >= .10
-R.to_csv('h2c_proxy_junctions.csv', index=False)
+R.to_csv('consistency_junctions.csv', index=False)
 print('words', R.word.nunique(), 'junctions', len(R)); print(R.groupby(['group']).size().to_dict())
 def boot(df, g1, g2, reps=2000):
     words = df.word.unique(); rng = np.random.default_rng(0); by = {w: d for w, d in df.groupby('word')}

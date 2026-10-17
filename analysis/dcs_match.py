@@ -29,10 +29,10 @@ def level(l, r, cls):
         return 'C_both'
     return 'D_unatt'
 
-c = pd.read_csv('kt4_extra_cuts.csv')
+c = pd.read_csv('suffix_extra_cuts.csv')
 c['cls'] = c.suffix.replace({'-tva': 'suffix', '-tā': 'suffix', '-vat/-vant': 'suffix', '-mat/-mant': 'suffix'})
 c['dcs'] = [level(l, r, k) for l, r, k in zip(c.left, c.right, c.cls)]
-c.to_csv('kt4_extra_cuts_dcs.csv', index=False)
+c.to_csv('suffix_extra_cuts_dcs.csv', index=False)
 print(f"DCS: {X['nfiles']} files, {X['ntok']:,} tokens\n")
 t = pd.crosstab(c.cls, c.dcs, margins=True); print(t, '\n')
 print((pd.crosstab(c.cls, c.dcs, normalize='index') * 100).round(1), '\n')

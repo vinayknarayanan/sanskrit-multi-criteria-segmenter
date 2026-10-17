@@ -3,7 +3,7 @@ SaCTI rows = sentences; one target compound per sentence carries the compound-ty
 1) consistency of UoH splitting: annotated targets vs context words
 2) UoH vs DCS on target compounds, incl. cases where DCS has the whole as ONE word
 3) what those cases are (negation / prādi / verbal prefix (gati) / sa- / lexicalised noun+noun) x compound type
-Needs: SaCTI repo (github.com/Jivnesh/SaCTI), corpus_uoh_vs_dcs.csv, dcs_surface.pkl (from earlier kt4 scripts)."""
+Needs: SaCTI repo (github.com/Jivnesh/SaCTI), corpus_uoh_vs_dcs.csv, dcs_surface.pkl (built by dcs_surface_index.py and uoh_vs_dcs.py)."""
 import paths as P
 import glob, pickle, unicodedata, pandas as pd
 from indic_transliteration import sanscript

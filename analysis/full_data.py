@@ -1,4 +1,4 @@
-"""Full Frontiers corpus (dataset.csv, 90,893 rows): the Paper 1 numbers that were so far sample-only.
+"""Full Frontiers corpus (dataset.csv, 90,893 rows): corpus-level statistics, incl. the piece-count distribution used as population weights.
   1. population distribution of piece counts -> weights for the stratified sample results
   2. boundary profile of the gold (plain vs sandhi junctions), by derivation
   3. gold derivability: harvested (full 1,100-rule table + insertions) vs grammar table

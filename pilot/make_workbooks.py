@@ -18,7 +18,7 @@ def order(seed):
 
 def build(name, seed):
     wb = Workbook(); ws = wb.active; ws.title = 'Instructions'
-    lines = [('Boundary judgements - pilot (Paper 2)', B), ('', N),
+    lines = [('Boundary judgements - pilot', B), ('', N),
              ('Each row shows one written Sanskrit word and ONE point where it could be divided, marked with |.', N),
              ('The two pieces on either side of that point are shown in dictionary form.', N),
              ('Question: should a segmenter divide the word at this point?', B), ('', N)]

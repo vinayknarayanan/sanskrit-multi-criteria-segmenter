@@ -1,4 +1,4 @@
-"""Kill test #4: what share of ByT5's extra cuts fall before -tā / -tva / -vat(-mat)?
+"""Suffix cuts: what share of ByT5's extra cuts fall before -tā / -tva / -vat(-mat)?
 
 An "extra cut" is a predicted cut with no matching gold cut, i.e. it falls inside a gold piece.
 Engine-free approximation: monotone DP alignment of predicted pieces to gold pieces, where
@@ -83,7 +83,7 @@ def main(path='results_byt5.csv'):
                                      suffix=label(pred[k]), align_cost=round(cost, 3)))
         per_item.append(dict(compound=r.compound, status='ok', align_cost=cost, n_extra=n_extra))
     cuts = pd.DataFrame(rows); items = pd.DataFrame(per_item)
-    cuts.to_csv('kt4_extra_cuts.csv', index=False)
+    cuts.to_csv('suffix_extra_cuts.csv', index=False)
 
     # Gold convention: does Frontiers gold ever split before these suffixes, and how often are they kept inside a piece?
     g_split, g_internal = Counter(), Counter()

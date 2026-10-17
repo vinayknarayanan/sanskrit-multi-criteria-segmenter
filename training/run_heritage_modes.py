@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Kill test 1: re-run the Sanskrit Heritage segmenter in BOTH modes on the 3,259-item sample.
+"""Heritage baseline: re-run the Sanskrit Heritage segmenter in BOTH modes on the 3,259-item sample.
 
   parse mode   ('mode': 'p')  -- what heritage.py's get_analysis() uses by default; PRUNES solutions
   tagging mode ('mode': 't')  -- "Tagging does not prune any solutions" (heritage.py source) ~ the Complete output
@@ -7,7 +7,7 @@
 Hypothesis: the old results_inria.csv (median 1 candidate) came from parse mode. If tagging mode returns many
 candidates per item, INRIA's 0.474 was an output-mode artefact of the wrapper, not the engine's ceiling.
 
-Needs the INRIA site (blocked from the Claude session) or a local Heritage Platform install. Run on YOUR machine:
+Needs access to the INRIA Heritage site or a local Heritage Platform install:
   pip install heritage indic-transliteration pandas
   python run_heritage_modes.py --eval shared_eval_sample.csv --out heritage_modes.csv --limit 5      # test first
   python run_heritage_modes.py --eval shared_eval_sample.csv --out heritage_modes.csv                # full run
