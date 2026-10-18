@@ -31,7 +31,7 @@ Code, evaluation splits, model predictions and intermediate results for the pape
 | `frontiers_2ep_s13` | Frontiers-only ByT5-small (epoch control) | 13 | 2 | Frontiers eval |
 | `frontiers_s{13,7,21,42,99}_on_dcs` | the five Frontiers-only models | – | – | DCS held-out (authentic-key reversal) |
 
-`analysis/five_seed.py` aggregates the five tagged and five Frontiers-only seeds (tag flip, pre-specified ±0.01 equivalence test, epoch control, authentic-key reversal). Model checkpoints are not included.
+`analysis_plan.txt` is the analysis fixed before the extra seeds were run. `analysis/five_seed.py` aggregates the five tagged and five Frontiers-only seeds (tag flip, pre-specified ±0.01 equivalence test, epoch control, authentic-key reversal). Model checkpoints are not included.
 
 ## External data (not redistributed; put under `external/` or point the `S2_*` variables in `analysis/paths.py` at them)
 

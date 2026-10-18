@@ -1,0 +1,13 @@
+Analysis plan for the extra training seeds
+==========================================
+Copied unchanged from the run folder's README. It was written on 16 Oct 2026, after the existing runs
+(tagged seeds 13 and 42, Frontiers-only seed 13) and before any of the extra runs started.
+
+Pre-specified analysis (written 16 Oct 2026, before any of these runs started)
+  1. Tag flip: per seed, the paired gaps exactly as in the paper (strict and form-agnostic, item-level and pooled);
+     report mean and SD over the 5 tagged seeds (13, 42, 7, 21, 99).
+  2. "No cost" claim: equivalence margin +/-0.01 strict F1 (item-level, population-weighted, 3,211 common items).
+     Compare <fr> setting (5 tagged seeds) with the Frontiers-only model (5 seeds: 13, 7, 21, 42, 99):
+     difference of seed means with a 90% interval from a bootstrap over seeds and items (TOST at 5%).
+     Claim "no meaningful cost" only if the whole 90% interval lies within +/-0.01; otherwise report the interval as is.
+  3. No seed is dropped or re-run because of its result. A run that crashes is resumed, not replaced.
