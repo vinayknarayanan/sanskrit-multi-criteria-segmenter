@@ -1,7 +1,7 @@
-# Same Model, Different Answer Key — code and data
+# Change the Answer Key, Change the Winner — code and data
 
 Code, evaluation splits, model predictions and intermediate results for the paper
-*Same Model, Different Answer Key: Annotation Conventions in Sanskrit Word Segmentation* (ISCLS 2027 submission).
+*Change the Answer Key, Change the Winner: A Convention-Switchable Model for Sanskrit Word Segmentation* (ISCLS 2027 submission).
 
 ## Layout
 
@@ -25,6 +25,13 @@ Code, evaluation splits, model predictions and intermediate results for the pape
 | `byt5_tagged_s2` | tagged ByT5-small | 42 | 2 | Frontiers eval, both tags |
 | `tagged_on_dcs`, `tagged_s2_on_dcs` | the two tagged models above | – | – | DCS held-out, both tags |
 | `tagged_on_dcsfreq` | tagged, seed 13 | – | – | frequent DCS forms (§5.4) |
+| `tagged_s7`, `tagged_s21`, `tagged_s99` | tagged ByT5-small | 7, 21, 99 | 2 | Frontiers eval, both tags |
+| `tagged_s{7,21,99}_on_dcs`, `tagged_s{7,21,99}_on_dcsfreq` | the three tagged models above | – | – | DCS held-out / frequent DCS forms, both tags |
+| `frontiers_s7`, `frontiers_s21`, `frontiers_s42`, `frontiers_s99` | Frontiers-only ByT5-small | 7, 21, 42, 99 | 3 | Frontiers eval |
+| `frontiers_2ep_s13` | Frontiers-only ByT5-small (epoch control) | 13 | 2 | Frontiers eval |
+| `frontiers_s{13,7,21,42,99}_on_dcs` | the five Frontiers-only models | – | – | DCS held-out (authentic-key reversal) |
+
+`analysis/five_seed.py` aggregates the five tagged and five Frontiers-only seeds (tag flip, pre-specified ±0.01 equivalence test, epoch control, authentic-key reversal). Model checkpoints are not included.
 
 ## External data (not redistributed; put under `external/` or point the `S2_*` variables in `analysis/paths.py` at them)
 
@@ -69,4 +76,4 @@ Scripts read their inputs from the current folder, so run them from `results/`.
 - The sampling that produced `dataset_tagged.csv`, `dcs_holdout_eval.csv` and `dcs_frequent_eval.csv` was not saved as a script; the files themselves are included.
 - `results_byt5.csv` (ByT5-Sanskrit) and `results_rcnn.csv` are system outputs produced earlier; the commands that generated them are not included.
 - A few paper figures were computed interactively and have no standalone script yet: the zero-tolerance tag-flip gap (0.229), Table 3, the 547 Frontiers forms with two divisions, and Figure 1.
-- Only `robust_ci.py` has been re-run end to end from this layout.
+- Only `robust_ci.py` has been re-run end to end from this layout; `five_seed.py` still uses the analysis machine's paths.
