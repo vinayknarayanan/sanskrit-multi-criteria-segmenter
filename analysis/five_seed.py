@@ -1,16 +1,16 @@
-# Five-seed aggregation (tag flip, TOST equivalence, 2-epoch control, authentic-key reversal).
-# NOTE: paths below are from the analysis machine and have not been re-pointed to this repo layout;
-# run folders correspond to predictions/<run>/. Not yet re-run end to end from this repo.
-"""5-seed analysis, as pre-specified in D:\\New folder\\test\\README.txt (16 Oct 2026).
-Reads whatever runs exist; prints per-seed and aggregate numbers, writes seeds_summary.json."""
+"""Five-seed analysis, as pre-specified before the extra runs (16 Oct 2026): tag flip per seed, the +-0.01 equivalence
+test (TOST, 90% interval, bootstrap over seeds and items), the 2-epoch control and the 293-word reconstructed-key diagnostic.
+Run from results/:   python ../analysis/five_seed.py      -> writes seeds_summary.json
+Run folders are predictions/<run>/ (see README). Uses robust_ci.py from this folder."""
 import io, contextlib, json, os, sys, numpy as np, pandas as pd
-sys.path.insert(0, '/home/claude/kt4')
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import paths as P
 with contextlib.redirect_stdout(io.StringIO()):
     from robust_ci import score_file, wmean, boot_gap, POP, agnostic
-O = '/mnt/user-data/uploads/San/run_kit/runs/'; N = '/mnt/user-data/uploads/test/runs/'
-ev = pd.read_csv('/home/claude/kt4/shared_eval_sample.csv').drop_duplicates('compound')
-hv = pd.read_csv('/mnt/user-data/outputs/kt4/dcs_holdout_eval.csv')
-KEEP = set(pd.read_csv('/home/claude/kt4/robust_scores_frontiers.csv').compound)          # the 3,211 common items
+O = N = P.RUNS
+ev = pd.read_csv(P.DATA + 'shared_eval_sample.csv').drop_duplicates('compound')
+hv = pd.read_csv(P.DATA + 'dcs_holdout_eval.csv')
+KEEP = set(pd.read_csv('robust_scores_frontiers.csv').compound)          # the 3,211 common items
 TAG = {13: (O + 'byt5_tagged/', O + 'tagged_on_dcs/'), 42: (O + 'byt5_tagged_s2/', O + 'tagged_s2_on_dcs/')}
 for s in (7, 21, 99): TAG[s] = (N + f'tagged_s{s}/', N + f'tagged_s{s}_on_dcs/')
 FON = {13: O + 'byt5_frontiers_v2/results_byt5_frontiers.csv'}
@@ -69,7 +69,7 @@ if ok(F2EP):
         vs_3ep_s13=boot_gap(d2, sc(ev, FON[13], KEEP), 'strict')[:3], tagged_fr_s13_minus_2ep=boot_gap(sc(ev, TAG[13][0] + 'results_fr.csv', KEEP), d2, 'strict')[:3])
     print('== 2-epoch control:', A['fonly_2ep_s13'])
 # ---- 293-word diagnostic, all seeds (reconstructed DCS-style key, unweighted)
-f_ = pd.read_csv('/home/claude/kt4/corpus_frontiers_vs_dcs_forward.csv'); bad_ = set(f_[f_.status == 'not in DCS'].compound); conv = {}
+f_ = pd.read_csv('corpus_frontiers_vs_dcs_forward.csv'); bad_ = set(f_[f_.status == 'not in DCS'].compound); conv = {}
 for c, g in f_.groupby('compound', sort=False):
     if c in bad_: continue
     pcs = []
@@ -87,10 +87,10 @@ D = {'tag_fr': [], 'tag_dcs': [], 'fonly': []}
 for s in T: D['tag_fr'].append(diag(TAG[s][0] + 'results_fr.csv')); D['tag_dcs'].append(diag(TAG[s][0] + 'results_dcs.csv'))
 for s, f in FON.items():
     if ok(f): D['fonly'].append(diag(f))
-byt5 = diag('/home/claude/kt4/results_byt5.csv'); rcnn = diag('/home/claude/kt4/results_rcnn.csv')
+byt5 = diag('results_byt5.csv'); rcnn = diag('results_rcnn.csv')
 A['diag293'] = {k: dict(n=len(v), fr_key=agg([x[0] for x in v]), dcs_key=agg([x[1] for x in v])) for k, v in D.items()}
 A['diag293']['byt5'] = byt5; A['diag293']['rcnn'] = rcnn; A['diag293']['n_items'] = len(diff_items)
 print('== 293 diagnostic (unweighted means over seeds):')
 for k, v in A['diag293'].items():
     print(' ', k, v if not isinstance(v, dict) else {kk: (round(vv['mean'], 3), round(vv['sd'] or 0, 3), vv['n']) if isinstance(vv, dict) else vv for kk, vv in v.items()})
-json.dump(dict(per_seed=out, agg=A), open('/home/claude/kt4/seeds/seeds_summary.json', 'w'), indent=1, default=str)
+json.dump(dict(per_seed=out, agg=A), open('seeds_summary.json', 'w'), indent=1, default=str)
