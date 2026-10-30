@@ -1,0 +1,1193 @@
+compound,gold_split,dcs_split,split_count,group,predicted,pred_piece_count,acc_exact
+nāniṣṭaṃ,na+aniṣṭaṃ,na+an+iṣṭam,2,disagree,na aniṣṭam,2,False
+tannaiva,tat+naiva,tat+na+eva,2,disagree,tat na eva,3,False
+tavādya,tava+adya,te+adya,2,disagree,te adya,2,False
+vānarendrastu,vānarendraḥ+tu,vānara+indraḥ+tu,2,disagree,vānara indraḥ tu,3,False
+mahārājaśca,mahārājaḥ+ca,mahā+rājaḥ+ca,2,disagree,mahārājaḥ ca,2,True
+kalpakoṭiśatairapi,kalpakoṭiśataiḥ+api,kalpa+koṭi+śataiḥ+api,2,disagree,kalpa koṭi śataiḥ api,4,False
+doṣastadavastha,doṣaḥ+tadavastha,doṣaḥ+tad+avasthaḥ,2,disagree,doṣaḥ tad avasthaḥ,3,False
+tattvamasi,tattvam+asi,tat+tvam+asi,2,disagree,tattvam asi,2,True
+tattvajñānaṃ,tattvajñānam+vināpi,tattva+jñānam,2,disagree,tattva jñānam,2,False
+tatastataḥ,tataḥ+tataḥ,tatas+tatas,2,disagree,tatas tatas,2,False
+bhobhoḥ,bhoḥ+bhoḥ,bho+bhoḥ,2,disagree,bho bhoḥ,2,False
+govṛṣameva,govṛṣam+eva,go+vṛṣam+eva,2,disagree,govṛṣam eva,2,True
+maholkeva,maholkā+iva,mahā+ulkā+iva,2,disagree,mahā ulkā iva,3,False
+tavādhunā,tava+adhunā,te+adhunā,2,disagree,te adhunā,2,False
+tavaiva,tava+eva,te+eva,2,disagree,te eva,2,False
+pūrvokta,pūrva+ukta,annāt+eva+arthaḥ,2,disagree,pūrva uktaḥ,2,False
+pūrvoktarītyā,pūrva+uktarītyā,pūrva+ukta+rītyā,2,disagree,pūrva uktarītyā,2,True
+śaraṇāgatāsmi,śaraṇāgatā+asmi,śaraṇa+āgatā+asmi,2,disagree,śaraṇa āgatā asmi,3,False
+sudīrgheṇāpi,sudīrgheṇa+api,su+dīrghena+api,2,disagree,su dīrghena api,3,False
+prati,parvatatvāvacchinna+uddeśyakatva,veda+sāram,2,disagree,prati prati,2,False
+nakhakṣatānīva,nakhakṣatāni+iva,nakha+kṣatāni+iva,2,disagree,nakha kṣatāni iva,3,False
+mārgācalavyatikarākuliteva,mārgācalavyatikarākulitā+eva,mārga+acala+vyatikara+ākulitā+iva,2,disagree,mārga acala vyatikara ākulitā iva,5,False
+tadanantarameva,tadanantaram+eva,tad+anantaram+eva,2,disagree,tad anantaram eva,3,False
+samakālameva,samakālam+eva,sama+kālam+eva,2,disagree,sama kālam eva,3,False
+yadyapyaham,yadyapi+aham,yadi+api+aham,2,disagree,yadi api aham,3,False
+śāpenāstaṃgamitamahimā,śāpena+astam+agamitamahimā,śāpena+astaṃgamita+mahimā,3,disagree,śāpena astaṃgamita mahimā,3,False
+nādhikam,na+adhikam,na+_,2,disagree,na adhikam,2,True
+mūrtimatīva,mūrtim+atīva,mūrtimatī+iva,2,disagree,mūrtimatī iva,2,False
+svalpamapi,svalpam+api,su+alpam+api,2,disagree,su alpam api,3,False
+tathaivāyam,tathaiva+ayam,tathā+eva+ayam,2,disagree,tathā eva ayam,3,False
+bhavatītyeva,bhavati+ityeva,bhavati+iti+eva,2,disagree,bhavati iti eva,3,False
+matpituśca,matpituḥ+ca,mad+pituḥ+ca,2,disagree,mad pituḥ ca,3,False
+strīpuruṣāviti,strīpuruṣau+iti,strī+puruṣau+iti,2,disagree,strī puruṣau iti,3,False
+tatsarvamaham,tatsarvam+aham,tat+sarvam+aham,2,disagree,tat sarvam aham,3,False
+yadyapyatra,yadyapi+atra,yadi+api+atra,2,disagree,yadi api atra,3,False
+ajñātavāsaśca,ajñātavāsaḥ+ca,ajñāta+vāsaḥ+ca,2,disagree,ajñāta vāsaḥ ca,3,False
+daṇḍakāraṇyamāgataḥ,daṇḍakāraṇyam+āgataḥ,daṇḍaka+araṇyam+āgataḥ,2,disagree,daṇḍaka araṇyam āgataḥ,3,False
+sargādikṛdvibhuḥ,sargādikṛt+vibhuḥ,sarga+ādi+kṛt+vibhuḥ,2,disagree,sarga ādi kṛt vibhuḥ,4,False
+vyāsākhilānugam,vyāsa+akhilānugam,vyāsaiḥ+akhila+anugam,2,disagree,vyāsa akhila anugam,3,False
+āsīdatītakalpānte,āsīt+atītakalpānte,āsīt+atīta+kalpa+ante,2,disagree,āsīt atīta kalpa ante,4,False
+samudropaplutāstatra,samudropaplutāḥ+tatra,samudra+upaplutāḥ+tatra,2,disagree,samudra upaplutāḥ tatra,3,False
+tasyāñjalyudake,tasya+añjalyudake,tasya+añjali+udake,2,disagree,tasya añjali udake,3,False
+matsyātpāpaghnaṃ,matsyāt+pāpaghnam,matsyāt+pāpa+ghnam,2,disagree,matsyāt pāpa ghnam,3,False
+pibaṃścārkendunārpitaḥ,piban+ca+arkendunā+arpitaḥ,piban+ca+arka+indunā+arpitaḥ,4,disagree,piban ca arka indunā arpitaḥ,5,False
+rāhustacchiraḥ,rāhuḥ+tacchiraḥ,rāhuḥ+tad+śiraḥ,2,disagree,rāhuḥ tat śiraḥ,3,False
+svāśramamāyayau,svāśramam+āyayau,sva+āśramam+āyayau,2,disagree,sva āśramam āyayau,3,False
+śikṣitastāḍakāntakṛt,śikṣitaḥ+tāḍakāntakṛt,śikṣitaḥ+tāḍaka+anta+kṛt,2,disagree,śikṣitaḥ tāḍakānta kṛt,3,False
+śatrughnabharatāvubhau,śatrughnabharatau+ubhau,śatrughna+bharatau+ubhau,2,disagree,śatrughna bharatau ubhau,3,False
+pitrādīnabhyapūjayat,pitrādīn+abhyapūjayat,pitṛ+ādīn+abhyapūjayat,2,disagree,pitrādīn abhyapūjayat,2,True
+guṇānurāgādrājye,guṇānurāgāt+rājye,guṇa+anurāgāt+rājye,2,disagree,guṇa anurāgāt rājye,3,False
+rājavaṃśastu,rājavaṃśaḥ+tu,rāja+vaṃśaḥ+tu,2,disagree,rājavaṃśaḥ tu,2,True
+cārthadarśinī,ca+arthadarśinī,ca+artha+darśiṇī,2,disagree,ca artha darśiṇī,3,False
+satyapāśanibaddhastu,satyapāśanibaddhaḥ+tu,satya+pāśa+nibaddhaḥ+tu,2,disagree,satya pāśa nibaddhaḥ tu,4,False
+rathasthaścīrāḍhyaḥ,rathasthaḥ+cīrāḍhyaḥ,ratha+sthaḥ+cīra+āḍhyaḥ,2,disagree,ratha sthaḥ cīra āḍhyaḥ,4,False
+iṅgudīmūlamāśritaḥ,iṅgudīmūlam+āśritaḥ,iṅguda+mūlam+āśritaḥ,2,disagree,iṅgudī mūlam āśritaḥ,3,False
+śabdabhedācca,śabdabhedāt+ca,śabda+bhedāt+ca,2,disagree,śabda bhedāt ca,3,False
+rājagṛhātpurīm,rājagṛhāt+purīm,rāja+gṛhāt+purīm,2,disagree,rājagṛhāt purīm,2,True
+satyāccīrajaṭādharaḥ,satyāt+cīrajaṭādharaḥ,satyāt+cīra+jaṭā+dharaḥ,2,disagree,satyāt cīra jaṭādharaḥ,3,False
+mṛtyurdhanurdharaḥ,mṛtyuḥ+dhanurdharaḥ,mṛtyuḥ+dhanus+dharaḥ,2,disagree,mṛtyuḥ dhanurdharaḥ,2,True
+laṅkāmaśokākhye,laṅkām+aśokākhye,laṅkām+aśoka+ākhye,2,disagree,laṅkām aśoka ākhye,3,False
+hanumānaṅgadādayaḥ,hanumān+aṅgadādayaḥ,hanumant+aṅgada+ādayaḥ,2,disagree,hanumant aṅgada ādayaḥ,3,False
+dṛṣṭavāñchiṃśapātale,dṛṣṭavān+śiṃśapātale,dṛṣṭavan+śiṃśapā+tale,2,disagree,dṛṣṭa vāñchiṃśa pātale,3,False
+mantrisutānapi,mantrisutān+api,mantri+sutān+api,2,disagree,mantri sutān api,3,False
+samudrapāramāgamya,samudrapāram+āgamya,samudra+pāram+āgamya,2,disagree,samudra pāram āgamya,3,False
+aṅgadādīnaṅgadādyaiḥ,aṅgadādīn+aṅgadādyaiḥ,aṅgada+ādīn+aṅgada+ādyaiḥ,2,disagree,aṅgada ādīnaṅgada ādyaiḥ,3,False
+sītākathāmṛtenaiva,sītākathāmṛtena+eva,sītā+kathā+amṛtena+eva,2,disagree,sītā kathā amṛtena eva,4,False
+sakapirāyayau,sakapiḥ+āyayau,sa+kapiḥ+āyayau,2,disagree,sa kapiḥ āyayau,3,False
+indrajiccharabandhācca,indrajiccharabandhāt+ca,indrajit+śara+bandhāt+ca,2,disagree,indrajit śara bandhāt ca,4,False
+rāmarāvaṇayoriva,rāmarāvaṇayoḥ+iva,rāma+rāvaṇayoḥ+iva,2,disagree,rāma rāvaṇayoḥ iva,3,False
+śuddhāmindrādibhiḥ,śuddhām+indrādibhiḥ,śuddhām+indra+ādibhiḥ,2,disagree,śuddhām indra ādibhiḥ,3,False
+vasiṣṭhādīnnamaskṛtya,vasiṣṭhādīn+namaskṛtya,vasiṣṭha+ādīn+namaskṛtya,2,disagree,vasiṣṭha ādīn namaskṛtya,3,False
+viṣṇunābhyambujādajaḥ,viṣṇunābhyambujāt+ajaḥ,viṣṇu+nābhi+ambujāt+ajaḥ,2,disagree,viṣṇunā abhyambujāt ajaḥ,3,False
+vasudevastaduttamaḥ,vasudevaḥ+taduttamaḥ,vasudevaḥ+tad+uttamaḥ,2,disagree,vasudevaḥ tad uttamaḥ,3,False
+indrotsavastu,indrotsavaḥ+tu,indra+utsavaḥ+tu,2,disagree,indra utsavaḥ tu,3,False
+jarāsandhastadīritaḥ,jarāsandhaḥ+tadīritaḥ,jarāsaṃdhaḥ+tad+īritaḥ,2,disagree,jarāsaṃdhaḥ tad īritaḥ,3,False
+balisutastasya,balisutaḥ+tasya,bali+sutaḥ+tasya,2,disagree,bali sutaḥ tasya,3,False
+rukmiṇyādibhirīśvaraḥ,rukmiṇyādibhiḥ+īśvaraḥ,rukmiṇī+ādibhiḥ+īśvaraḥ,2,disagree,rukmiṇi ādibhiḥ īśvaraḥ,3,False
+śakrānmādryāmaśvikumārataḥ,śakrāt+mādryām+aśvikumārataḥ,śakrāt+mādryām+aśvi+kumārāt,3,disagree,śakrān mādryām aśvi kumārāt,4,False
+mātṛṣaṣṭhāstu,mātṛṣaṣṭhāḥ+tu,mātṛ+ṣaṣṭhāḥ+tu,2,disagree,mātṛ ṣaṣṭhāḥ tu,3,False
+draupadīṣaṣṭhastataḥ,draupadīṣaṣṭhaḥ+tataḥ,draupadī+ṣaṣṭhaḥ+tatas,2,disagree,draupadīṣaṣṭhaḥ tatas,2,False
+daśāhobhirnyapātayat,daśāhobhiḥ+nyapātayat,daśa+ahobhiḥ+nyapātayat,2,disagree,daśāhobhiḥ nyapātayat,2,True
+hastyaśvarathapādātamanyonyāstranipātitam,hastyaśvarathapādātam+anyonyāstranipātitam,hasti+aśva+ratha+pādātam+anyonya+astra+nipātitam,2,disagree,hasti aśva ratha pādātam anyonya astra nipātitam,7,False
+gadayānyānujāṃstasya,gadayā+anyānujān+tasya,gadayā+anya+anujān+tasya,3,disagree,gadayāni ānujān tasya,3,False
+āśramādāśramāntaram,āśramāt+āśramāntaram,āśramāt+āśrama+antaram,2,disagree,āśramāt āśrama antaram,3,False
+bhāramaharaddānavādikam,bhāram+aharat+dānavādikam,bhāram+aharat+dānava+ādikam,3,disagree,bhāra maharat dānava ādikam,4,False
+pātālasvargamīyivān,pātālasvargam+īyivān,pātāla+svargam+īyivāḥ,2,disagree,pātāla svargamīyivān,2,False
+taddhanustāni,taddhanuḥ+tāni,tat+dhanuḥ+tāni,2,disagree,tad dhanus tāni,3,False
+bhūtādiścaiva,bhūtādiḥ+ca+eva,bhūta+ādiḥ+ca+eva,3,disagree,bhūta ādiḥ ca eva,4,False
+ahaṅkārācchabdamātramākāśamabhavattataḥ,ahaṅkārāt+śabdamātram+ākāśam+abhavat+tataḥ,ahaṃkārāt+śabda+mātram+ākāśam+abhavat+tatas,5,disagree,ahaṃkārāt śabda mātram ākāśam abhavat tatas,6,False
+hiraṇyavarṇamabhavat,hiraṇyavarṇam+abhavat,hiraṇya+varṇam+abhavat,2,disagree,hiraṇya varṇam abhavat,3,False
+tadaṇḍamudakeśayam,tadaṇḍam+udakeśayam,tat+aṇḍam+udakeśayam,2,disagree,tad aṇḍam udakeśayam,3,False
+prādānmunyagre,prādāt+munyagre,prādāt+muni+agre,2,disagree,prādāt muni agre,3,False
+rājasūyābhiṣiktānāmādyaḥ,rājasūyābhiṣiktānām+ādyaḥ,rājasūya+abhiṣiktānām+ādyaḥ,2,disagree,rājasūya abhiṣiktānām ādyaḥ,3,False
+rājābhūjjanarañjanāt,rājā+abhūt+janarañjanāt,rājā+abhūt+jana+rañjanāt,3,disagree,rājā abhūt jana rañjanāt,4,False
+ariṣṭanemipatnīnāmapatyānīha,ariṣṭanemipatnīnām+apatyāni+iha,ariṣṭanemi+patnīnām+apatyāni+iha,3,disagree,ariṣṭa nemi patnīnām apatyāni iha,5,False
+prahrādaścātivaiṣṇavaḥ,prahrādaḥ+ca+ativaiṣṇavaḥ,prahrādaḥ+ca+ati+vaiṣṇavaḥ,3,disagree,prahrādaḥ ca ativaiṣṇavaḥ,3,True
+ditirvinaṣṭaputrā,ditiḥ+vinaṣṭaputrā,ditiḥ+vinaṣṭa+putrā,2,disagree,ditiḥ vinaṣṭa putrā,3,False
+devasargastu,devasargaḥ+tu,deva+sargaḥ+tu,2,disagree,devasargaḥ tu,2,True
+dakṣakanyāstu,dakṣakanyāḥ+tu,dakṣa+kanyāḥ+tu,2,disagree,dakṣa kanyāḥ tu,3,False
+aṅguṣṭhaparvamātrāste,aṅguṣṭhaparvamātrāḥ+te,aṅguṣṭha+parva+mātrāḥ+te,2,disagree,aṅguṣṭha parva mātrāḥ te,4,False
+mṛtyorvyādhijarāśokatṛṣṇākrodhāśca,mṛtyoḥ+vyādhijarāśokatṛṣṇākrodhāḥ+ca,mṛtyoḥ+vyādhi+jarā+śoka+tṛṣṇā+krodhāḥ+ca,3,disagree,mṛtyoḥ vyādhi jarā śoka tṛṣṇā krodhāḥ ca,7,False
+rodanādrudranāmakaḥ,rodanāt+rudranāmakaḥ,rodanāt+rudra+nāmakaḥ,2,disagree,rodanāt rudra nāmakaḥ,3,False
+dakṣakopācca,dakṣakopāt+ca,dakṣa+kopāt+ca,2,disagree,dakṣa kopāt ca,3,False
+svāyambhuvādyāstāḥ,svāyambhuvādyāḥ+tāḥ,svāyambhuva+ādyāḥ+tāḥ,2,disagree,svāyambhuvā ādyāḥ tāḥ,3,False
+viṣṇvāderbhuktimuktidāḥ,viṣṇvādeḥ+bhuktimuktidāḥ,viṣṇu+ādeḥ+bhukti+mukti+dāḥ,2,disagree,viṣṇu ādeḥ bhukti mukti dāḥ,5,False
+viṣṇvādervakṣye,viṣṇvādeḥ+vakṣye,viṣṇu+ādeḥ+vakṣye,2,disagree,viṣṇu ādeḥ vakṣye,3,False
+vairāgyaiśvaryameva,vairāgyaiśvaryam+eva,vairāgya+aiśvaryam+eva,2,disagree,vairāgya aiśvaryam eva,3,False
+pitṛgaṇānapi,pitṛgaṇān+api,pitṛ+gaṇān+api,2,disagree,pitṛ gaṇān api,3,False
+nāmayitvāṅgulitrayam,nāmayitvā+aṅgulitrayam,nāmayitvā+aṅguli+trayam,2,disagree,nāmayitvā aṅguli trayam,3,False
+indrādīṃśca,indrādīn+ca,indra+ādīn+ca,2,disagree,indra ādīn ca,3,False
+prakṛtistriguṇātmikā,prakṛtiḥ+triguṇātmikā,prakṛtiḥ+triguṇa+ātmakā,2,disagree,prakṛtiḥ triguṇa ātmakā,3,False
+cāniruddhena,ca+aniruddhena,ca+a+niruddhena,2,disagree,ca aniruddhena,2,True
+tavāṅge,tava+aṅge,te+aṅge,2,disagree,te aṅge,2,False
+tavāstu,tava+astu,te+astu,2,disagree,te astu,2,False
+tāvadyugasahasrāṇi,tāvat+yugasahasrāṇi,tāvat+yuga+sahasrāṇi,2,disagree,tāvat yuga sahasrāṇi,3,False
+svalpenāpi,svalpena+api,su+alpena+api,2,disagree,su alpena api,3,False
+pādahīnastu,pādahīnaḥ+tu,pāda+hīnaḥ+tu,2,disagree,pāda hīnaḥ tu,3,False
+ceśagocare,ca+īśagocare,ca+īśa+gocare,2,disagree,ca īśa gocare,3,False
+tavāntikam,tava+antikam,te+antikam,2,disagree,te antikam,2,False
+śipiviṣṭeti,śipiviṣṭa+iti,śipi+viṣṭa+iti,2,disagree,śipi viṣṭā iti,3,False
+agnirjyotīti,agnirjyoti+iti,agniḥ+jyotiḥ+iti,2,disagree,agniḥ jyoti iti,3,False
+tadviṣṇoriti,tadviṣṇoḥ+iti,tat+viṣṇoḥ+iti,2,disagree,tad viṣṇoḥ iti,3,False
+mānastoketi,mānastoke+iti,māna+stokā+iti,2,disagree,māna stoka iti,3,False
+gandhadvāreti,gandhadvārā+iti,gandha+dvāra+iti,2,disagree,gandha dvāra iti,3,False
+tāvadvarṣasahasrāṇi,tāvat+varṣasahasrāṇi,tāvat+varṣa+sahasrāṇi,2,disagree,tāvat varṣa sahasrāṇi,3,False
+kulaikaviṃśamuddhṛtya,kulaikaviṃśam+uddhṛtya,kula+ekaviṃśam+uddhṛtya,2,disagree,kula ekaviṃśam uddhṛtya,3,False
+gandhapuṣpādibhiryajet,gandhapuṣpādibhiḥ+yajet,gandha+puṣpa+ādibhiḥ+yajet,2,disagree,gandha puṣpa ādibhiḥ yajet,4,False
+ṛgyajuḥsāmamantraiśca,ṛgyajuḥsāmamantraiḥ+ca,ṛc+yajus+sāma+mantraiḥ+ca,2,disagree,ṛc yajus sāma mantraiḥ ca,5,False
+dadyādyāvaddinacatuṣṭayam,dadyāt+yāvat+dinacatuṣṭayam,dadyāt+yāvat+dina+catuṣṭayam,3,disagree,dadyāt yāvat dina catuṣṭayam,4,False
+tavāsmi,tava+asmi,te+asmi,2,disagree,te asmi,2,False
+puṣpādyaiśca,puṣpādyaiḥ+ca,puṣpa+ādyaiḥ+ca,2,disagree,puṣpa ādyaiḥ ca,3,False
+prokṣayedyāgamaṇḍapam,prokṣayet+yāgamaṇḍapam,prokṣayet+yāga+maṇḍapam,2,disagree,prokṣayet yāga maṇḍapam,3,False
+ghṛtādyaiśca,ghṛtādyaiḥ+ca,ghṛta+ādyaiḥ+ca,2,disagree,ghṛta ādyaiḥ ca,3,False
+muhurmuhuḥ,muhuḥ+muhuḥ,muhur+muhur,2,disagree,muhur muhur,2,False
+yāvadīśānagocaram,yāvat+īśānagocaram,yāvat+īśāna+gocaram,2,disagree,yāvat īśāna gocaram,3,False
+ṣaṭpadāśca,ṣaṭpadāḥ+ca,ṣaṣ+padāḥ+ca,2,disagree,ṣaṣ padāḥ ca,3,False
+yāvaccandrārkatārakam,yāvat+candrārkatārakam,yāvat+candra+arka+tārakam,2,disagree,yāvat candra arka tārakam,4,False
+svecchayaiva,svecchayā+eva,sva+icchayā+eva,2,disagree,sva icchayā eva,3,False
+kopīha,kaḥ+api+iha,kopī+iha,3,disagree,kopi iha,2,False
+saptabhiścaiva,saptabhiḥ+ca+eva,sapta+ca+eva,3,disagree,saptabhiḥ ca eva,3,True
+pratīhārastadanvayaḥ,pratīhāraḥ+tadanvayaḥ,pratīhāraḥ+tad+anvayaḥ,2,disagree,pratīhāraḥ tad anvayaḥ,3,False
+saptabhirāvṛtāḥ,saptabhiḥ+āvṛtāḥ,sapta+āvṛtāḥ,2,disagree,saptabhiḥ āvṛtāḥ,2,True
+aśītiyojanāyāmāvarṇavāntarvyavasthitau,aśītiyojanāyāmau+āvarṇau+antarvyavasthitau,aśīti+yojana+āyāmau+arṇava+antar+vyavasthitau,3,disagree,aśīti yojanāyām āvarṇava antar vyavasthitau,5,False
+pūrvapaścāyatāvetāvarṇavāntarvyavasthitau,pūrvapaścāyatau+etau+arṇavau+antarvyavasthitau,pūrva+paśca+āyatau+etau+arṇava+antar+vyavasthitau,4,disagree,pūrva paśca āyatau etau arṇava antar vyavasthitau,7,False
+tīrthaphalamaśnute,tīrthaphalam+aśnute,tīrtha+phalam+aśnute,2,disagree,tīrtha phalam aśnute,3,False
+gandharvāpsarasastathā,gandharvāpsarasaḥ+tathā,gandharva+apsarasaḥ+tathā,2,disagree,gandharva apsarasaḥ tathā,3,False
+kambalāśvatarāvubhau,kambalāśvatarau+ubhau,kambala+aśvatarau+ubhau,2,disagree,kambala aśvatarau ubhau,3,False
+mṛttikālambhanādvāpi,mṛttikālambhanāt+vā+api,mṛttikā+ālambhanāt+vā+api,3,disagree,mṛttikā ālambhanāt vā api,4,False
+lokavacanādapi,lokavacanāt+api,loka+vacanāt+api,2,disagree,loka vacanāt api,3,False
+nātisaṃkṣepavistaram,na+atisaṃkṣepavistaram,na+ati+saṃkṣepa+vistaram,2,disagree,na ati saṃkṣepa vistaram,4,False
+cakṣustejomayaṃ,cakṣuḥ+tejomayaṃ,cakṣuḥ+tejas+mayam,2,disagree,cakṣuḥ tejas mayam,3,False
+sevetetaradūragaḥ,seveta+itaradūragaḥ,seveta+itara+dūra+gaḥ,2,disagree,sevā itara dūra gaḥ,4,False
+cāvirodhayan,ca+avirodhayan,ca+a+virodhayan,2,disagree,ca avirodhayan,2,True
+nāsaṃvṛtamukhaḥ,na+asaṃvṛtamukhaḥ,na+asaṃvṛta+mukhaḥ,2,disagree,na a saṃvṛta mukhaḥ,4,False
+catvaracaityāntaścatuṣpathasurālayān,catvaracaityāntaḥ+catuṣpathasurālayān,catvara+caitya+antar+catuṣpatha+surālayān,2,disagree,catvara caitya antar catuṣpatha sura ālayān,6,False
+purovātātaparajastuṣāraparuṣānilān,purovātātaparajaḥ+tuṣāraparuṣānilān,purovāta+ātapa+rajaḥ+tuṣāra+paruṣa+anilān,2,disagree,purā uvāta ātapa rajas tuṣāra paruṣa anilān,7,False
+śītasaṃrodhāddhemante,śītasaṃrodhāt+hemante,śīta+saṃrodhāt+hemante,2,disagree,śīta saṃrodhāt hemante,3,False
+yuktyārkakiraṇān,yuktyā+arkakiraṇān,_+_+_,2,disagree,yuktyā arka kiraṇān,3,False
+nātighanaṃ,na+atighanaṃ,na+_,2,disagree,na atighanam,2,False
+bhūbāṣpeṇāmlapākena,bhūbāṣpeṇa+amlapākena,bhū+bāṣpeṇa+amla+pākena,2,disagree,bhū bāṣpeṇa amla pākena,4,False
+kṣaudravallaghu,kṣaudravat+laghu,kṣaudra+vat+laghu,2,disagree,kṣaudra vallaghu,2,False
+rogānutpādanīyādhyāyaṃ,rogān+utpādanīyādhyāyaṃ,rogānutpādanīya+adhyāyam,2,disagree,rogān utpādanīya adhyāyam,3,False
+vṛṣyayogāṃśca,vṛṣyayogān+ca,vṛṣya+yogān+ca,2,disagree,vṛṣya yogān ca,3,False
+prajñāparādhānāmindriyopaśamaḥ,prajñāparādhānām+indriyopaśamaḥ,prajñāparādhānām+indriya+upaśamaḥ,2,disagree,prajñā parādhānām indriya upaśamaḥ,4,False
+sadvṛttasyānuvartanam,sadvṛttasya+anuvartanam,sat+vṛttasya+anuvartanam,2,disagree,sat vṛttasya anuvartanam,3,False
+rogānṛtujānna,rogān+ṛtujān+na,rogān+ṛtu+jān+na,3,disagree,rogān ṛtu jānnaḥ,3,False
+nāmbu,na+ambu,na+_,2,disagree,na ambu,2,True
+cālpaśaḥ,ca+alpaśaḥ,ca+_,2,disagree,ca alpaśas,2,False
+vātakaphānāhakṛmiśophodarārśasām,vātakaphān+āhakṛmiśophodarārśasām,_+_+_+_+_+_+_,2,disagree,vāta kapha ānāha kṛmi śopha udara arśasām,7,False
+dhāroṣṇamamṛtopamam,dhāroṣṇam+amṛtopamam,dhāroṣṇam+amṛta+upamam,2,disagree,dhāroṣṇam amṛta upamam,3,False
+naivoṣṇaṃ,na+eva+uṣṇaṃ,na+eva+_,3,disagree,na eva uṣṇam,3,False
+kaphakṛnna,kaphakṛt+na,kapha+kṛt+na,2,disagree,kapha kṛt na,3,False
+bṛṃhaṇāyālaṃ,bṛṃhaṇāyā+alaṃ,_+alam,2,disagree,bṛṃhaṇāya alam,2,False
+nātyuṣṇaṃ,na+atyuṣṇaṃ,na+ati+uṣṇam,2,disagree,na ati uṣṇam,3,False
+noṣṇopacāreṇa,na+uṣṇopacāreṇa,na+_+_,2,disagree,na uṣṇa upacāreṇa,3,False
+kṛmiśophodarānāhaśūlapāṇḍukaphānilān,kṛmiśophodarān+āha+śūlapāṇḍukaphānilān,_+_+_+_+_+_+_+_,3,disagree,kṛmi śopha udara ānāha śūla pāṇḍu kapha anilān,8,False
+sṛṣṭamūtrapurīṣāśca,sṛṣṭamūtrapurīṣāḥ+ca,sṛṣṭa+mūtra+purīṣāḥ+ca,2,disagree,sṛṣṭa mūtra purīṣāḥ ca,4,False
+tridoṣastveva,tridoṣaḥ+tu+eva,tri+doṣaḥ+tu+eva,3,disagree,tridoṣaḥ tu eva,3,True
+medhāgnikaphapittakṛt,medhā+agnikaphapittakṛt,medhā+agni+kapha+pitta+kṛt,2,disagree,medhā agni kapha pitta kṛt,5,False
+nātipathyaḥ,na+atipathyaḥ,na+ati+pathyaḥ,2,disagree,na atipathyaḥ,2,True
+nātiśītagurusnigdhaṃ,na+atiśītagurusnigdhaṃ,na+ati+śīta+guru+snigdham,2,disagree,na atiśīta guru snigdham,4,False
+bhedināvagnidīpanau,bhedinau+agnidīpanau,bhedinau+agni+dīpanau,2,disagree,bhedinau agni dīpanau,3,False
+kāliṅgairvārucirbhaṭam,kāliṅgaiḥ+vāruciḥ+bhaṭam,kāliṅga+ervāru+cirbhaṭam,3,disagree,kāliṅgaiḥ vāruciḥ bhaṭam,3,True
+nātidoṣalam,na+atidoṣalam,na+ati+doṣalam,2,disagree,na ati doṣalam,3,False
+kuṭheraśigrusurasasumukhāsuribhūstṛṇam,kuṭheraśigrusurasasumukhāsuribhūḥ+tṛṇam,kuṭhera+śigru+surasa+sumukha+āsuri+bhūstṛṇam,2,disagree,kuṭhera śigru surasa su mukha asuribhūḥ tṛṇam,7,False
+nātividāhī,na+atividāhī,na+ati+vidāhī,2,disagree,na atividāhī,2,True
+nātipittalaḥ,na+atipittalaḥ,na+ati+pittalaḥ,2,disagree,na ati pittalaḥ,3,False
+nātyuṣṇagurudoṣalam,na+atyuṣṇagurudoṣalam,na+ati+uṣṇa+guru+doṣalam,2,disagree,na ati uṣṇa guru doṣalam,5,False
+nātipittakaraṃ,na+atipittakaraṃ,na+ati+pitta+karam,2,disagree,na atipitta karam,3,False
+jīrṇatayāti,jīrṇatayā+ati,jīrṇa+tayā+ati,2,disagree,jīrṇa tayā ati,3,False
+pathyamavidāhyagnidīpanam,pathyam+avidāhyagnidīpanam,pathyam+avidāhi+agni+dīpanam,2,disagree,pathyam avidāhi agni dīpanam,4,False
+vibandhānāhaviṣṭambhaśūlagauravanāśanam,vibandhān+āhaviṣṭambhaśūlagauravanāśanam,vibandha+ānāha+viṣṭambha+śūla+gaurava+nāśanam,2,disagree,vibandha ānāha viṣṭambha śūla gaurava nāśanam,6,False
+vātakaphānāhaśūlaghnaṃ,vātakaphān+āhaśūlaghnaṃ,vāta+kapha+ānāha+śūla+ghnam,2,disagree,vāta kapha ānāha śūla ghnam,5,False
+triphalākṣyāmayāpahā,triphalā+akṣyāmayāpahā,triphalā+akṣi+āmaya+apahā,2,disagree,triphalā akṣi āmaya apahā,4,False
+gulmaplīhodarānāhaśūlaghnaṃ,gulmaplīhodarān+āhaśūlaghnaṃ,gulma+plīha+udara+ānāha+śūla+ghnam,2,disagree,gulma plīhodara ānāha śūla ghnam,5,False
+nātiśītoṣṇaṃ,na+atiśītoṣṇaṃ,na+atiśīta+uṣṇam,2,disagree,na atiśīta uṣṇam,3,False
+cakorasyākṣivairāgyaṃ,cakorasyā+ākṣivairāgyaṃ,cakorasya+akṣi+vairāgyam,2,disagree,cakorasya akṣi vairāgyam,3,False
+viṣajiddhitam,viṣajit+hitam,viṣa+jit+hitam,2,disagree,viṣa jit hitam,3,False
+nāvanāñjanapāneṣu,nau+anāñjanapāneṣu,nāvana+añjana+pāneṣu,2,disagree,na avanāñjana pāneṣu,3,False
+yāntyapunarbhāvamaprakampyā,yānti+apunaḥ+bhāvam+aprakampyā,yānti+apunarbhāvam+aprakampyāḥ,4,disagree,yānti apunar bhāvam aprakampyā,4,False
+nātitṛptatā,na+atitṛptatā,na+ati+tṛpta+tā,2,disagree,na atitṛpta tā,3,False
+śalyatvenaiva,śalyatvena+eva,śalya+tvena+eva,2,disagree,śalya tvena eva,3,False
+viriktavadupācaret,viriktavat+upācaret,virikta+vat+upācaret,2,disagree,virikta vat upācaret,3,False
+kaphavātānubaddhāmaliṅgā,kaphavātānubaddhā+āmaliṅgā,kapha+vāta+anubaddha+āma+liṅgā,2,disagree,kapha vāta anubaddhām aliṅgā,4,False
+nātidrutavilambitam,na+atidrutavilambitam,na+atidruta+vilambitam,2,disagree,na ati druta vilambitam,4,False
+ghṛtadivyodakakṣīrakṣaudradāḍimasaindhavam,ghṛtadivyodakakṣīrakṣaudradāḍim+asaindhavam,ghṛta+divyodaka+kṣīra+kṣaudra+dāḍima+saindhavam,2,disagree,ghṛta divya udaka kṣīra kṣaudra dāḍima saindhavam,7,False
+nordhvajatrugadaśvāsakāsoraḥkṣatapīnase,na+urdhvajatrugadaśvāsakāsoraḥkṣatapīnase,na+ūrdhvajatru+gada+śvāsa+kāsa+uraḥkṣata+pīnase,2,disagree,na ūrdhva jatru gada śvāsa kāsa uras kṣata pīnase,9,False
+vaśānnānārthayogayoḥ,vaśāt+nānārthayogayoḥ,vaśāt+nānā+artha+yogayoḥ,2,disagree,vaśāt nānā artha yogayoḥ,4,False
+gurvādiṣveva,gurvādiṣu+eva,guru+ādiṣu+eva,2,disagree,guru ādiṣu eva,3,False
+dvidhaivānye,dvidhaivā+anye,dvidhā+eva+anye,2,disagree,dvidhā eva anye,3,False
+nānātmakamapi,nānātmakam+api,nānā+ātmakam+api,2,disagree,nānā ātmakam api,3,False
+rasādīnāmiti,rasādīnām+iti,rasa+ādīnām+iti,2,disagree,rasa ādīnām iti,3,False
+bhūnimbanimbakaṭukātagarāguruvatsakam,bhūnimbanimbakaṭukātagarā+aguruvatsakam,bhūnimba+nimba+kaṭukā+tagara+aguru+vatsakam,2,disagree,bhū nimba nimba kaṭukā tagara aguru vatsakam,7,False
+pāṭhāpāmārgakāṃsyāyoguḍūcīdhanvayāsakam,pāṭhāpāmārgakāṃsyāyaḥ+guḍūcīdhanvayāsakam,pāṭhā+apāmārga+kāṃsya+ayas+guḍūcī+dhanvayāsakam,2,disagree,pāṭhā pāmārga kāṃsyā yoguḍūcī dhanva yāsakam,6,False
+jāṅgalāmiṣāt,jāṅgalām+iṣāt,jāṅgala+āmiṣāt,2,disagree,jāṅgala āmiṣāt,2,False
+gaṇḍārbudagranthigaṇḍorūdaravṛddhitāḥ,gaṇḍāḥ+budagranthigaṇḍoḥ+udaravṛddhitāḥ,gaṇḍa+arbuda+granthi+gaṇḍa+ūru+udara+vṛddhitāḥ,3,disagree,gaṇḍa arbuda granthi gaṇḍoru udara vṛddhi tāḥ,7,False
+ṣṭhīvanakṣavathūdgāraniḥśvāsānnapraveśakṛt,ṣṭhīvanakṣavathūdgāraniḥśvāsān+apraveśakṛt,ṣṭhīvana+kṣavathu+udgāra+niḥśvāsa+anna+praveśa+kṛt,2,disagree,ṣṭhīva nakṣavathu udgāra niḥśvāsa anna praveśa kṛt,7,False
+pākādikarmaṇānalaśabditam,pākādikarmaṇā+analaśabditam,pāka+ādi+karmaṇā+anala+śabditam,2,disagree,pāka ādi karmaṇa anala śabditam,5,False
+evāmbukarmaṇā,eva+ambukarmaṇā,eva+ambu+karmaṇā,2,disagree,eva ambu karmaṇā,3,False
+bahirbhāgāśca,bahirbhāgāḥ+ca,bahis+bhāgāḥ+ca,2,disagree,bahis bhāgāḥ ca,3,False
+tasmādvikāraprakṛtīradhiṣṭhānāntarāṇi,tasmāt+vikāraprakṛtīḥ+adhiṣṭhānāntarāṇi,tasmāt+vikāra+prakṛtīḥ+adhiṣṭhāna+antarāṇi,3,disagree,tasmāt vikāra prakṛtīḥ adhiṣṭhāna antarāṇi,5,False
+tatrānyasthānasaṃstheṣu,tatra+anyasthānasaṃstheṣu,tatra+anya+sthāna+saṃstheṣu,2,disagree,tatra anya sthāna saṃstheṣu,4,False
+balenānyābhibhāviṣu,balena+anyābhibhāviṣu,balena+anya+abhibhāviṣu,2,disagree,balena anya abhibhāviṣu,3,False
+prāyastiryaggatā,prāyaḥ+tiryaggatā,prāyas+tiryañc+gatāḥ,2,disagree,prāyas tiryañc gatā,3,False
+rogāstadudbhavāḥ,rogāḥ+tadudbhavāḥ,rogāḥ+tad+udbhavāḥ,2,disagree,rogāḥ tad udbhavāḥ,3,False
+cordhvajatrūtthān,ca+ūrdhvajatrūtthān,ca+ūrdhva+jatru+utthān,2,disagree,ca ūrdhva jatru utthān,4,False
+atisthaulyāpacīmehajvarodarabhagandarān,atisthaulyā+apacīmehajvarodarabhagandarān,ati+sthaulya+apacī+meha+jvara+udara+bhagaṃdarān,2,disagree,ati sthaulya apacī meha jvara udara bhagaṃdarān,7,False
+śilājatuprayogaśca,śilājatuprayogaḥ+ca,śilājatu+prayogaḥ+ca,2,disagree,śilā jatu prayogaḥ ca,4,False
+svapnaprasaṅgācca,svapnaprasaṅgāt+ca,svapna+prasaṅgāt+ca,2,disagree,svapna prasaṅgāt ca,3,False
+doṣagatyātiricyante,doṣagatyā+atiricyante,doṣa+gatyā+atiricyante,2,disagree,doṣa gatyā atiricyante,3,False
+sārivādiśca,sārivādiḥ+ca,sārivā+ādiḥ+ca,2,disagree,sārivādiḥ ca,2,True
+snehasyānyābhibhūtatvādalpatvācca,snehasya+anyābhibhūtatvāt+alpatvāt+ca,snehasya+anya+abhibhūta+tvāt+alpa+tvāt+ca,4,disagree,snehasya anya abhibhūta tvāt alpa tvāt ca,7,False
+yathoktahetvabhāvācca,yathā+uktahetvabhāvāt+ca,yathā+ukta+hetu+abhāvāt+ca,3,disagree,yathā ukta hetu abhāvāt ca,5,False
+madhyamātraśca,madhyamātraḥ+ca,madhya+mātraḥ+ca,2,disagree,madhya mātraḥ ca,3,False
+dravoṣṇamanabhiṣyandi,dravoṣṇam+anabhiṣyandi,drava+uṣṇam+anabhiṣyandi,2,disagree,drava uṣṇam anabhiṣyandi,3,False
+rāsnairaṇḍajaṭāmiṣaiḥ,rāsnaiḥ+aṇḍajaṭāmiṣaiḥ,rāsnā+eraṇḍa+jaṭā+āmiṣaiḥ,2,disagree,rāsna airaṇḍa jaṭā āmiṣaiḥ,4,False
+bhūtasaṅghāśca,bhūtasaṅghāḥ+ca,bhūta+saṃghāḥ+ca,2,disagree,bhūta saṅghāḥ ca,3,False
+sudhevottamanāgānāṃ,sudhā+iva+uttamanāgānāṃ,sudhā+iva+uttama+nāgānām,3,disagree,sudhā iva uttama nāgānām,4,False
+dhūmatrayasyānyatamaṃ,dhūmatrayasya+anyatamaṃ,dhūma+trayasya+anyatamam,2,disagree,dhūma trayasya anyatamam,3,False
+niḥśleṣmapittamudakaṃ,niḥśleṣmapittam+udakaṃ,niḥśleṣma+pittam+udakam,2,disagree,niḥśleṣma pittam udakam,3,False
+tathātivamanāmayāḥ,tathā+ativamanāmayāḥ,tathā+ativamana+āmayāḥ,2,disagree,tathā ativama nāmayāḥ,3,False
+bahudoṣaśca,bahudoṣaḥ+ca,bahu+doṣaḥ+ca,2,disagree,bahu doṣaḥ ca,3,False
+doṣānalpānalpān,doṣān+alpānalpān,doṣān+alpān+alpān,2,disagree,doṣān alpa analpān,3,False
+snehasvedāvanabhyasya,snehasvedau+anabhyasya,sneha+svedau+an+abhyasya,2,disagree,sneha svedau anabhyasya,3,False
+nātivegaṃ,na+ativegaṃ,na+ati+vegam,2,disagree,na ativegam,2,False
+nātyuṣṇaśītalam,na+atyuṣṇaśītalam,na+ati+uṣṇa+śītalam,2,disagree,na ati uṣṇa śītalam,4,False
+nātisnigdhaṃ,na+atisnigdhaṃ,na+ati+snigdham,2,disagree,na atisnigdham,2,False
+nātitīkṣṇaṃ,na+atitīkṣṇaṃ,na+ati+tīkṣṇam,2,disagree,na atitīkṣṇam,2,False
+saptarātrādvirecitaḥ,saptarātrāt+virecitaḥ,sapta+rātrāt+virecitaḥ,2,disagree,sapta rātrāt virecitaḥ,3,False
+marśasyotkṛṣṭamadhyonā,marśasya+utkṛṣṭamadhyonā,marśasya+utkṛṣṭa+madhya+ūnāḥ,2,disagree,marśasya utkṛṣṭa madhya ūnā,4,False
+tathānārtavadurdine,tathā+anārtavadurdine,tathā+anārtava+durdine,2,disagree,tathā anārtava durdine,3,False
+athottānarjudehasya,atha+uttānaḥ+judehasya,atha+uttāna+ṛju+dehasya,3,disagree,atha uttānarju dehasya,3,False
+dadyāddoṣādyapekṣayā,dadyāt+doṣādyapekṣayā,dadyāt+doṣa+ādi+apekṣayā,2,disagree,dadyāt doṣa ādi apekṣayā,4,False
+nātītāśītivatsare,na+atītāśītivatsare,na+atīta+aśīti+vatsare,2,disagree,na atīta āśīti vatsare,4,False
+nonapañcame,na+ūnapañcame,na+ūna+pañcame,2,disagree,na ūna pañcame,3,False
+cātikrāntasaptatau,ca+atikrāntasaptatau,ca+atikrānta+saptatau,2,disagree,ca atikrānta saptatau,3,False
+marśavacca,marśavat+ca,marśa+vat+ca,2,disagree,marśavat ca,2,True
+āśukṛccirakāritvaṃ,āśukṛt+cirakāritvaṃ,āśu+kṛt+cira+kāritvam,2,disagree,āśukṛt cirakāri tvam,3,False
+karṇāsyākṣisrāvakaṇḍvartijāḍyaṃ,karṇāsya+akṣisrāvakaṇḍvartijāḍyaṃ,karṇa+āsya+akṣi+srāva+kaṇḍū+arti+jāḍyam,2,disagree,karṇāsya akṣi srāva kaṇḍvarti jāḍyam,5,False
+hṛllāsatandrārucipīnasāśca,hṛllāsatandrārucipīnasāḥ+ca,hṛllāsa+tandrā+aruci+pīnasāḥ+ca,2,disagree,hṛllāsa tandrā ruci pīnasāḥ ca,5,False
+varṇakṛcca,varṇakṛt+ca,varṇa+kṛt+ca,2,disagree,varṇa kṛt ca,3,False
+śeṣeṣvatyarthaśītalaḥ,śeṣeṣu+atyarthaśītalaḥ,śeṣeṣu+atyartha+śītalaḥ,2,disagree,śeṣeṣu atyartha śītalaḥ,3,False
+ityardhārdhoditā,iti+ardhārdhoditā,iti+ardha+ardha+uditāḥ,2,disagree,iti ardha ardha uditā,4,False
+mātrāsahasrāṇyaruje,mātrāsahasrāṇi+aruje,mātrā+sahasrāṇi+aruje,2,disagree,mātrā sahasrāṇi aruje,3,False
+janayatīndriyaprasādaṃ,janayati+indriyaprasādaṃ,janayati+indriya+prasādam,2,disagree,janayati indriya prasādam,3,False
+noṣṇagabhastibhiḥ,na+uṣṇagabhastibhiḥ,na+uṣṇa+gabhastibhiḥ,2,disagree,na uṣṇa gabhastibhiḥ,3,False
+nātyuṣṇe,na+atyuṣṇe,na+ati+uṣṇe,2,disagree,na ati uṣṇe,3,False
+conmeṣanimeṣaṇam,ca+unmeṣanimeṣaṇam,ca+unmeṣa+nimeṣaṇam,2,disagree,ca unmeṣa nimeṣaṇam,3,False
+apetauṣadhasaṃrambhaṃ,apeta+auṣadhasaṃrambhaṃ,apeta+auṣadha+saṃrambham,2,disagree,apeta oṣadha saṃrambham,3,False
+vottānaśāyinaḥ,vā+uttānaśāyinaḥ,vā+uttāna+śāyinaḥ,2,disagree,vā uttāna śāyinaḥ,3,False
+mṛgapakṣiyakṛnmāṃsamuktāyastāmrasaindhavaiḥ,mṛgapakṣiyakṛnmāṃsamuktāyaḥ+tāmrasaindhavaiḥ,mṛga+pakṣi+yakṛt+māṃsa+muktā+ayas+tāmra+saindhavaiḥ,2,disagree,mṛga pakṣiya kṛt māṃsa muktāyaḥ tāmra saindhavaiḥ,7,False
+aṣṭādaśāṅgulāyāmānyāyasāni,aṣṭādaśāṅgulāyām+ānyāyasāni,aṣṭādaśa+aṅgula+āyāmāni+āyasāni,2,disagree,aṣṭādaśa aṅgulāyāmāni āyasāni,3,False
+ardhāṅgulocchritodvṛttakarṇikaṃ,ardhāṅgulocchritot+vṛttakarṇikaṃ,ardha+aṅgula+ucchrita+udvṛtta+karṇikam,2,disagree,ardha aṅgula ucchrita udvṛtta karṇikam,5,False
+tvaṣṭādaśāṅgulaḥ,tu+aṣṭādaśāṅgulaḥ,tu+aṣṭādaśa+aṅgulaḥ,2,disagree,tu aṣṭādaśa aṅgulaḥ,3,False
+gulmavilayonnamane,gulmavilayon+namane,gulma+vilaya+unnamane,2,disagree,gulma vilaya unnamane,3,False
+pāyāvāsannadūrārthe,pāyau+āsannadūrārthe,pāyau+āsanna+dūra+arthe,2,disagree,pāyau āsanna dūra arthe,4,False
+tarjanyantarnakhākṛti,tarjanyantaḥ+nakhākṛti,tarjanī+antar+nakha+ākṛti,2,disagree,tarjanī antar nakha ākṛti,4,False
+godantasadṛśārdhāṅgulānanā,godantasadṛśā+ardhāṅgulānanā,go+danta+sadṛśā+ardha+aṅgula+ānanā,2,disagree,godanta sadṛśa ardha aṅgula ānanā,5,False
+tayordhvadaṇḍayā,tayā+urdhvadaṇḍayā,tayā+ūrdhva+daṇḍayā,2,disagree,tayoḥ dhva daṇḍayā,3,False
+tvardhāṅgulāyatam,tu+ardhāṅgulāyatam,tu+ardha+aṅgula+āyatam,2,disagree,tu ardha aṅgula āyatam,4,False
+pakvāmasaṃśaye,pakvām+asaṃśaye,pakva+āma+saṃśaye,2,disagree,pakvāma saṃśaye,2,False
+yantrādīnyupayogaṃ,yantrādīni+upayogaṃ,yantra+ādīni+upayogam,2,disagree,yantra ādīni upayogam,3,False
+mūleṣvāharaṇārthāni,mūleṣu+āharaṇārthāni,mūleṣu+āharaṇa+arthāni,2,disagree,mūleṣu āharaṇa arthāni,3,False
+śalākāpihitāsyaśca,śalākāpihitāsyaḥ+ca,śalākā+pihita+āsyaḥ+ca,2,disagree,śalākā pihita āsyaḥ ca,4,False
+apyasamyagvamanāt,api+asamyagvamanāt,api+asamyak+vamanāt,2,disagree,api asamyak vamanāt,3,False
+padairuparigāmibhiḥ,padaiḥ+uparigāmibhiḥ,padaiḥ+upari+gāmibhiḥ,2,disagree,padaiḥ uparigāmibhiḥ,2,True
+pracchānenaikadeśasthaṃ,pracchānena+ekadeśasthaṃ,pracchānena+eka+deśa+stham,2,disagree,pracchānena eka deśa stham,4,False
+harecchṛṅgādibhiḥ,haret+śṛṅgādibhiḥ,haret+śṛṅga+ādibhiḥ,2,disagree,haret śṛṅga ādibhiḥ,3,False
+jānūccāsanasaṃsthitaḥ,jānūt+ca+āsanasaṃsthitaḥ,jānu+ucca+āsana+saṃsthitaḥ,3,disagree,jānu uccāsana saṃsthitaḥ,3,False
+aṅguṣṭhenonnamayyāgre,aṅguṣṭhena+unnamayyāgre,aṅguṣṭhena+unnamayya+agre,2,disagree,aṅguṣṭhena unnamayya agre,3,False
+vidhyeddhastasirāṃ,vidhyet+dhastasirāṃ,vidhyet+hasta+sirām,2,disagree,vidhyet hasta sirām,3,False
+vedhyapradeśācca,vedhyapradeśāt+ca,vedhya+pradeśāt+ca,2,disagree,vedhya pradeśāt ca,3,False
+raktasyāsrutihetavaḥ,raktasya+asrutihetavaḥ,raktasya+asruti+hetavaḥ,2,disagree,raktasya asruti hetavaḥ,3,False
+nātyuṣṇaśītaṃ,na+atyuṣṇaśītaṃ,na+ati+uṣṇa+śītam,2,disagree,na ati uṣṇa śītam,4,False
+hitamannapānam,hitam+annapānam,hitam+anna+pānam,2,disagree,hitam anna pānam,3,False
+nāvidvān,na+avidvān,na+a+vidvān,2,disagree,na a vidvān,3,False
+putrapautraiśca,putrapautraiḥ+ca,putra+pautraiḥ+ca,2,disagree,putra pautraiḥ ca,3,False
+nanṛtuścāpsarogaṇāḥ,nanṛtuḥ+ca+apsarogaṇāḥ,nanṛtuḥ+ca+apsaras+gaṇāḥ,3,disagree,nanṛtuḥ ca apsaras gaṇāḥ,4,False
+puṣpavṛṣṭiśca,puṣpavṛṣṭiḥ+ca,puṣpa+vṛṣṭiḥ+ca,2,disagree,puṣpa vṛṣṭiḥ ca,3,False
+svalpenaiva,svalpena+eva,su+alpena+eva,2,disagree,su alpena eva,3,False
+tatkṣaṇādeva,tatkṣaṇāt+eva,tad+kṣaṇāt+eva,2,disagree,tad kṣaṇāt eva,3,False
+rājaputrāśca,rājaputrāḥ+ca,rāja+putrāḥ+ca,2,disagree,rāja putrāḥ ca,3,False
+tavāhaṃ,tava+ahaṃ,te+aham,2,disagree,te aham,2,False
+tavānurūpā,tava+anurūpā,te+anurūpā,2,disagree,te anurūpā,2,False
+rāmarāvaṇayoryuddhaṃ,rāmarāvaṇayoḥ+yuddhaṃ,rāma+rāvaṇayoḥ+yuddham,2,disagree,rāma rāvaṇayoḥ yuddham,3,False
+puruṣasyālpatejasaḥ,puruṣasya+alpatejasaḥ,puruṣasya+alpa+tejasaḥ,2,disagree,puruṣasya alpa tejasaḥ,3,False
+netrāturasyeva,netrāturasya+iva,netra+āturasya+iva,2,disagree,netra āturasya iva,3,False
+śirasyañjalimādhāya,śirasyañjalim+ādhāya,śirasi+añjalim+ādhāya,2,disagree,śirasi añjali mādhāya,3,False
+kaikeyyānandavardhanaḥ,kaikeyyī+ānandavardhanaḥ,kaikeyī+ānanda+vardhanaḥ,2,disagree,kaikeyya ānanda vardhanaḥ,3,False
+sudūramapi,sudūram+api,su+dūram+api,2,disagree,sudūram api,2,True
+naikavāraṃ,na+ekavāraṃ,na+eka+vāram,2,disagree,na ekavāram,2,False
+etadarthameva,etadartham+eva,etad+artham+eva,2,disagree,etat artham eva,3,False
+adṛṣṭvaiva,adṛṣṭvā+eva,a+dṛṣṭvā+eva,2,disagree,adṛṣṭvā eva,2,True
+naivāsti,naiva+asti,na+eva+asti,2,disagree,na eva asti,3,False
+abhuktvaiva,abhuktvā+eva,a+bhuktvā+eva,2,disagree,abhuktvā eva,2,True
+tavābhīṣṭaṃ,tava+abhīṣṭaṃ,te+abhīṣṭam,2,disagree,te abhīṣṭam,2,False
+tavaivāstu,tava+eva+astu,te+eva+astu,3,disagree,te eva astu,3,False
+tavānena,tava+anena,te+anena,2,disagree,te anena,2,False
+svabhāvaprabhavairguṇaiḥ,svabhāvaprabhavaiḥ+guṇaiḥ,svabhāva+prabhavaiḥ+guṇaiḥ,2,disagree,svabhāva prabhavaiḥ guṇaiḥ,3,False
+dhanadhānyaiśca,dhanadhānyaiḥ+ca,dhana+dhānyaiḥ+ca,2,disagree,dhana dhānyaiḥ ca,3,False
+tadanantaramasau,tadanantaram+asau,tad+anantaram+asau,2,disagree,tad anantaram asau,3,False
+akṛtvāpi,akṛtvā+api,a+kṛtvā+api,2,disagree,a kṛtvā api,3,False
+yadadyaprabhṛti,yat+adyaprabhṛti,yat+adya+prabhṛti,2,disagree,yat adya prabhṛti,3,False
+bhītabhītaḥ,bhītaḥ+bhītaḥ,bhīta+bhītaḥ,2,disagree,bhīta bhītaḥ,2,False
+mahajjanyamajani,mahajjanyam+ajani,mahat+janyam+ajani,2,disagree,mahat janyam ajani,3,False
+aharahaḥ,ahaḥ+ahaḥ,ahar+ahar,2,disagree,aha rahaḥ,2,False
+tathaivātra,tathaiva+atra,tathā+eva+atra,2,disagree,tathā eva atra,3,False
+ityevamādi,ityevam+ādi,iti+evamādi,2,disagree,iti evam ādi,3,False
+maharṣistu,maharṣiḥ+tu,mahā+ṛṣiḥ+tu,2,disagree,mahā ṛṣiḥ tu,3,False
+kamapyupāyam,kamapi+upāyam,kam+api+upāyam,2,disagree,kamapi upāyam,2,True
+dvārapālaśca,dvārapālaḥ+ca,dvāra+pālaḥ+ca,2,disagree,dvārapālaḥ ca,2,True
+svalpāpi,svalpā+api,su+alpā+api,2,disagree,su alpā api,3,False
+svātmānamapi,svātmānam+api,sva+ātmānam+api,2,disagree,sva ātmānam api,3,False
+ityatrāpi,ityatra+api,iti+atra+api,2,disagree,iti atra api,3,False
+yatsamayā,yatsaḥ+mayā,yat+samayā,2,disagree,yat samayā,2,False
+tatraivāstām,tatraiva+āstām,tatra+eva+āstām,2,disagree,tatra eva āstām,3,False
+tadāprabhṛtyeva,tadāprabhṛti+eva,tadā+prabhṛti+eva,2,disagree,tadā aprabhṛti eva,3,False
+akṛtvaiva,akṛtvā+eva,a+kṛtvā+eva,2,disagree,akṛtvā eva,2,True
+svasthacittaśca,svasthacittaḥ+ca,svastha+cittaḥ+ca,2,disagree,svastha cittaḥ ca,3,False
+ityatraiva,ityatra+eva,iti+atra+eva,2,disagree,iti atra eva,3,False
+candramasīti,candram+asi+iti,candramasi+iti,3,disagree,candramasi iti,2,False
+śaktirityarthaḥ,śaktiḥ+ityarthaḥ,śaktiḥ+iti+arthaḥ,2,disagree,śaktiḥ iti arthaḥ,3,False
+tattvameva,tattvam+eva,tat+tvam+eva,2,disagree,tattvam eva,2,True
+nātidūreṇa,na+atidūreṇa,na+ati+dūreṇa,2,disagree,na ati dūreṇa,3,False
+kartṛtvamiti,kartṛtvam+iti,kartṛ+tvam+iti,2,disagree,kartṛ tvam iti,3,False
+tathaivāha,tathaiva+āha,tathā+eva+āha,2,disagree,tathā eva āha,3,False
+cetyarthaḥ,ca+ityarthaḥ,ca+iti+arthaḥ,2,disagree,ca iti arthaḥ,3,False
+madarthameva,madartham+eva,mad+artham+eva,2,disagree,mad artham eva,3,False
+tavādhīnaṃ,tava+adhīnaṃ,te+adhīnam,2,disagree,te adhīnam,2,False
+dīrghāyuriti,dīrghāyuḥ+iti,dīrgha+āyūḥ+iti,2,disagree,dīrgha āyuḥ iti,3,False
+savyādhaḥ,saḥ+vyādhaḥ,savya+adhas,2,disagree,sa vyādhaḥ,2,False
+tathaivāstu,tathaiva+astu,tathā+eva+astu,2,disagree,tathā eva astu,3,False
+rājakumārameva,rājakumāram+eva,rāja+kumāram+eva,2,disagree,rāja kumāram eva,3,False
+tvamatraiva,tvam+atraiva,tvam+atra+eva,2,disagree,tvam atra eva,3,False
+tavābhilaṣitaṃ,tava+abhilaṣitaṃ,te+abhilaṣitam,2,disagree,te abhilaṣitam,2,False
+tavāntikaṃ,tava+antikaṃ,te+antikam,2,disagree,te antikam,2,False
+tattathoktaṃ,tattathā+uktaṃ,tat+tathā+uktam,2,disagree,tat tathā uktam,3,False
+bhavatītyarthaḥ,bhavati+ityarthaḥ,bhavati+iti+arthaḥ,2,disagree,bhavati iti arthaḥ,3,False
+bhedastathāpi,bhedaḥ+tathāpi,bhedaḥ+tathā+api,2,disagree,bhedaḥ tathāpi,2,True
+tadbhedamāha,tadbhedam+āha,tad+bhedam+āha,2,disagree,tat bhedam āha,3,False
+udāharaṇāntaramāha,udāharaṇāntaram+āha,udāharaṇa+antaram+āha,2,disagree,udāharaṇa antaram āha,3,False
+kṛtakatvāditi,kṛtakatvāt+iti,kṛtaka+tvāt+iti,2,disagree,kṛtaka tvāt iti,3,False
+akṛtakatvāditi,akṛtakatvāt+iti,akṛtaka+tvāt+iti,2,disagree,akṛtaka tvāt iti,3,False
+heturnāsti,hetuḥ+nāsti,hetuḥ+na+asti,2,disagree,hetuḥ na asti,3,False
+yathā,yathā+a,deva+jāyate+saṃyogaḥ+upasarga+sāmagryāḥ+yathā+suśrutasya+asuraiḥ+jāḥ,2,disagree,yathā ā,2,False
+sahetyarthaḥ,saha+ityarthaḥ,saha+iti+arthaḥ,2,disagree,saha iti arthaḥ,3,False
+bhavatītyabhiprāyaḥ,bhavati+ityabhiprāyaḥ,bhavati+iti+abhiprāyaḥ,2,disagree,bhavati iti abhiprāyaḥ,3,False
+tathābhāvādutpannasya,tathābhāvāt+utpannasya,tathā+bhāvāt+utpannasya,2,disagree,tathā abhāvāt utpannasya,3,False
+ekadharmopapatteraviśeṣe,ekadharmopapatteḥ+aviśeṣe,eka+dharma+upapattyāḥ+aviśeṣe,2,disagree,eka dharma upapattyāḥ aviśeṣe,4,False
+pratiṣedhānupapatteśca,pratiṣedhānupapatteḥ+ca,pratiṣedha+anupapattyāḥ+ca,2,disagree,pratiṣedha anupapattyāḥ ca,3,False
+kāraṇāntarādapi,kāraṇāntarāt+api,kāraṇa+antarāt+api,2,disagree,kāraṇa antarāt api,3,False
+nityamanityabhāvādanitye,nityamanityabhāvāt+anitye,nityam+anitya+bhāvāt+anitye,2,disagree,nityam anitya bhāvāt anitye,4,False
+nityatvopapatternityasamaḥ,nityatvopapatteḥ+nityasamaḥ,nitya+tva+upapattyāḥ+nityasamaḥ,2,disagree,nitya tva upapattyāḥ nitya samaḥ,5,False
+pratijñāhetvorvirodhaḥ,pratijñāhetvoḥ+virodhaḥ,pratijñā+hetuvoḥ+virodhaḥ,2,disagree,pratijñā hetvoḥ virodhaḥ,3,False
+nigrahasthānamiti,nigrahasthānam+iti,nigraha+sthānam+iti,2,disagree,nigraha sthānam iti,3,False
+varṇakramanirdeśavannirarthakam,varṇakramanirdeśavat+nirarthakam,varṇa+krama+nirdeśa+vat+nirarthakam,2,disagree,varṇa krama nirdeśa vat nirarthakam,5,False
+pramāṇamityarthaḥ,pramāṇam+ityarthaḥ,pramāṇam+iti+arthaḥ,2,disagree,pramāṇam iti arthaḥ,3,False
+dūrasthamapi,dūrastham+api,dūra+stham+api,2,disagree,dūra stham api,3,False
+prakṛtikṛpaṇāścetanācetaneṣu,prakṛtikṛpaṇāḥ+cetanācetaneṣu,prakṛti+kṛpaṇāḥ+cetana+acetaneṣu,2,disagree,prakṛti kṛpaṇāḥ cetana ācetaneṣu,4,False
+punastathaiva,punaḥ+tathaiva,punar+tathā+eva,2,disagree,punar tathā eva,3,False
+nābhūtvā,na+abhūtvā,na+a+bhūtvā,2,disagree,na abhūtvā,2,True
+paralokamagāt,paralokam+agāt,para+lokam+agāt,2,disagree,para lokam agāt,3,False
+tatkālameva,tatkālam+eva,tad+kālam+eva,2,disagree,tad kālam eva,3,False
+punastadeva,punaḥ+tadeva,punar+tat+eva,2,disagree,punar tat eva,3,False
+itaḥparamapi,itaḥparam+api,itas+param+api,2,disagree,itas param api,3,False
+tavāsmīti,tava+asmi+iti,te+asmi+iti,3,disagree,te asmi iti,3,False
+bhīṣāsmādvātaḥ,bhīṣāsmāt+vātaḥ,bhīṣā+asmāt+vātaḥ,2,disagree,bhīṣā asmāt vātaḥ,3,False
+bhīṣāsmādagniścendraśca,bhīṣāsmāt+agniḥ+ca+indraḥ+ca,bhīṣā+asmāt+agniḥ+ca+indraḥ+ca,5,disagree,bhīṣā asmāt agniḥ ca indraḥ ca,6,False
+dvādaśaivākṣarāṇi,dvādaśaḥ+eva+akṣarāṇi,dvādaśā+eva+akṣarāṇi,3,disagree,dvādaśa eva akṣarāṇi,3,False
+trayodaśādīnyaticchandāṃsi,trayodaśādīni+aticchandāṃsi,trayodaśa+ādīni+aticchandāṃsi,2,disagree,trayodaśa ādīni aticchandāṃsi,3,False
+putranāmāsi,putranāmā+asi,putra+nāmā+asi,2,disagree,putra nāma asi,3,False
+tatsaviturvareṇyaṃ,tatsavituḥ+vareṇyaṃ,tat+savituḥ+vareṇyam,2,disagree,tad savituḥ vareṇyam,3,False
+tatpunarapi,tat+punarapi,tat+punar+api,2,disagree,tat punar api,3,False
+sādaramabhāṣata,sādaram+abhāṣata,sa+ādaram+abhāṣata,2,disagree,sādaram abhāṣata,2,True
+tatraivopāviśat,tatraiva+upāviśat,tatra+eva+upāviśat,2,disagree,tatra eva upāviśat,3,False
+punastatraiva,punaḥ+tatraiva,punar+tatra+eva,2,disagree,punar tatra eva,3,False
+ityevamādīn,iti+evam+ādīn,iti+evamādīn,3,disagree,iti evam ādīn,3,True
+ekavāramapi,ekavāram+api,eka+vāram+api,2,disagree,ekavāram api,2,True
+sāśrunetro,sa+aśrunetra,sa+aśru+netraḥ,2,disagree,sa aśru netraḥ,3,False
+matsaṃsthāmadhigacchati,matsaṃsthām+adhigacchati,mad+saṃsthām+adhigacchati,2,disagree,mad saṃsthām adhigacchati,3,False
+brahmabhūtamakalmaṣam,brahmabhūtam+akalmaṣam,brahma+bhūtam+akalmaṣam,2,disagree,brahma bhūtam akalmaṣam,3,False
+vṛddhastathaiva,vṛddhaḥ+tathaiva,vṛddhaḥ+tathā+eva,2,disagree,vṛddhaḥ tathā eva,3,False
+pratyakṣatastu,pratyakṣataḥ+tu,pratyakṣāt+tu,2,disagree,pratyakṣataḥ tu,2,True
+sasmitamuktam,sasmitam+uktam,sa+smitam+uktam,2,disagree,sasmitam uktam,2,True
+tāstāśca,tāstāḥ+ca,tāḥ+tāḥ+ca,2,disagree,tāḥ tāḥ ca,3,False
+vātyeva,vātyā+iva,vā+ati+eva,2,disagree,vā ati eva,3,False
+deveśaśca,deveśaḥ+ca,deva+īśaḥ+ca,2,disagree,deveśaḥ ca,2,True
+tathaivākarot,tathaiva+akarot,tathā+eva+akarot,2,disagree,tathā eva akarot,3,False
+sparśamātreṇaiva,sparśamātreṇa+eva,sparśa+mātreṇa+eva,2,disagree,sparśa mātreṇa eva,3,False
+devakanyeva,devakanyā+eva,deva+kanyā+iva,2,disagree,devakanī eva,2,False
+tatphalamaśnute,tatphalam+aśnute,tat+phalam+aśnute,2,disagree,tad phalam aśnute,3,False
+omityuktvā,om+ityuktvā,om+iti+uktvā,2,disagree,om iti uktvā,3,False
+patanneva,patat+na+eva,patan+eva,3,disagree,patan eva,2,False
+yatkamapi,yat+kamapi,yat+kam+api,2,disagree,yat kamapi,2,True
+pratipaccandralekheva,pratipat+candralekhā+iva,pratipad+candra+lekhā+iva,3,disagree,pratipad candra lekhā iva,4,False
+evāntarbhāvāt,eva+antarbhāvāt,eva+_,2,disagree,eva antarbhāvāt,2,True
+kāraṇamityarthaḥ,kāraṇam+ityarthaḥ,kāraṇam+iti+arthaḥ,2,disagree,kāraṇam iti arthaḥ,3,False
+paravalliṅgaṃ,paravat+liṅgaṃ,para+vat+liṅgam,2,disagree,para valliṅgam,2,False
+ityatrāha,ityatra+āha,iti+atra+āha,2,disagree,iti atra āha,3,False
+grahaṇamityarthaḥ,grahaṇam+ityarthaḥ,grahaṇam+iti+arthaḥ,2,disagree,grahaṇam iti arthaḥ,3,False
+śatāṃśenāpi,śatāṃśena+api,śata+aṃśena+api,2,disagree,śata aṃśena api,3,False
+saceti,saḥ+ca+iti,sacā+iti,3,disagree,saca iti,2,False
+nirṇayārthamapadiṣṭaḥ,nirṇayārtham+apadiṣṭaḥ,nirṇaya+artham+apadiṣṭaḥ,2,disagree,nirṇaya artham apadiṣṭaḥ,3,False
+tasmādityarthaḥ,tasmāt+ityarthaḥ,tasmāt+iti+arthaḥ,2,disagree,tasmāt iti arthaḥ,3,False
+tānītyarthaḥ,tāni+ityarthaḥ,tāni+iti+arthaḥ,2,disagree,tāni iti arthaḥ,3,False
+ekatvamapi,ekatvam+api,eka+tvam+api,2,disagree,eka tvam api,3,False
+nānupapannaṃ,na+anupapannaṃ,na+an+upapannam,2,disagree,na anupapannam,2,False
+subahūnyapi,subahūni+api,su+bahūni+api,2,disagree,su bahūni api,3,False
+kiṃceti,kim+ca+iti,kiṃca+iti,3,disagree,kiṃca iti,2,False
+tadarthatvāt,tat+arthatvāt,tad+artha+tvāt,2,disagree,tad artha tvāt,3,False
+kāraṇatvamiti,kāraṇatvam+iti,kāraṇa+tvam+iti,2,disagree,kāraṇa tvam iti,3,False
+tadabhāvaśca,tadabhāvaḥ+ca,tad+abhāvaḥ+ca,2,disagree,tad abhāvaḥ ca,3,False
+darśayatītyarthaḥ,darśayati+ityarthaḥ,darśayati+iti+arthaḥ,2,disagree,darśayati iti arthaḥ,3,False
+anavāpyaiva,anavāpya+eva,an+avāpya+eva,2,disagree,an avāpya eva,3,False
+tanmayāpi,tanmayā+api,tat+mayā+api,2,disagree,tat mayā api,3,False
+sāśrunayanaḥ,saḥ+aśrunayanaḥ,sa+aśru+nayanaḥ,2,disagree,sa aśru nayanaḥ,3,False
+kenāpyupāyena,kenāpi+upāyena,kena+api+upāyena,2,disagree,kena api upāyena,3,False
+āgatāgatāśca,āgatāḥ+gatāḥ+ca,āgata+āgatāḥ+ca,3,disagree,āgata āgatāḥ ca,3,False
+sabhāsadastu,sabhāsadaḥ+tu,sabhā+sadaḥ+tu,2,disagree,sabhāsadaḥ tu,2,True
+savinayamabhāṣata,savinayam+abhāṣata,sa+vinayam+abhāṣata,2,disagree,savinayam abhāṣata,2,True
+suvṛttāśca,suvṛttāḥ+ca,su+vṛttāḥ+ca,2,disagree,suvṛttāḥ ca,2,True
+tathaivoktaṃ,tathaiva+uktaṃ,tathā+eva+uktam,2,disagree,tathā eva uktam,3,False
+tadvākyamākarṇya,tadvākyam+ākarṇya,tad+vākyam+ākarṇya,2,disagree,tad vākyam ākarṇya,3,False
+tatkimatra,tatkim+atra,tat+kim+atra,2,disagree,tat kim atra,3,False
+kṣaṇārdhamapi,kṣaṇārdham+api,kṣaṇa+ardham+api,2,disagree,kṣaṇa ardham api,3,False
+tavāvasthā,tava+avasthā,te+avasthā,2,disagree,te avasthā,2,False
+tathāpyahaṃ,tathāpi+ahaṃ,tathā+api+aham,2,disagree,tathā api aham,3,False
+tadadyāpi,tat+adyāpi,tat+adya+api,2,disagree,tat adya api,3,False
+yadyapyahaṃ,yadyapi+ahaṃ,yadi+api+aham,2,disagree,yadi api aham,3,False
+tadadyaiva,tat+adyaiva,tat+adya+eva,2,disagree,tat adya eva,3,False
+saṃsārāsāratāṃ,saṃsārā+āsāratāṃ,saṃsāra+asāra+tām,2,disagree,saṃsāra āsāra tām,3,False
+balābalaṃ,balā+abalaṃ,bala+abalam,2,disagree,bala abalam,2,False
+tadatraiva,tat+atraiva,tat+atra+eva,2,disagree,tat atra eva,3,False
+ityevameva,ityevam+eva,iti+evam+eva,2,disagree,iti evam eva,3,False
+sambhavatītyāha,sambhavati+ityāha,sambhavati+iti+āha,2,disagree,sambhavati iti āha,3,False
+tathāpyatra,tathāpi+atra,tathā+api+atra,2,disagree,tathā api atra,3,False
+caivaṃgate,ca+evam+gate,ca+evaṃgate,3,disagree,ca evaṃgate,2,False
+jñātavyamiti,jñātavyam+iti,pratipadyate+tuśabdaḥ+viṣ+yathā+punar+jñātavyam+mūtram+iti,2,disagree,jñātavyam iti,2,True
+pṛthakpṛthageva,pṛthakpṛthak+eva,pṛthak+pṛthak+eva,2,disagree,pṛthak pṛthak eva,3,False
+ityanenānvayaḥ,ityanena+anvayaḥ,iti+anena+anvayaḥ,2,disagree,iti anena anvayaḥ,3,False
+tattaditi,tattat+iti,tad+tad+iti,2,disagree,tat tat iti,3,False
+pratītyarthaḥ,prati+ityarthaḥ,prati+iti+arthaḥ,2,disagree,pratīti arthaḥ,2,False
+caikatve,ca+ekatve,ca+eka+tve,2,disagree,ca ekatve,2,True
+matāntaramāha,matāntaram+āha,mata+antaram+āha,2,disagree,matāntaram āha,2,True
+bhavantītyarthaḥ,bhavanti+ityarthaḥ,bhavanti+iti+arthaḥ,2,disagree,bhavanti iti arthaḥ,3,False
+bhavatītyata,bhavati+ityata,bhavati+iti+atas,2,disagree,bhavati iti atas,3,False
+yuktarūpamidaṃ,yuktarūpam+idaṃ,yukta+rūpam+idam,2,disagree,yukta rūpam idam,3,False
+pūrvaparāvaradakṣiṇottarāparādharāṇi,pūrvaparāvaradakṣiṇottarāparādharāṇi+vyavasthāyām+asaṃjñāyām,pūrva+para+avara+dakṣiṇa+uttara+apara+adharāṇi,3,disagree,pūrva parāvara dakṣiṇa uttara aparādharāṇi,5,False
+kṛnmejantaḥ,kṛt+mejantaḥ,kṛt+m+e+c+antaḥ,2,disagree,kṛt mejantaḥ,2,True
+ṅicca,ṅit+ca,ṅ+it+ca,2,disagree,ṅit ca,2,True
+halantyam,hal+antyam+ante+digāditvāt+yat,ha+l+antyam,5,disagree,ha lantyam,2,False
+īṣadakṛtā,īṣat+akṛtā,īṣat+a+kṛtā,2,disagree,īṣat akṛtā,2,True
+tṛtīyāprabhṛtīnyanyatarasyām,tṛtīyāprabhṛtīni+anyatarasyām,tṛtīyā+prabhṛtīni+anyatarasyām,2,disagree,tṛtīyā prabhṛtīni anyatarasyām,3,False
+vāhitāgnyādiṣu,vā+āhitāgnyādiṣu,vā+āhitāgni+ādiṣu,2,disagree,vāhita agni ādiṣu,3,False
+ṣaṣṭhyatasarthapratyayena,ṣaṣṭhī+atasarthapratyayena,ṣaṣṭhī+atas+artha+pratyayena,2,disagree,ṣaṣṭhyata sartha pratyayena,3,False
+muṇḍamiśraślakṣṇalavaṇavratavastrahalakalakṛtatūstebhyo,muṇḍamiśraślakṣṇalavaṇavratavastrahalakalakṛtatūstebhyaḥ+ṇic,muṇḍa+miśra+ślakṣṇa+lavaṇa+vrata+vastra+hala+kala+kṛta+tūstebhyaḥ,2,disagree,muṇḍa miśra ślakṣṇa lavaṇa vrata vastra hala kala kṛta tūstebhyaḥ,10,False
+nonayatidhvanayatyelayatyardayatibhyaḥ,na+ūnayatidhvanayatyelayatyardayatibhyaḥ,na+ūnayati+dhvanayati+elayati+ardayatibhyaḥ,2,disagree,na ūnayati dhvanayati elayati ardayatibhyaḥ,5,False
+svapitṛṣornajiṅ,svapitṛṣoḥ+najiṅ,svapi+tṛṣoḥ+najiṅ,2,disagree,sva pitṛṣoḥ najiṅ,3,False
+votāpyoḥ,vā+ā+utāpyoḥ,vā+ā+uta+apyoḥ,3,disagree,vā uta āpyoḥ,3,False
+kaumārāpūrvavacane,kaumāra+apūrvavacane,kaumāra+a+pūrva+vacane,2,disagree,kaumāra apūrva vacane,3,False
+ṛtaṣṭhañ,ṛtaḥ+ṭhañ,ṛ+taḥ+ṭhañ,2,disagree,ṛta ṣṭhan,2,False
+tenaikadik,tena+ekadik,tena+eka+diś,2,disagree,tena eka diś,3,False
+vidhyatyadhanuṣā,vidhyati+adhanuṣā,vidhyati+a+dhanuṣā,2,disagree,vidhyati adhanuṣā,2,True
+aśvasyaikāhagamaḥ,aśvasya+ekāhagamaḥ,aśvasya+eka+aha+gamaḥ,2,disagree,aśvasya ekāha gamaḥ,3,False
+vibhāṣābhyavapūrvasya,vibhāṣā+abhyavapūrvasya,vibhāṣā+abhi+ava+pūrvasya,2,disagree,vibhāṣā abhyavapūrvasya,2,True
+nādici,na+āt+ici,na+a+t+i+ci,3,disagree,na ādici,2,False
+noṅdhātvoḥ,naḥ+ūṅdhātvoḥ,na+u+ṅ+dhātvoḥ,2,disagree,na ūṅdhātvoḥ,2,False
+ghoṣādiṣu,ghoṣādiṣu+śālāyām,ghoṣa+ādiṣu,2,disagree,ghoṣa ādiṣu,2,False
+nensiddhabadhnātiṣu,na+insiddhabadhnātiṣu,na+in+siddha+badhnātiṣu,2,disagree,nen siddha badhnātiṣu,3,False
+vākrośadainyayoḥ,vā+ākrośadainyayoḥ,vā+ākrośa+dainyayoḥ,2,disagree,vākrośa dainyayoḥ,2,False
+īdyati,īt+yati,ī+t+yati,2,disagree,īt yati,2,True
+prakṛtyaikāc,prakṛtyā+ekāc,prakṛtyā+eka+a+c,2,disagree,prakṛtya ekāt,2,False
+tīṣasahalubharuṣariṣaḥ,ti+iṣasahalubharuṣariṣaḥ,ti+iṣa+saha+lubha+ruṣa+riṣaḥ,2,disagree,tīṣa sahalu bharuṣa riṣaḥ,4,False
+anāpyakaḥ,ana+āpi+akaḥ,an+āpi+a+kaḥ,3,disagree,an āpyakaḥ,2,False
+bhṛñāmit,bhṛñām+it,bhṛñām+i+t,2,disagree,bhṛñām id,2,False
+sanyataḥ,sani+ataḥ,sani+a+taḥ,2,disagree,sanyataḥ,1,False
+vibhāṣauṣadhivanaspatibhyaḥ,vibhāṣā+oṣadhivanaspatibhyaḥ,vibhāṣā+oṣadhi+vanaspatibhyaḥ,2,disagree,vibhāṣa auṣadhi vanaspatibhyaḥ,3,False
+purujitkuntibhojaśca,purujitkuntibhojaḥ+ca,purujit+kuntibhojaḥ+ca,2,disagree,purujit kunti bhojaḥ ca,4,False
+uttamaujāśca,uttama+ojāḥ+ca,uttamaujāḥ+ca,3,disagree,uttama ojāḥ ca,3,True
+saumadattistathaiva,sauma+dattiḥ+tathā+eva,saumadattiḥ+tathā+eva,4,disagree,saumadattiḥ tathā eva,3,False
+yoddhavyamasminraṇasamudyame,yoddhavyam+asmin+raṇasamudyame,yoddhavyam+asmin+raṇa+samudyame,3,disagree,yoddhavyam asmin raṇa samudyame,4,False
+syājjanārdana,syāt+jana+ardana,syāt+janārdanaiḥ,3,disagree,syāt janārdanaiḥ,2,False
+kuladharmāśca,kuladharmāḥ+ca,kula+dharmāḥ+ca,2,disagree,kula dharmāḥ ca,3,False
+yadrājyasukhalobhena,yat+rājyasukhalobhena,yat+rājya+sukha+lobhena,2,disagree,yat rājya sukha lobhena,4,False
+śrībhagavānuvāca,śrībhagavān+uvāca,śrī+bhagavant+uvāca,2,disagree,śrī bhagavant uvāca,3,False
+gurūnahatvā,gurūn+hatvā,gurūn+a+hatvā,2,disagree,gurūn ahatvā,2,False
+hatvārthakāmāṃstu,hatvā+arthakāmān+tu,hatvā+artha+kāmān+tu,3,disagree,hatvā artha kāmān tu,4,False
+kārpaṇyadoṣopahatasvabhāvaḥ,kārpaṇyadoṣa+upahatasvabhāvaḥ,kārpaṇya+doṣa+upahata+svabhāvaḥ,2,disagree,kārpaṇya doṣa upahata svabhāvaḥ,4,False
+mātrāsparśāstu,mātrāsparśāḥ+tu,mātrā+sparśāḥ+tu,2,disagree,mātra asparśāḥ tu,3,False
+kaścitkartumarhati,kaḥ+cit+kartum+arhati,kaścid+kartum+arhati,4,disagree,kaścid kartum arhati,3,False
+avyaktanidhanānyeva,avyaktanidhanāni+eva,avyakta+nidhanāni+eva,2,disagree,avyakta nidhanāni eva,3,False
+āścaryavatpaśyati,āścaryavat+paśyati,āścarya+vat+paśyati,2,disagree,āścarya vat paśyati,3,False
+āścaryavaccainamanyaḥ,āścaryavat+ca+enam+anyaḥ,āścarya+vat+ca+enam+anyaḥ,4,disagree,āścarya vat ca enam anyaḥ,5,False
+avācyavādāṃśca,avācyavādān+ca,avācya+vādān+ca,2,disagree,avācya vādān ca,3,False
+tavāhitāḥ,tava+ahitāḥ,te+ahitāḥ,2,disagree,te āhitāḥ,2,False
+śaraṇamanviccha,śaraṇam+anu+iccha,śaraṇam+anviccha,3,disagree,śaraṇam anviccha,2,False
+duḥkheṣvanudvignamanāḥ,duḥkheṣu+anudvignamanāḥ,duḥkheṣu+anudvigna+manāḥ,2,disagree,duḥkheṣu anudvigna manāḥ,3,False
+sthitadhīrmunirucyate,sthitadhīḥ+muniḥ+ucyate,sthita+dhīḥ+muniḥ+ucyate,3,disagree,sthita dhīḥ muniḥ ucyate,4,False
+rāgadveṣaviyuktaistu,rāgadveṣaviyuktaiḥ+tu,rāga+dveṣa+viyuktaiḥ+tu,2,disagree,rāga dveṣa viyuktaiḥ tu,4,False
+ātmavaśyairvidheyātmā,ātmavaśyaiḥ+vidheya+ātmā,ātma+vaśyaiḥ+vidheya+ātmā,3,disagree,ātma vaśyaiḥ vidheya ātmā,4,False
+tadvatkāmā,tat+vat+kāmā,tadvat+kāmāḥ,3,disagree,tadvat kāmā,2,False
+brahmanirvāṇamṛcchati,brahmanirvāṇam+ṛcchati,brahma+nirvāṇam+ṛcchati,2,disagree,brahma nirvāṇam ṛcchati,3,False
+buddhirjanārdana,buddhiḥ+jana+ardana,buddhiḥ+janārdana,3,disagree,buddhiḥ janārdanaiḥ,2,False
+kaścitkṣaṇamapi,kaḥ+cit+kṣaṇam+api,kaścid+kṣaṇam+api,4,disagree,kaścid kṣaṇam api,3,False
+tiṣṭhatyakarmakṛt,tiṣṭhati+akarmakṛt,tiṣṭhati+a+karma+kṛt,2,disagree,tiṣṭhati akarma kṛt,3,False
+prakṛtijairguṇaiḥ,prakṛtijaiḥ+guṇaiḥ,prakṛti+jaiḥ+guṇaiḥ,2,disagree,prakṛti jaiḥ guṇaiḥ,3,False
+śarīrayātrāpi,śarīrayātrā+api,śarīra+yātrā+api,2,disagree,śarīra yātrā api,3,False
+paramavāpsyatha,param+ava+āpsyatha,param+avāpsyatha,3,disagree,param avāpsi atha,3,False
+pacantyātmakāraṇāt,pacanti+ātmakāraṇāt,pacanti+ātma+kāraṇāt,2,disagree,pacanti ātma kāraṇāt,3,False
+karmasamudbhavaḥ,karmasam+udbhavaḥ,karma+samudbhavaḥ,2,disagree,karma samudbhavaḥ,2,False
+brahmākṣarasamudbhavam,brahma+akṣara+sam+udbhavam,brahma+akṣara+samudbhavam,4,disagree,brahma akṣara samudbhavam,3,False
+syādātmatṛptaśca,syāt+ātmatṛptaḥ+ca,syāt+ātma+tṛptaḥ+ca,3,disagree,syāt ātma tṛptaḥ ca,4,False
+kaścidarthavyapāśrayaḥ,kaḥ+cit+arthavyapa+āśrayaḥ,kaścid+artha+vyapāśrayaḥ,4,disagree,kaścid artha vyapāśrayaḥ,3,False
+saṃsiddhimāsthitā,sam+siddhim+āsthitā,saṃsiddhim+āsthitāḥ,3,disagree,saṃsiddhim āsthitā,2,False
+joṣayetsarvakarmāṇi,joṣayet+sarvakarmāṇi,joṣayet+sarva+karmāṇi,2,disagree,joṣayet sarva karmāṇi,3,False
+tattvavittu,tattvavid+tu,tattva+vid+tu,2,disagree,tattva vid tu,3,False
+paradharmātsvanuṣṭhitāt,paradharmāt+sva+anuṣṭhitāt,para+dharmāt+su+anuṣṭhitāt,3,disagree,para dharmāt su anuṣṭhitāt,4,False
+proktavāniti,pra+uktavān+iti,proktavān+iti,3,disagree,proktavan iti,2,False
+sambhavāmyātmamāyayā,sambhavāmi+ātmamāyayā,sambhavāmi+ātma+māyayā,2,disagree,sambhavāmi ātma māyayā,3,False
+dharmasaṃsthāpanārthāya,dharmasaṃsthāpanā+arthāya,dharma+saṃsthāpana+arthāya,2,disagree,dharma saṃsthāpana arthāya,3,False
+nirāśīryatacittātmā,nirāśīḥ+yatacitta+ātmā,nirāśīḥ+yata+citta+ātmā,3,disagree,nirāśīryata citta ātmā,3,False
+jñānāvasthitacetasaḥ,jñāna+avasthitacetasaḥ,jñāna+avasthita+cetasaḥ,2,disagree,jñāna avasthita cetasaḥ,3,False
+sarvāṇīndriyakarmāṇi,sarvāṇi+indriyakarmāṇi,sarvāṇi+indriya+karmāṇi,2,disagree,sarvāṇi indriya karmāṇi,3,False
+ātmasaṃyamayogāgnau,ātmasaṃyamayoga+agnau,ātma+saṃyama+yoga+agnau,2,disagree,ātma saṃyama yoga agnau,4,False
+svādhyāyajñānayajñāśca,sva+adhyāyajñānayajñāḥ+ca,svādhyāya+jñāna+yajñāḥ+ca,3,disagree,svādhyāya jñāna yajñāḥ ca,4,False
+prāṇāpānagatī,prāṇa+apānagatī,prāṇa+apāna+gatī,2,disagree,prāṇa apāna gatī,3,False
+prāṇāyāmaparāyaṇāḥ,prāṇa+āyāmapara+ayanāḥ,prāṇāyāma+parāyaṇāḥ,3,disagree,prāṇāyām aparāyaṇāḥ,2,False
+karmajānviddhi,karmajān+viddhi,karma+jān+viddhi,2,disagree,karma jān viddhi,3,False
+śreyāndravyamayādyajñājjñānayajñaḥ,śreyān+dravyamayāt+yajñāt+jñānayajñaḥ,śreyān+dravya+mayāt+yajñāt+jñāna+yajñaḥ,4,disagree,śreyāndra vyamaya ādi ajñāt jñāna yajñaḥ,6,False
+karmayogaśca,karmayogaḥ+ca,karma+yogaḥ+ca,2,disagree,karma yogaḥ ca,3,False
+sannyāsastu,sam+nyāsaḥ+tu,saṃnyāsaḥ+tu,3,disagree,saṃnyāsaḥ tu,2,False
+sarvabhūtātmabhūtātmā,sarvabhūta+ātmabhūta+ātmā,sarva+bhūta+ātma+bhūta+ātmā,3,disagree,sarva bhūta ātma bhūta ātmā,5,False
+padmapatramivāmbhasā,padmapatram+iva+ambhasā,padma+pattram+iva+ambhasā,3,disagree,padma pattram iva ambhasā,4,False
+nodvijetprāpya,na+ut+vijet+prāpya,na+udvijet+prāpya,4,disagree,na udvijet prāpya,3,False
+brahmanirvāṇamṛṣayaḥ,brahmanirvāṇam+ṛṣayaḥ,brahma+nirvāṇam+ṛṣayaḥ,2,disagree,brahma nirvāṇam ṛṣayaḥ,3,False
+nāsābhyantaracāriṇau,nāsābhi+antaracāriṇau,nāsā+abhyantara+cāriṇau,2,disagree,nāsā abhyantara cāriṇaḥ,3,False
+yatendriyamanobuddhirmunirmokṣaparāyaṇaḥ,yata+indriyamanaḥ+buddhiḥ+muniḥ+mokṣapara+ayanaḥ,yata+indriya+manaḥ+buddhiḥ+muniḥ+mokṣa+parāyaṇaḥ,6,disagree,yata indriya manas buddhiḥ muniḥ mokṣa parāyaṇaḥ,7,False
+niragnirna,niḥ+agniḥ+na,niragniḥ+na,3,disagree,niragniḥ na,2,False
+anātmanastu,an+ātmanaḥ+tu,anātmanaḥ+tu,3,disagree,an ātmanaḥ tu,3,True
+śītoṣṇasukhaduḥkheṣu,śīta+uṣṇa+sukhaduḥkheṣu,śīta+uṣṇa+sukha+duḥkheṣu,3,disagree,śīta uṣṇa sukha duḥkheṣu,4,False
+jñānavijñānatṛptātmā,jñānavijñāna+tṛpta+ātmā,jñāna+vijñāna+tṛpta+ātmā,3,disagree,jñāna vijñāna tṛpta ātmā,4,False
+samaloṣṭāśmakāñcanaḥ,samaloṣṭa+aśmakām+canaḥ,sama+loṣṭa+aśma+kāñcanaḥ,3,disagree,sama loṣṭa aśma kāñcanaḥ,4,False
+suhṛnmitrāryudāsīnamadhyasthadveṣyabandhuṣu,suhṛt+mitra+ari+udāsīna+madhyastha+dveṣyabandhuṣu,suhṛd+mitra+ari+udāsīna+madhyastha+dveṣya+bandhuṣu,6,disagree,suhṛd mitrāri udāsīna madhya stha dveṣya bandhuṣu,7,False
+samabuddhirviśiṣyate,samabuddhiḥ+viśiṣyate,sama+buddhiḥ+viśiṣyate,2,disagree,sama buddhiḥ viśiṣyate,3,False
+yatacittātmā,yatacitta+ātmā,yata+citta+ātmā,2,disagree,yata citta ātmā,3,False
+nirāśīraparigrahaḥ,niḥ+āśīḥ+aparigrahaḥ,nirāśīḥ+aparigrahaḥ,3,disagree,nirāśīra parigrahaḥ,2,False
+yatacittendriyakriyaḥ,yatacitta+indriyakriyaḥ,yata+citta+indriya+kriyaḥ,2,disagree,yata citta indriya kriyaḥ,4,False
+yuñjyādyogamātmaviśuddhaye,yuñjyāt+yogam+ātmaviśuddhaye,yuñjyāt+yogam+ātma+viśuddhaye,3,disagree,yuñjyāt yogam ātma viśuddhaye,4,False
+vigatabhīrbrahmacārivrate,vigatabhīḥ+brahmacārivrate,vigata+bhīḥ+brahmacāri+vrate,2,disagree,vigata bhīḥ brahmacāri vrate,4,False
+nātyaśnatastu,na+ati+aśnataḥ+tu,na+atyaśnataḥ+tu,4,disagree,na ati aśnāt tu,4,False
+cātisvapnaśīlasya,ca+atisvapnaśīlasya,ca+ati+svapna+śīlasya,2,disagree,ca ati svapna śīlasya,4,False
+yuktāhāravihārasya,yukta+āhāravihārasya,yukta+āhāra+vihārasya,2,disagree,yukta āhāra vihārasya,3,False
+yogayuktātmā,yogayukta+ātmā,yoga+yukta+ātmā,2,disagree,yoga yukta ātmā,3,False
+asaṃyatātmanā,asaṃyatāt+ātmanā,asaṃyata+ātmanā,2,disagree,asaṃyata ātmanā,2,False
+vaśyātmanā,vaśyāt+ātmanā,vaśya+ātmanā,2,disagree,vaśya ātmanā,2,False
+mayyāsaktamanāḥ,mayi+āsaktamanāḥ,mayi+āsakta+manāḥ,2,disagree,mayi āsakta manāḥ,3,False
+kaścidyatati,kaḥ+cit+yatati,kaścid+yatati,3,disagree,kaścid yatati,2,False
+tribhirguṇamayairbhāvairebhiḥ,tribhiḥ+guṇamayaiḥ+bhāvaiḥ+ebhiḥ,tribhiḥ+guṇa+mayaiḥ+bhāvaiḥ+ebhiḥ,4,disagree,tribhiḥ guṇa mayaiḥ bhāvaiḥ ebhiḥ,5,False
+māyayāpahṛtajñānā,māyayā+apahṛtajñānā,māyayā+apahṛta+jñānāḥ,2,disagree,māyayā apahṛta jñānāḥ,3,False
+ekabhaktirviśiṣyate,ekabhaktiḥ+viśiṣyate,eka+bhaktiḥ+viśiṣyate,2,disagree,eka bhaktiḥ viśiṣyate,3,False
+kāmaistaistairhṛtajñānāḥ,kāmaiḥ+taiḥ+taiḥ+hṛtajñānāḥ,kāmaiḥ+taiḥ+taiḥ+hṛta+jñānāḥ,4,disagree,kāmaiḥ taiḥ taiḥ hṛta jñānāḥ,5,False
+yogamāyāsamāvṛtaḥ,yogamāyāsam+āvṛtaḥ,yoga+māyā+samāvṛtaḥ,2,disagree,yoga māyā samāvṛtaḥ,3,False
+icchādveṣasamutthena,icchādveṣasam+utthena,icchā+dveṣa+samutthena,2,disagree,icchā dveṣa samutthena,3,False
+viduryuktacetasaḥ,viduḥ+yuktacetasaḥ,viduḥ+yukta+cetasaḥ,2,disagree,viduḥ yukta cetasaḥ,3,False
+tadbhāvabhāvitaḥ,tat+bhāvabhāvitaḥ,tad+bhāva+bhāvitaḥ,2,disagree,tad bhāva bhāvitaḥ,3,False
+nānyagāminā,na+anyagāminā,na+anya+gāminā,2,disagree,na anya gāminā,3,False
+labhyastvananyayā,labhyaḥ+tu+ananyayā,labhyaḥ+tu+an+anyayā,3,disagree,labhyaḥ tu ananyayā,3,True
+bhūtabhṛnna,bhūtabhṛt+na,bhūta+bhṛt+na,2,disagree,bhūta bhṛt na,3,False
+mayādhyakṣeṇa,mayā+adhi+akṣeṇa,mayā+adhyakṣeṇa,3,disagree,mayā adhyakṣeṇa,2,False
+bhūtamaheśvaram,bhūtamahā+īśvaram,bhūta+maheśvaram,2,disagree,bhūta maheśvaram,2,False
+mahātmānastu,mahā+ātmānaḥ+tu,mahātmānaḥ+tu,3,disagree,mahātmānaḥ tu,2,False
+bhūtādimavyayam,bhūta+ādim+avyayam,bhūtādim+avyayam,3,disagree,bhūta ādim avyayam,3,True
+yajantyavidhipūrvakam,yajanti+avidhipūrvakam,yajanti+avidhi+pūrvakam,2,disagree,yajanti avidhi pūrvakam,3,False
+tattvenātaścyavanti,tattvena+ataścyavanti,tattvena+atas+cyavanti,2,disagree,tattvena atas cyavanti,3,False
+saṃnyāsayogayuktātmā,sam+nyāsayogayukta+ātmā,saṃnyāsa+yoga+yukta+ātmā,3,disagree,saṃnyāsa yoga yukta ātmā,4,False
+māmananyabhāk,mām+ananyabhāk,mām+an+anya+bhāj,2,disagree,mām ananya bhāj,3,False
+harimabravīt,harim+abravīt,harim+abravīt,2,agree,harim abravīt,2,True
+pālayatīti,pālayati+iti,pālayati+iti,2,agree,pālayati iti,2,True
+ityavagacchati,iti+avagacchati,iti+avagacchati,2,agree,iti avagacchati,2,True
+idānīmapi,idānīm+api,idānīm+api,2,agree,idānīm api,2,True
+tvanyat,tu+anyat,tu+anyat,2,agree,tu anyat,2,True
+taveyaṃ,tava+iyaṃ,te+iyam,2,agree,te iyam,2,False
+bhūtvāpi,bhūtvā+api,bhūtvā+api,2,agree,bhūtvā api,2,True
+tūrṇameva,tūrṇam+eva,tūrṇam+eva,2,agree,tūrṇam eva,2,True
+kṣipecca,kṣipet+ca,kṣipet+ca,2,agree,kṣipet ca,2,True
+vidhivattataḥ,vidhivat+tataḥ,vidhivat+tatas,2,agree,vidhivat tatas,2,False
+kartumārabdhaḥ,kartum+ārabdhaḥ,kartum+ārabdhaḥ,2,agree,kartum ārabdhaḥ,2,True
+tairāgatya,taiḥ+āgatya,taiḥ+āgatya,2,agree,taiḥ āgatya,2,True
+tatrādyaṃ,tatra+ādyaṃ,tatra+ādyam,2,agree,tatra ādyam,2,False
+vidāryādiśca,vidāryādiḥ+ca,vidāryādiḥ+ca,2,agree,vidārī ādiḥ ca,3,False
+ityādau,iti+ādau,iti+ādau,2,agree,iti ādau,2,True
+omiti,om+iti,om+iti,2,agree,om iti,2,True
+ivāvayavāḥ,iva+avayavāḥ,iva+avayavāḥ,2,agree,iva avayavāḥ,2,True
+sruveṇādāya,sruveṇa+ādāya,sruveṇa+ādāya,2,agree,sruveṇa ādāya,2,True
+bhramatīva,bhramatī+iva,bhramati+iva,2,agree,bhramati iva,2,False
+kimasti,kim+asti,kim+asti,2,agree,kim asti,2,True
+yenāyam,yena+ayam,yena+ayam,2,agree,yena ayam,2,True
+munibhiśca,munibhiḥ+ca,munibhiḥ+ca,2,agree,munibhiḥ ca,2,True
+tatrānye,tatra+anye,tatra+anye,2,agree,tatra anye,2,True
+picunāthavā,picunā+athavā,picunā+athavā,2,agree,picunā athavā,2,True
+buddhistadā,buddhiḥ+tadā,buddhiḥ+tadā,2,agree,buddhiḥ tadā,2,True
+brahmaiva,brahmā+eva,brahma+eva,2,agree,brahmā eva,2,True
+ityeva,iti+eva,iti+eva,2,agree,iti eva,2,True
+sakṛdapi,sakṛt+api,sakṛt+api,2,agree,sakṛt api,2,True
+necchati,na+icchati,na+icchati,2,agree,na icchati,2,True
+asyeti,asya+iti,asya+iti,2,agree,asya iti,2,True
+krameṇaiva,krameṇa+eva,krameṇa+eva,2,agree,krameṇa eva,2,True
+cenna,cet+na,ced+na,2,agree,ced na,2,False
+acintayacca,acintayat+ca,acintayat+ca,2,agree,acintayat ca,2,True
+ahamasmai,aham+asmai,aham+asmai,2,agree,aham asmai,2,True
+tṛtīyamapi,tṛtīyam+api,tṛtīyam+api,2,agree,tṛtīyam api,2,True
+lābhālābhau,lābha+alābhau,lābha+alābhau,2,agree,lābha alābhau,2,True
+tadvadete,tadvat+ete,tadvat+ete,2,agree,tadvat ete,2,True
+necchanti,na+icchanti,na+icchanti,2,agree,na icchanti,2,True
+vīryeṇoṣṇā,vīryeṇa+uṣṇā,vīryeṇa+uṣṇāḥ,2,agree,vīryeṇa uṣṇā,2,True
+ānītaśca,ānītaḥ+ca,ānītaḥ+ca,2,agree,ānītaḥ ca,2,True
+cānekadhā,ca+anekadhā,ca+anekadhā,2,agree,ca anekadhā,2,True
+evamiti,evam+iti,evam+iti,2,agree,evam iti,2,True
+cākṣaram,ca+akṣaram,ca+akṣaram,2,agree,ca akṣaram,2,True
+anyaśca,anyaḥ+ca,anyaḥ+ca,2,agree,anyaḥ ca,2,True
+sarvairaṅgaiḥ,sarvaiḥ+aṅgaiḥ,sarvaiḥ+aṅgaiḥ,2,agree,sarvaiḥ aṅgaiḥ,2,True
+māmeti,mām+iti,mām+eti,2,agree,mām iti,2,True
+senāgre,senā+agre,senā+agre,2,agree,senā agre,2,True
+sarvathaiva,sarvathā+eva,sarvathā+eva,2,agree,sarvathā eva,2,True
+yenāsau,yena+asau,yena+asau,2,agree,yena asau,2,True
+tathāparam,tathā+aparam,tathā+aparam,2,agree,tathā aparam,2,True
+bhavatyapi,bhavati+api,bhavati+api,2,agree,bhavati api,2,True
+vrīhiriti,vrīhiḥ+iti,vrīhiḥ+iti,2,agree,vrīhiḥ iti,2,True
+tathetarat,tathā+itarat,tathā+itarat,2,agree,tathā itarat,2,True
+kṛtvātha,kṛtvā+atha,kṛtvā+atha,2,agree,kṛtvā atha,2,True
+cāvalokya,ca+avalokya,ca+avalokya,2,agree,ca avalokya,2,True
+gauraśca,gauraḥ+ca,gauraḥ+ca,2,agree,gauraḥ ca,2,True
+sāsti,sā+asti,sā+asti,2,agree,sā asti,2,True
+jagatsarvaṃ,jagat+sarvaṃ,jagant+sarvam,2,agree,jagat sarvam,2,False
+brūhīti,brūhi+iti,brūhi+iti,2,agree,brūhi iti,2,True
+puruṣottama,puruṣa+uttama,puruṣa+uttamaiḥ,2,agree,puruṣa uttamaiḥ,2,False
+kadāciditi,kadācit+iti,kadācid+iti,2,agree,kadācid iti,2,False
+kevalamiti,kevalam+iti,kevalam+iti,2,agree,kevalam iti,2,True
+nāmnāpi,nāmnā+api,nāmnā+api,2,agree,nāmnā api,2,True
+satyeva,sati+eva,sati+eva,2,agree,sati eva,2,True
+kānyapi,kāni+api,kāni+api,2,agree,kāni api,2,True
+cediti,cet+iti,ced+iti,2,agree,ced iti,2,False
+vyāptirna,vyāptiḥ+na,vyāptiḥ+na,2,agree,vyāptiḥ na,2,True
+brahmābhigamyate,brahma+abhigamyate,brahma+abhigamyate,2,agree,brahma abhigamyate,2,True
+trayāṇāmapi,trayāṇām+api,trayāṇām+api,2,agree,trayāṇām api,2,True
+eṣāsmākaṃ,eṣā+asmākaṃ,eṣā+asmākam,2,agree,eṣā asmākam,2,False
+īśvarastu,īśvaraḥ+tu,īśvaraḥ+tu,2,agree,īśvaraḥ tu,2,True
+tadasatyaṃ,tat+asatyaṃ,tat+asatyam,2,agree,tat asatyam,2,False
+niyatātmabhiḥ,niyata+ātmabhiḥ,niyata+ātmabhiḥ,2,agree,niyata ātmabhiḥ,2,True
+sarvāsāmeva,sarvāsām+eva,sarvāsām+eva,2,agree,sarvāsām eva,2,True
+ekasyāpi,ekasya+api,ekasya+api,2,agree,ekasya api,2,True
+pramāṇenāṣṭakāni,pramāṇena+aṣṭakāni,pramāṇena+aṣṭakāni,2,agree,pramāṇena aṣṭakāni,2,True
+tattasya,tat+tasya,tat+tasya,2,agree,tat tasya,2,True
+baddhvābdhau,baddhvā+abdhau,baddhvā+abdhau,2,agree,baddhvā abdhau,2,True
+yatkāryaṃ,yat+kāryam,yat+kāryam,2,agree,yat kāryam,2,True
+tamuddiśya,tam+uddiśya,tam+uddiśya,2,agree,tam uddiśya,2,True
+tatastābhyāṃ,tataḥ+tābhyāṃ,tatas+tābhyām,2,agree,tatas tābhyām,2,False
+rasastu,rasaḥ+tu,rasaḥ+tu,2,agree,rasaḥ tu,2,True
+daśarathādrāmaḥ,daśarathāt+rāmaḥ,daśarathāt+rāmaḥ,2,agree,daśa rathāt rāmaḥ,3,False
+śucireva,śuciḥ+eva,śuciḥ+eva,2,agree,śuciḥ eva,2,True
+tapaśca,tapaḥ+ca,tapaḥ+ca,2,agree,tapaḥ ca,2,True
+ajāśca,ajāḥ+ca,ajāḥ+ca,2,agree,ajāḥ ca,2,True
+vīryamaho,vīryam+aho,vīryam+aho,2,agree,vīryam aho,2,True
+bhagavānuṣitvā,bhagavān+uṣitvā,bhagavān+uṣitvā,2,agree,bhagavant uṣitvā,2,False
+viṣayāśca,viṣayāḥ+ca,viṣayāḥ+ca,2,agree,viṣayāḥ ca,2,True
+tadāsmākaṃ,tadā+asmākaṃ,tadā+naḥ,2,agree,tadā asmākam,2,False
+jīvitumutsahe,jīvitum+utsahe,jīvitum+utsahe,2,agree,jīvitum utsahe,2,True
+pṛthagbhūtāni,pṛthak+bhūtāni,pṛthak+bhūtāni,2,agree,pṛthak bhūtāni,2,True
+svargātparibhraṣṭā,svargāt+paribhraṣṭāḥ,svargāt+paribhraṣṭāḥ,2,agree,svargāt paribhraṣṭā,2,False
+bharatastu,bharataḥ+tu,bharataḥ+tu,2,agree,bharataḥ tu,2,True
+harirbrahmā,hariḥ+brahmā,hariḥ+brahmā,2,agree,hariḥ brahmā,2,True
+svamātmānaṃ,svam+ātmānam,svam+ātmānam,2,agree,svam ātmānam,2,True
+tatkaroti,tat+karoti,tat+karoti,2,agree,tad karoti,2,False
+potamāruhya,potam+āruhya,potam+āruhya,2,agree,potam āruhya,2,True
+tatprītyā,tat+prītyā,tad+prītyā,2,agree,tad prītyā,2,False
+itaśca,itaḥ+ca,itas+ca,2,agree,itas ca,2,False
+yathoktāḥ,yathā+uktāḥ,yathā+uktāḥ,2,agree,yathā uktāḥ,2,True
+kvāpyanumāne,kvāpi+anumāne,kvāpi+anumāne,2,agree,kvāpi anumāne,2,True
+śanairgatvā,śanaiḥ+gatvā,śanais+gatvā,2,agree,śanais gatvā,2,False
+vāyaṃ,vā+ayaṃ,vā+ayam,2,agree,vā ayam,2,False
+saṃjātāsti,saṃjātā+asti,saṃjātā+asti,2,agree,saṃjātā asti,2,True
+sthitāstatra,sthitāḥ+tatra,sthitāḥ+tatra,2,agree,sthitāḥ tatra,2,True
+ahamidaṃ,aham+idaṃ,aham+idam,2,agree,aham idam,2,False
+sthirīkaraṇamaṅgānāṃ,sthirīkaraṇam+aṅgānāṃ,sthirīkaraṇam+aṅgānām,2,agree,sthirīkaraṇa maṅgānām,2,False
+peyaiśca,peyaiḥ+ca,peyaiḥ+ca,2,agree,peyaiḥ ca,2,True
+bhakṣayitvāpi,bhakṣayitvā+api,bhakṣayitvā+api,2,agree,bhakṣayitvā api,2,True
+kulasyārthe,kulasya+arthe,kulasya+arthe,2,agree,kulasya arthe,2,True
+ekasminnapi,ekasmin+api,ekasmin+api,2,agree,ekasmin api,2,True
+ṣaṭtriṃśadaṅgulam,ṣaṭtriṃśat+aṅgulam,ṣaṭtriṃśat+aṅgulam,2,agree,ṣaṭtriṃśat aṅgulam,2,True
+gṛhṇāmīti,gṛhṇāmi+iti,gṛhṇāmi+iti,2,agree,gṛhṇāmi iti,2,True
+bhujagīva,bhujagaḥ+iva,bhujagī+iva,2,agree,bhujagī iva,2,False
+prabhavāmīha,prabhavāmi+iha,prabhavāmi+iha,2,agree,prabhavāmi iha,2,True
+mātovāca,mātā+uvāca,mātā+uvāca,2,agree,mātā uvāca,2,True
+arthaśca,arthaḥ+ca,arthaḥ+ca,2,agree,arthaḥ ca,2,True
+etacchrutvā,etat+śrutvā,etat+śrutvā,2,agree,etat śrutvā,2,True
+putrīti,putrī+iti,putrī+iti,2,agree,putrī iti,2,True
+sisṛkṣurvividhāḥ,sisṛkṣuḥ+vividhāḥ,sisṛkṣuḥ+vividhāḥ,2,agree,sisṛkṣuḥ vividhāḥ,2,True
+nasyānarhe,nasya+anarhe,nasya+anarhe,2,agree,nasya anarhe,2,True
+candraśca,candraḥ+ca,candraḥ+ca,2,agree,candraḥ ca,2,True
+nāpayāti,na+apayāti,na+apayāti,2,agree,na apayāti,2,True
+yaivaṃ,yā+evam,yā+evam,2,agree,yā evam,2,True
+prasannaśca,prasannaḥ+ca,prasannaḥ+ca,2,agree,prasannaḥ ca,2,True
+punarujjīvayiṣyati,punaḥ+ujjīvayiṣyati,punar+ujjīvayiṣyati,2,agree,punar ujjīvayiṣyati,2,False
+janmeti,janma+iti,janma+iti,2,agree,janma iti,2,True
+ivāsīd,iva+āsīd,iva+āsīt,2,agree,iva āsīt,2,False
+rājāha,rājā+āha,rājā+āha,2,agree,rājā āha,2,True
+vaseddivi,vaset+divi,vaset+divi,2,agree,vaset divi,2,True
+cāvatārya,ca+avatārya,ca+avatārya,2,agree,ca avatārya,2,True
+syāttasya,syāt+tasya,syāt+tasya,2,agree,syāt tasya,2,True
+yāvadvadati,yāvat+vadati,yāvat+vadati,2,agree,yāvat vadati,2,True
+mayāgatya,mayā+āgatya,mayā+āgatya,2,agree,mayā āgatya,2,True
+harergṛham,hareḥ+gṛham,hareḥ+gṛham,2,agree,hareḥ gṛham,2,True
+abhyāsenaiva,abhyāsena+eva,abhyāsena+eva,2,agree,abhyāsena eva,2,True
+padamiti,padam+iti,padam+iti,2,agree,padam iti,2,True
+yuktimetāṃ,yuktim+etāṃ,yuktim+etām,2,agree,yuktim etām,2,False
+tatte,tat+te,tat+te,2,agree,tat te,2,True
+evābhūvan,eva+abhūvan,eva+abhūvan,2,agree,eva abhūvan,2,True
+sutāsi,sutā+asi,sutā+asi,2,agree,sutā asi,2,True
+vāyorapi,vāyoḥ+api,vāyoḥ+api,2,agree,vāyoḥ api,2,True
+sahaiva,saha+eva,saha+eva,2,agree,saha eva,2,True
+gacchāmyaham,gacchāmi+aham,gacchāmi+aham,2,agree,gacchāmi aham,2,True
+draupadyāste,draupadyāḥ+te,draupadyāḥ+te,2,agree,draupadyāḥ te,2,True
+sacandanaṃ,saḥ+candanaṃ,sa+candanam,2,agree,sa candanam,2,False
+grāmasyārthe,grāmasya+arthe,grāmasya+arthe,2,agree,grāmasya arthe,2,True
+punarnyaset,punaḥ+nyaset,punar+nyaset,2,agree,punar nyaset,2,False
+tadgṛhe,tat+gṛhe,tad+gṛhe,2,agree,tad gṛhe,2,False
+kathamanyathā,katham+anyathā,katham+anyathā,2,agree,katham anyathā,2,True
+ceṣudhī,ca+iṣudhī,ca+iṣudhī,2,agree,ca iṣudhī,2,True
+ataste,ataḥ+te,atas+te,2,agree,atas te,2,False
+kukṣirvirāṭ,kukṣiḥ+virāṭ,kukṣiḥ+virāj,2,agree,kukṣiḥ virāj,2,False
+kathamevaṃ,katham+evaṃ,katham+evam,2,agree,katham evam,2,False
+tatreṣṭaḥ,tatra+iṣṭaḥ,tatra+iṣṭaḥ,2,agree,tatra iṣṭaḥ,2,True
+punarme,punaḥ+me,punar+me,2,agree,punar mama,2,False
+bhāgamādāya,bhāgam+ādāya,bhāgam+ādāya,2,agree,bhāgam ādāya,2,True
+tāṃstān,tān+tān,tān+tān,2,agree,tān tān,2,True
+nṛpastatra,nṛpaḥ+tatra,nṛpaḥ+tatra,2,agree,nṛpaḥ tatra,2,True
+natvovāca,natvā+uvāca,natvā+uvāca,2,agree,natvā uvāca,2,True
+krodhastasya,krodhaḥ+tasya,krodhaḥ+tasya,2,agree,krodhaḥ tasya,2,True
+madarpaṇam,mat+arpaṇam,mad+arpaṇam,2,agree,mad arpaṇam,2,False
+ehyehi,ehi+ehi,ehi+ehi,2,agree,ehi ehi,2,True
+nigrahāttatra,nigrahāt+tatra,nigrahāt+tatra,2,agree,nigrahāt tatra,2,True
+guroreva,guroḥ+eva,guroḥ+eva,2,agree,guroḥ eva,2,True
+noktam,na+uktam,na+uktam,2,agree,na uktam,2,True
+pāyasenātha,pāyasena+atha,pāyasena+atha,2,agree,pāyasena atha,2,True
+pathyamapathyaṃ,pathyam+apathyaṃ,pathyam+apathyam,2,agree,pathyam apathyam,2,False
+mātuśca,mātuḥ+ca,mātuḥ+ca,2,agree,mātuḥ ca,2,True
+nāpaśyat,na+apaśyat,na+apaśyat,2,agree,na apaśyat,2,True
+vayamatra,vayam+atra,vayam+atra,2,agree,vayam atra,2,True
+svāmeva,svām+eva,svām+eva,2,agree,svām eva,2,True
+pāṇḍavaiśca,pāṇḍavaiḥ+ca,pāṇḍavaiḥ+ca,2,agree,pāṇḍavaiḥ ca,2,True
+hanūmāṃśca,hanūmān+ca,hanumant+ca,2,agree,hanumant ca,2,False
+hyaham,hi+aham,hi+aham,2,agree,hi aham,2,True
+namaste,namaḥ+te,namaḥ+te,2,agree,namaḥ te,2,True
+tadāha,tat+āha,tat+āha,2,agree,tat āha,2,True
+kāśyaśca,kāśyaḥ+ca,kāśyaḥ+ca,2,agree,kāśyaḥ ca,2,True
+nāpekṣata,na+apekṣata,na+apekṣate,2,agree,na apekṣata,2,True
+stutibhiśca,stutibhiḥ+ca,stutibhiḥ+ca,2,agree,stutibhiḥ ca,2,True
+sthitastatra,sthitaḥ+tatra,sthitaḥ+tatra,2,agree,sthitaḥ tatra,2,True
+dhārayettataḥ,dhārayet+tataḥ,dhārayet+tatas,2,agree,dhārayet tatas,2,False
+necchāmi,na+icchāmi,na+icchāmi,2,agree,na icchāmi,2,True
+gaṅgeti,gaṅgā+iti,gaṅgā+iti,2,agree,gaṅgā iti,2,True
+nirvāhyamiti,nirvāhyam+iti,nirvāhyam+iti,2,agree,nirvāhyam iti,2,True
+saśabdaḥ,saḥ+śabdaḥ,sa+śabdaḥ,2,agree,sa śabdaḥ,2,False
+tathāgre,tatha+agre,tathā+agre,2,agree,tathā agre,2,False
+vyapadeśastu,vyapadeśaḥ+tu,vyapadeśaḥ+tu,2,agree,vyapadeśaḥ tu,2,True
+svedayenmṛdu,svedayet+mṛdu,svedayet+mṛdu,2,agree,svedayet mṛdu,2,True
+sukhamapi,sukham+api,sukham+api,2,agree,sukham api,2,True
+sahāpi,saha+api,saha+api,2,agree,saha api,2,True
+śiṣṭerādhatta,śiṣṭeḥ+ādhatta,śiṣṭeḥ+ādhatta,2,agree,śiṣṭeḥ ādhatta,2,True
+siddhiriti,siddhiḥ+iti,siddhiḥ+iti,2,agree,siddhiḥ iti,2,True
+vibhāṣākarmakāt,vibhāṣā+akarmakāt,vibhāṣā+akarmakāt,2,agree,vibhāṣā karmakāt,2,False
+etatkāryaṃ,etat+kāryam,etat+kāryam,2,agree,etat kāryam,2,True
+gatvaiva,gatvā+iva,gatvā+eva,2,agree,gatvā eva,2,False
+skandamīśvaram,skandam+īśvaram,skandam+īśvaram,2,agree,skandam īśvaram,2,True
+prayojakamiti,prayojakam+iti,_+iti,2,agree,prayojakam iti,2,True
+jvalanniva,jvalan+iva,jvalan+iva,2,agree,jvalan iva,2,True
+bhavāmyaham,bhavāmi+aham,bhavāmi+aham,2,agree,bhavāmi aham,2,True
+śaknomīti,śaknomi+iti,śaknomi+iti,2,agree,śaknomi iti,2,True
+viṣṇuśca,viṣṇuḥ+ca,viṣṇuḥ+ca,2,agree,viṣṇuḥ ca,2,True
+cāpatat,ca+apatat,ca+apatat,2,agree,ca apatat,2,True
+mādhavastu,mādhavaḥ+tu,mādhavaḥ+tu,2,agree,mādhavaḥ tu,2,True
+tvameva,tvam+eva,tvam+eva,2,agree,tvam eva,2,True
+likhitvāpi,likhitvā+api,likhitvā+api,2,agree,likhitvā api,2,True
+hyāryā,hi+āryā,hi+āryāḥ,2,agree,hi āryā,2,True
+vātra,vā+atra,vā+atra,2,agree,vā atra,2,True
+nikumbhaśca,nikumbhaḥ+ca,nikumbhaḥ+ca,2,agree,nikumbhaḥ ca,2,True
+piturnāma,pituḥ+nāma,pituḥ+nāma,2,agree,pituḥ nāma,2,True
+cāsti,ca+asti,ca+asti,2,agree,ca asti,2,True
+kvādya,kva+adya,kva+adya,2,agree,kva adya,2,True
+nāmāpi,nāma+api,nām+api,2,agree,nāma api,2,True
+kiṃvā,kim+vā,kim+vā,2,agree,kim vā,2,True
+vedānuvacanena,veda+anuvacanena,veda+anuvacanena,2,agree,veda anuvacanena,2,True
+tvamasi,tvam+asi,tvam+asi,2,agree,tvam asi,2,True
+śreṣṭhastu,śreṣṭhaḥ+tu,śreṣṭhaḥ+tu,2,agree,śreṣṭhaḥ tu,2,True
+punarāgatā,punaḥ+āgatā,punar+āgatā,2,agree,punar āgatā,2,False
+cānnaṃ,ca+annaṃ,ca+annam,2,agree,ca annam,2,False
+nātimātraṃ,na+atimātraṃ,na+atimātram,2,agree,na atimātram,2,False
+āgaccheti,āgaccha+iti,āgaccha+iti,2,agree,āgaccha iti,2,True
+tayoktam,tayā+uktam,tayā+uktam,2,agree,tayā uktam,2,True
+vinyasettatra,vinyaset+tatra,vinyaset+tatra,2,agree,vinyaset tatra,2,True
+kecidye,kecit+ye,kecid+ye,2,agree,kecid ye,2,False
+etāvatāpi,etāvatā+api,etāvatā+api,2,agree,etāvatā api,2,True
+tathaiva,tathā+eva,tathā+eva,2,agree,tathā eva,2,True
+tvamidaṃ,tvam+idaṃ,tvam+idam,2,agree,tvam idam,2,False
+vijñāyaiva,vijñāya+eva,vijñāya+eva,2,agree,vijñāya eva,2,True
+glānirbhavati,glāniḥ+bhavati,glāniḥ+bhavati,2,agree,glāniḥ bhavati,2,True
+anyastu,anyaḥ+tu,anyaḥ+tu,2,agree,anyaḥ tu,2,True
+vidhyecchophaṃ,vidhyet+śophaṃ,vidhyet+śopham,2,agree,vidhyet śopham,2,False
+tannetraṃ,tat+netraṃ,tad+netram,2,agree,tat netram,2,False
+bāṇasyāsya,bāṇasya+asya,bāṇasya+asya,2,agree,bāṇasya asya,2,True
+tadabhidhīyate,tat+abhidhīyate,tat+abhidhīyate,2,agree,tat abhidhīyate,2,True
+tenaiva,tena+eva,tena+eva,2,agree,tena eva,2,True
+rakṣeti,rakṣa+iti,rakṣa+iti,2,agree,rakṣā iti,2,False
+punarāgamanaṃ,punaḥ+āgamanaṃ,punar+āgamanam,2,agree,punar āgamanam,2,False
+sādhayettataḥ,sādhayet+tataḥ,sādhayet+tatas,2,agree,sādhayet tatas,2,False
+pūrvavattatra,pūrvavat+tatra,pūrvavat+tatra,2,agree,pūrvavat tatra,2,True
+kimevaṃ,kim+evaṃ,kim+evam,2,agree,kim evam,2,False
+granthakṛtaiva,granthakṛtā+eva,granthakṛtā+eva,2,agree,grantha kṛtā eva,3,False
+rākṣasāśca,rākṣasāḥ+ca,rākṣasāḥ+ca,2,agree,rākṣasāḥ ca,2,True
+śatruśca,śatruḥ+ca,śatruḥ+ca,2,agree,śatruḥ ca,2,True
+pṛthagbālāḥ,pṛthak+bālāḥ,pṛthak+bālāḥ,2,agree,pṛthak bālāḥ,2,True
+paraśurāmaśca,paraśurāmaḥ+ca,paraśurāmaḥ+ca,2,agree,paraśurāmaḥ ca,2,True
+utsavaśca,utsavaḥ+ca,utsavaḥ+ca,2,agree,utsavaḥ ca,2,True
+paramadhunā,param+adhunā,param+adhunā,2,agree,param adhunā,2,True
+snāpayecca,snāpayet+ca,snāpayet+ca,2,agree,snāpayet ca,2,True
+hyanye,hi+anye,hi+anye,2,agree,hi anye,2,True
+pūrṇamiti,pūrṇam+iti,pūrṇam+iti,2,agree,pūrṇam iti,2,True
+ivābhāti,iva+ābhāti,iva+ābhāti,2,agree,iva ābhāti,2,True
+khalvasya,khalu+asya,khalu+asya,2,agree,khalu asya,2,True
+nayettataḥ,nayet+tataḥ,nayet+tatas,2,agree,nayet tatas,2,False
+tvamatra,tvam+atra,tvam+atra,2,agree,tvam atra,2,True
+brāhmaṇāśca,brāhmaṇāḥ+ca,brāhmaṇāḥ+ca,2,agree,brāhmaṇāḥ ca,2,True
+tadānena,tadā+anena,tadā+anena,2,agree,tadā anena,2,True
+brahmāsmi,brahma+asmi,brahma+asmi,2,agree,brahmā asmi,2,False
+kṛtastvayā,kṛtaḥ+tvayā,kṛtaḥ+tvayā,2,agree,kṛtaḥ tvayā,2,True
+cākarot,ca+akarot,ca+akarot,2,agree,ca akarot,2,True
+vahannapi,vahan+api,vahan+api,2,agree,vahan api,2,True
+kṛtānyevaṃ,kṛtāni+evaṃ,kṛtāni+evam,2,agree,kṛtāni evam,2,False
+bhavettathā,bhavet+tathā,bhavet+tathā,2,agree,bhavet tathā,2,True
+pratyekameva,pratyekam+eva,pratyekam+eva,2,agree,pratyekam eva,2,True
+skandhamāruhya,skandham+āruhya,skandham+āruhya,2,agree,skandham āruhya,2,True
+yāvadadya,yāvat+adya,yāvat+adya,2,agree,yāvat adya,2,True
+kiyacca,kiyat+ca,kiyat+ca,2,agree,kiyat ca,2,True
+niyataśca,niyataḥ+ca,niyataḥ+ca,2,agree,niyataḥ ca,2,True
+kṣaṇādbabhūva,kṣaṇāt+babhūva,kṣaṇāt+babhūva,2,agree,kṣaṇāt babhūva,2,True
+kathaṃca,katham+ca,katham+ca,2,agree,katham ca,2,True
+tamupāyayau,tam+upāyayau,tam+upāyayau,2,agree,tam upāyayau,2,True
+asaṃbhavaśca,asaṃbhavaśaḥ+ca,asaṃbhavaḥ+ca,2,agree,asaṃbhavaḥ ca,2,False
+nātītaṃ,na+atītaṃ,na+atītam,2,agree,na atītam,2,False
+nidhāyāpi,nidhāya+api,nidhāya+api,2,agree,nidhāya api,2,True
+daivamupālabhya,daivam+upālabhya,daivam+upālabhya,2,agree,daivam upālabhya,2,True
+tatsmṛtvā,tat+smṛtvā,tat+smṛtvā,2,agree,tad smṛtvā,2,False
+nūnamete,nūnam+ete,nūnam+ete,2,agree,nūnam ete,2,True
+tatrāsau,tatra+asau,tatra+asau,2,agree,tatra asau,2,True
+yataśca,yataḥ+ca,yatas+ca,2,agree,yatas ca,2,False
+dravyamagnīṣomau,dravyam+agnīṣomau,dravyam+agnīṣomau,2,agree,dravyam agnīṣomau,2,True
+sarvāsāmapi,sarvāsām+api,sarvāsām+api,2,agree,sarvāsām api,2,True
+ityapi,iti+api,iti+api,2,agree,iti api,2,True
+māsamāyāntu,māsam+āyāntu,māsam+āyāntu,2,agree,māsam āyāntu,2,True
+vīrāśca,vīrāḥ+ca,vīrāḥ+ca,2,agree,vīrāḥ ca,2,True
+viśravāstasya,viśravāḥ+tasya,viśravāḥ+tasya,2,agree,viśravāḥ tasya,2,True
+punaśca,punaḥ+ca,punar+ca,2,agree,punar ca,2,False
+tathātmani,tathā+ātmani,tathā+ātmani,2,agree,tathā ātmani,2,True
+paratastu,parataḥ+tu,paratas+tu,2,agree,paratas tu,2,False
+sparśānkṛtvā,sparśān+kṛtvā,sparśān+kṛtvā,2,agree,sparśān kṛtvā,2,True
+pitṝnatha,pitṝn+atha,pitṝn+atha,2,agree,pitṝn atha,2,True
+sahānvayaḥ,saha+anvayaḥ,saha+anvayaḥ,2,agree,saha anvayaḥ,2,True
+balavaddṛḍham,balavat+dṛḍham,balavat+dṛḍham,2,agree,balavat dṛḍham,2,True
+karmabhirna,karmabhiḥ+na,karmabhiḥ+na,2,agree,karmabhiḥ na,2,True
+apaśyantastu,apaśyantaḥ+tu,apaśyantaḥ+tu,2,agree,apaśyantaḥ tu,2,True
+yasminniti,yasmin+iti,yasmin+iti,2,agree,yasmin iti,2,True
+kathamiva,katham+iva,katham+iva,2,agree,katham iva,2,True
+tvabhūt,tu+abhūt,tu+abhūt,2,agree,tu abhūt,2,True
+samagramapi,samagram+api,samagram+api,2,agree,samagram api,2,True
+viṣṇustathā,viṣṇuḥ+tathā,viṣṇuḥ+tathā,2,agree,viṣṇuḥ tathā,2,True
+nāspṛśat,na+aspṛśat,na+aspṛśat,2,agree,na aspṛśat,2,True
+śuciriti,śuciḥ+iti,śuciḥ+iti,2,agree,śuciḥ iti,2,True
+vṛṣabhastathā,vṛṣabhaḥ+tathā,vṛṣabhaḥ+tathā,2,agree,vṛṣabhaḥ tathā,2,True
+ityetat,iti+etat,iti+etat,2,agree,iti etat,2,True
+gantumicchāmi,gantum+icchāmi,gantum+icchāmi,2,agree,gantum icchāmi,2,True
+bhūtvāhaṃ,bhūtvā+ahaṃ,bhūtvā+aham,2,agree,bhūtvā aham,2,False
+karaṇīyamasti,karaṇīyam+asti,karaṇīyam+asti,2,agree,karaṇīyam asti,2,True
+sādhayantīti,sādhayanti+iti,sādhayanti+iti,2,agree,sādhayanti iti,2,True
+kāryamiti,kāryam+iti,kāryam+iti,2,agree,kāryam iti,2,True
+yaṣṭavyamiti,yaṣṭavyam+iti,yaṣṭavyam+iti,2,agree,yaṣṭavyam iti,2,True
+vyavasāyātmikā,vyavasāya+ātmikā,vyavasāya+ātmikā,2,agree,vyavasāya ātmakā,2,False
+daśarathastataḥ,daśarathaḥ+tataḥ,daśarathaḥ+tatas,2,agree,daśarathaḥ tatas,2,False
+liṅgamiti,liṅgam+iti,liṅgam+iti,2,agree,liṅgam iti,2,True
+kṣaṇenaiva,kṣaṇena+eva,kṣaṇena+eva,2,agree,kṣaṇena eva,2,True
+sthitastena,sthitaḥ+tena,sthitaḥ+tena,2,agree,sthitaḥ tena,2,True
+syādanyathā,syāt+anyathā,syāt+anyathā,2,agree,syāt anyathā,2,True
+idamidānīṃ,idam+idānīṃ,idam+idānīm,2,agree,idam idānīm,2,False
+dhṛṣṭaketuścekitānaḥ,dhṛṣṭaketuḥ+cekitānaḥ,dhṛṣṭaketuḥ+cekitānaḥ,2,agree,dhṛṣṭa ketuḥ cekitānaḥ,3,False
+vacanamapi,vacanam+api,vacanam+api,2,agree,vacanam api,2,True
+jaghnurāhave,jaghnuḥ+āhave,jaghnuḥ+āhave,2,agree,jaghnuḥ āhave,2,True
+yaduktaṃ,yat+uktaṃ,yat+uktam,2,agree,yat uktam,2,False
+tairuktam,taiḥ+uktam,taiḥ+uktam,2,agree,taiḥ uktam,2,True
+sthitāśca,sthitāḥ+ca,sthitāḥ+ca,2,agree,sthitāḥ ca,2,True
+jānāmyaham,jānāmi+aham,jānāmi+aham,2,agree,jānāmi aham,2,True
+vānye,vā+anye,vā+anye,2,agree,vā anye,2,True
+haristebhyo,hariḥ+tebhyaḥ,hariḥ+tebhyaḥ,2,agree,hariḥ tebhyaḥ,2,True
+tasmānnagarāt,tasmāt+nagarāt,tasmāt+nagarāt,2,agree,tasmāt nagarāt,2,True
+vāstu,vā+astu,vā+astu,2,agree,vā astu,2,True
+bhagavānhariḥ,bhagavān+hariḥ,bhagavant+hariḥ,2,agree,bhagavān hariḥ,2,True
+nṛpastaṃ,nṛpaḥ+taṃ,nṛpaḥ+tam,2,agree,nṛpaḥ tam,2,False
+rūpāṇīti,rūpāṇi+iti,rūpāṇi+iti,2,agree,rūpāṇi iti,2,True
+paraśca,paraḥ+ca,paraḥ+ca,2,agree,paraḥ ca,2,True
+dūṣyāśca,dūṣyāḥ+ca,dūṣyāḥ+ca,2,agree,dūṣyāḥ ca,2,True
+hyadhaḥ,hi+adhaḥ,hi+adhas,2,agree,hi adhas,2,False
+mantrāśca,mantrāḥ+ca,mantrāḥ+ca,2,agree,mantrāḥ ca,2,True
+nāsukhasya,na+asukhasya,na+asukhasya,2,agree,na asukhasya,2,True
+juhuyāttataḥ,juhuyāt+tataḥ,juhuyāt+tatas,2,agree,juhuyāt tatas,2,False
+mukhācca,mukhāt+ca,mukhāt+ca,2,agree,mukhāt ca,2,True
+śakyamasyā,śakyam+asyā,śakyam+asyāḥ,2,agree,śakyam asyāḥ,2,False
+tatastasya,tataḥ+tasya,tatas+tasya,2,agree,tatas tasya,2,False
+tathāsti,tathā+asti,tathā+asti,2,agree,tathā asti,2,True
+bālasyāpi,bālasya+api,bālasya+api,2,agree,bālasya api,2,True
+vegavāṃśca,vegavān+ca,vegavant+ca,2,agree,vegavant ca,2,False
+yogastu,yogaḥ+tu,yogaḥ+tu,2,agree,yogaḥ tu,2,True
+homayecca,homayet+ca,homayet+ca,2,agree,homayet ca,2,True
+piteva,pitā+iva,pitā+iva,2,agree,pitā iva,2,True
+tasmāttathā,tasmāt+tathā,tasmāt+tathā,2,agree,tasmāt tathā,2,True
+taddalaṃ,tat+dalaṃ,tat+dalam,2,agree,tat dalam,2,False
+asyārthaḥ,asya+arthaḥ,asya+arthaḥ,2,agree,asya arthaḥ,2,True
+tadācaret,tat+ācaret,tadā+ācaret,2,agree,tat ācaret,2,True
+tanme,tat+me,tat+mama,2,agree,tat mama,2,False
+naiṣā,na+eṣā,na+eṣā,2,agree,na eṣā,2,True
+ityuktam,iti+uktam,iti+uktam,2,agree,iti uktam,2,True
+tatkuruṣva,tat+kuruṣva,tat+kuruṣva,2,agree,tad kuruṣva,2,False
+taddinaṃ,tat+dinaṃ,tat+dinam,2,agree,tat dinam,2,False
+bālādapi,bālāt+api,bālāt+api,2,agree,bālāt api,2,True
+visaṃjñeva,visaṃjñā+iva,visaṃjñā+iva,2,agree,visaṃjñā iva,2,True
+kuryāttu,kuryāt+tu,kuryāt+tu,2,agree,kuryāt tu,2,True
+teṣvapi,teṣu+api,teṣu+api,2,agree,teṣu api,2,True
+kaṣāyaśca,kaṣāyaḥ+ca,kaṣāyaḥ+ca,2,agree,kaṣāyaḥ ca,2,True
+tadasau,tat+asau,tat+asau,2,agree,tat asau,2,True
+saikā,sā+ekā,sā+ekā,2,agree,sā ekā,2,True
+kartumudyatāḥ,kartum+udyatāḥ,kartum+udyatāḥ,2,agree,kartum udyatāḥ,2,True
+caiteṣāṃ,ca+eteṣāṃ,ca+eteṣām,2,agree,ca eteṣām,2,False
+mantreṇābhimantrya,mantreṇa+abhimantrya,mantreṇa+abhimantrya,2,agree,mantreṇa abhimantrya,2,True
+yadenam,yat+enam,yat+enam,2,agree,yat enam,2,True
+cākhilam,ca+akhilam,ca+akhilam,2,agree,ca akhilam,2,True
+tvadviṣaye,tvat+viṣaye,tvad+viṣaye,2,agree,tvad viṣaye,2,False
+śarāste,śarāḥ+te,śarāḥ+te,2,agree,śarāḥ te,2,True
+yogināmeva,yoginām+eva,yoginām+eva,2,agree,yoginām eva,2,True
+iccheti,icchā+iti,iccha+iti,2,agree,icchā iti,2,True
+svameva,svayam+eva,svam+eva,2,agree,svam eva,2,False
+tatastathā,tataḥ+tathā,tatas+tathā,2,agree,tatas tathā,2,False
+kaviriti,kaviḥ+iti,kaviḥ+iti,2,agree,kaviḥ iti,2,True
+ityetasya,iti+etasya,iti+etasya,2,agree,iti etasya,2,True
+itīva,iti+iva,iti+iva,2,agree,iti iva,2,True
+dṛṣṭvāsya,dṛṣṭvā+asya,dṛṣṭvā+asya,2,agree,dṛṣṭvā asya,2,True
+yatrāham,yatra+aham,yatra+aham,2,agree,yatra aham,2,True
+tatrāpi,tatra+api,tatra+api,2,agree,tatra api,2,True
+tadvastu,tat+vastu,tat+vastu,2,agree,tat vastu,2,True
+dahedvā,dahet+vā,dahet+vā,2,agree,dahet vā,2,True
+padādapi,padāt+api,padāt+api,2,agree,padāt api,2,True
+kvāste,kva+āste,kva+āste,2,agree,kva āste,2,True
+tenāpi,tena+api,tena+api,2,agree,tena api,2,True
+nāśakat,na+aśakat,na+aśakat,2,agree,na aśakat,2,True
+cārhaṇam,ca+arhaṇam,ca+arhaṇam,2,agree,ca arhaṇam,2,True
+notpādayati,na+utpādayati,na+utpādayati,2,agree,na utpādayati,2,True
+ityetaṃ,iti+etam,iti+etam,2,agree,iti etam,2,True
+guṇāguṇeṣu,guṇāḥ+guṇeṣu,guṇa+aguṇeṣu,2,agree,guṇa aguṇeṣu,2,False
+paśyāmīva,paśyāmi+iva,paśyāmi+iva,2,agree,paśyāmi iva,2,True
+yāvacchakyaṃ,yāvat+śakyam,yāvat+śakyam,2,agree,yāvat śakyam,2,True
+tavāsanam,tava+āsanam,te+āsanam,2,agree,te āsanam,2,False
+nātivartate,na+ativartate,na+ativartate,2,agree,na ativartate,2,True
+patatyasau,patati+asau,patati+asau,2,agree,patati asau,2,True
+tamāhūya,tam+āhūya,tam+āhūya,2,agree,tam āhūya,2,True
+yadeṣā,yat+eṣā,yat+eṣā,2,agree,yat eṣā,2,True
+caikataḥ,caḥ+ekataḥ,ca+ekatas,2,agree,ca ekatas,2,False
+yathābravīt,yathā+abravīt,yathā+abravīt,2,agree,yathā abravīt,2,True
+kurvanna,kurvan+na,kurvan+na,2,agree,kurvan na,2,True
+kimatra,kim+atra,kim+atra,2,agree,kim atra,2,True
+cecchāmi,ca+icchāmi,ca+icchāmi,2,agree,ca icchāmi,2,True
+tvayeva,tvayā+eva,tvayā+iva,2,agree,tvayā iva,2,False
+kṛtastena,kṛtaḥ+tena,kṛtaḥ+tena,2,agree,kṛtaḥ tena,2,True
+kārayedbudhaḥ,kārayet+budhaḥ,kārayet+budhaḥ,2,agree,kārayet budhaḥ,2,True
+mukhādeva,mukhāt+eva,mukhāt+eva,2,agree,mukhāt eva,2,True
+bhavedvā,bhavet+vā,bhavet+vā,2,agree,bhavet vā,2,True
+tatrāgacchan,tatra+āgacchan,tatra+agacchan,2,agree,tatra agacchan,2,False
+sāpṛcchat,sā+apṛcchat,sā+apṛcchat,2,agree,sā apṛcchat,2,True
+imāmeva,imām+eva,imām+eva,2,agree,imām eva,2,True
+smṛtiryadā,smṛtiḥ+yadā,smṛtiḥ+yadā,2,agree,smṛtiḥ yadā,2,True
+rāmeṇeti,rāmeṇa+iti,rāmeṇa+iti,2,agree,rāmeṇa iti,2,True
+mithyaiva,mithyā+eva,mithyā+eva,2,agree,mithyā eva,2,True
+bhagavānapi,bhagavān+api,bhagavān+api,2,agree,bhagavān api,2,True
+pratyūṣaśca,pratyūṣaḥ+ca,pratyūṣaḥ+ca,2,agree,pratyūṣaḥ ca,2,True
+tathodaram,tathā+udaram,tathā+udaram,2,agree,tathā udaram,2,True
+bahvannaṃ,bahu+annaṃ,bahu+annam,2,agree,bahu annam,2,False
+yajñāśca,yajñāḥ+ca,yajñāḥ+ca,2,agree,yajñāḥ ca,2,True
+bhedamāha,bhedam+āha,bhedam+āha,2,agree,bhedam āha,2,True
+notpadyate,na+utpadyate,na+utpadyate,2,agree,na utpadyate,2,True
+indriyāgniṣu,indriya+agniṣu,indriya+agniṣu,2,agree,indriya agniṣu,2,True
+punastayoḥ,punaḥ+tayoḥ,punar+tayoḥ,2,agree,punar tayoḥ,2,False
+śambhunānaṅgaḥ,śambhunā+anaṅgaḥ,śambhunā+anaṅgaḥ,2,agree,śambhunā anaṅgaḥ,2,True
+duḥkhameva,duḥkham+eva,duḥkham+eva,2,agree,duḥkham eva,2,True
+kathamiha,katham+iha,katham+iha,2,agree,katham iha,2,True
+nūnamasau,nūnam+asau,nūnam+asau,2,agree,nūnam asau,2,True
+visṛjyātha,visṛjya+atha,visṛjya+atha,2,agree,visṛjya atha,2,True
+yasyāsau,yasya+asau,yasya+asau,2,agree,yasya asau,2,True
+tadgrahītuṃ,tat+grahītuṃ,tat+grahītum,2,agree,tat grahītum,2,False
+tattvayā,tat+tvayā,tat+tvayā,2,agree,tat tvayā,2,True
+devyuvāca,devī+uvāca,devī+uvāca,2,agree,devī uvāca,2,True
+yenātra,yena+atra,yena+atra,2,agree,yena atra,2,True
+bhaviṣyacca,bhaviṣyat+ca,bhaviṣyat+ca,2,agree,bhaviṣyat ca,2,True
+vepathuśca,vepathuḥ+ca,vepathuḥ+ca,2,agree,vepathuḥ ca,2,True
+nābhūt,na+abhūt,na+abhūt,2,agree,na abhūt,2,True
+devatāsvapi,devatāsu+api,devatāsu+api,2,agree,devatāsu api,2,True
+mayātmā,mayā+ātmā,mayā+ātmā,2,agree,mayā ātmā,2,True
+tairna,taiḥ+na,taiḥ+na,2,agree,taiḥ na,2,True
+hatānyekena,hatāni+ekena,hatāni+ekena,2,agree,hatāni ekena,2,True
+sukhenaiva,sukhena+eva,sukhena+eva,2,agree,sukhena eva,2,True
+prasādādeva,prasādāt+eva,prasādāt+eva,2,agree,prasādāt eva,2,True
+maunamāsthitā,maunam+āsthitā,maunam+āsthitā,2,agree,maunam āsthitā,2,True
+kartumapi,kartum+api,kartum+api,2,agree,kartum api,2,True
+patirme,patiḥ+me,patiḥ+mama,2,agree,patiḥ mama,2,False
+kṛtameva,kṛtam+eva,kṛtam+eva,2,agree,kṛtam eva,2,True
+ātmaiva,ātmā+eva,ātmā+eva,2,agree,ātmā eva,2,True
+tatkariṣyāmi,tat+kariṣyāmi,tat+kariṣyāmi,2,agree,tad kariṣyāmi,2,False
+svātantryeṇeti,svātantryeṇa+iti,svātantryeṇa+iti,2,agree,svātantryeṇa iti,2,True
+tvadharmasya,tu+adharmasya,tu+adharmasya,2,agree,tu adharmasya,2,True
+ghṛtenābhyajya,ghṛtena+abhyajya,ghṛtena+abhyajya,2,agree,ghṛtena abhyajya,2,True
+kimanayā,kim+anayā,kim+anayā,2,agree,kim anayā,2,True
+sutoṣā,sutā+uṣā,sutā+uṣā,2,agree,sutā uṣā,2,True
+tyajeti,tyaja+iti,tyaja+iti,2,agree,tyaja iti,2,True
+kanyaketi,kanyakā+iti,kanyakā+iti,2,agree,kanyakā iti,2,True
+kiṃcideva,kiṃcit+eva,kiṃcid+eva,2,agree,kiṃcid eva,2,False
+cādya,ca+adya,ca+adya,2,agree,ca adya,2,True
+sukhamuttamam,sukham+uttamam,sukham+uttamam,2,agree,sukham uttamam,2,True
+dhūmaśca,dhūmaḥ+ca,dhūmaḥ+ca,2,agree,dhūmaḥ ca,2,True
+sāpi,sā+api,sā+api,2,agree,sā api,2,True
+ityanumīyate,iti+anumīyate,iti+anumīyate,2,agree,iti anumīyate,2,True
+tatkāle,tat+kāle,tad+kāle,2,agree,tad kāle,2,False
+bhrātāsau,bhrātā+asau,bhrātā+asau,2,agree,bhrātā asau,2,True
+oṃbhūḥ,om+bhūḥ,om+bhūḥ,2,agree,ombhūḥ bhūḥ,2,False
+snānameva,snānam+eva,snānam+eva,2,agree,snānam eva,2,True
+ityetāni,iti+etāni,iti+etāni,2,agree,iti etāni,2,True
+svāheti,svāhā+iti,svāhā+iti,2,agree,svāhā iti,2,True
+yadāpi,yadā+api,yadā+api,2,agree,yadā api,2,True
+kāmaśca,kāmaḥ+ca,kāmaḥ+ca,2,agree,kāmaḥ ca,2,True
+cābravīt,ca+abravīt,ca+abravīt,2,agree,ca abravīt,2,True
+udgārasyāruciḥ,udgārasya+aruciḥ,udgārasya+aruciḥ,2,agree,udgārasya aruciḥ,2,True
+atrānurūpaṃ,atra+anurūpaṃ,atra+anurūpam,2,agree,atra anurūpam,2,False
+yatayaśca,yatayaḥ+ca,yatayaḥ+ca,2,agree,yatayaḥ ca,2,True
+mārutenānnaṃ,mārutena+annaṃ,mārutena+annam,2,agree,mārutena annam,2,False
+kācidaṅganā,kācit+aṅganā,kācid+aṅganā,2,agree,kācid aṅganā,2,False
+sthāpayecca,sthāpayet+ca,sthāpayet+ca,2,agree,sthāpayet ca,2,True
+karaṇīyamiti,karaṇīyam+iti,karaṇīyam+iti,2,agree,karaṇīyam iti,2,True
+vṛkaśca,vṛkaḥ+ca,vṛkaḥ+ca,2,agree,vṛkaḥ ca,2,True
+kurvannāpnoti,kurvan+āpnoti,kurvan+āpnoti,2,agree,kurvan āpnoti,2,True
+ityarthaḥ,iti+arthaḥ,iti+arthaḥ,2,agree,iti arthaḥ,2,True
+garbhāstu,garbhāḥ+tu,garbhāḥ+tu,2,agree,garbhāḥ tu,2,True
+deyeti,deyā+iti,deyā+iti,2,agree,deyā iti,2,True
+yatroparamate,yatra+uparamate,yatra+uparamate,2,agree,yatra uparamate,2,True
+śoṇitameva,śoṇitam+eva,śoṇitam+eva,2,agree,śoṇitam eva,2,True
+teṣāmiti,teṣām+iti,teṣām+iti,2,agree,teṣām iti,2,True
+yatraiva,yatra+eva,yatra+eva,2,agree,yatra eva,2,True
+yānādavatīrya,yānāt+avatīrya,yānāt+avatīrya,2,agree,yānāt avatīrya,2,True
+taddhi,tat+hi,tat+hi,2,agree,tat hi,2,True
+ahamadya,aham+adya,aham+adya,2,agree,aham adya,2,True
+tamarthaṃ,tam+arthaṃ,tam+artham,2,agree,tam artham,2,False
+yadyaham,yadi+aham,yadi+aham,2,agree,yadi aham,2,True
+bhagavannarasiṃha,bhagavan+narasiṃha,bhagavant+narasiṃhaiḥ,2,agree,bhagavant narasiṃhaḥ,2,False
+janāstatra,janāḥ+tatra,janāḥ+tatra,2,agree,janāḥ tatra,2,True
+bhavadbhirna,bhavadbhiḥ+na,bhavadbhiḥ+na,2,agree,bhavadbhiḥ na,2,True
+yāmastatra,yāmaḥ+tatra,yāmaḥ+tatra,2,agree,yāmaḥ tatra,2,True
+prāyeṇānena,prāyeṇa+anena,prāyeṇa+anena,2,agree,prāyeṇa anena,2,True
+cainam,ca+enam,ca+enam,2,agree,ca enam,2,True
+sarvatraiva,sarvatra+eva,sarvatra+eva,2,agree,sarvatra eva,2,True
+kāraṇamapi,kāraṇam+api,kāraṇam+api,2,agree,kāraṇam api,2,True
+uttiṣṭhottiṣṭha,uttiṣṭha+uttiṣṭha,uttiṣṭha+uttiṣṭha,2,agree,uttiṣṭha uttiṣṭhaiḥ,2,False
+vasetsvarge,vaset+svarge,vaset+svarge,2,agree,vaset svarge,2,True
+taḍidiva,taḍit+iva,taḍit+iva,2,agree,taḍit iva,2,True
+prativasatīti,prativasati+iti,prativasati+iti,2,agree,prativasati iti,2,True
+syāmiti,syām+iti,syām+iti,2,agree,syām iti,2,True
+ivāmalāḥ,iva+amalāḥ,iva+amalāḥ,2,agree,iva amalāḥ,2,True
+tvekamaṅgulam,tu+ekam+aṅgulam,tu+ekam+aṅgulam,3,agree,tu ekam aṅgulam,3,True
+upagamyābravīdetān,upagamya+abravīt+etān,upagamya+abravīt+etān,3,agree,upagamya abravīt etān,3,True
+tadanenaiva,tat+anena+eva,tat+anena+eva,3,agree,tad anena eva,3,False
+naitacchakyam,na+etat+śakyam,na+etat+śakyam,3,agree,na etat śakyam,3,True
+yuktasvapnāvabodhasya,yuktaḥ+svapna+avabodhasya,yukta+svapna+avabodhasya,3,agree,yukta svapna avabodhasya,3,False
+bhīṣmamevābhirakṣantu,bhīṣmam+eva+abhirakṣantu,bhīṣmam+eva+abhirakṣantu,3,agree,bhīṣmam eva abhirakṣantu,3,True
+anuktamapyūhati,anuktam+api+ūhati,anuktam+api+ūhati,3,agree,anuktam api ūhati,3,True
+ekamapyāsthitaḥ,ekam+api+āsthitaḥ,ekam+api+āsthitaḥ,3,agree,ekam api āsthitaḥ,3,True
+sāramathābravīt,sāram+atha+abravīt,sāram+atha+abravīt,3,agree,sāram atha abravīt,3,True
+gāvaścāpsaraso,gāvaḥ+ca+apsarasaḥ,gāvaḥ+ca+apsarasaḥ,3,agree,gāvaḥ ca apsarasaḥ,3,True
+manaścaiva,manaḥ+ca+eva,manaḥ+ca+eva,3,agree,manaḥ ca eva,3,True
+tapaścāsmi,tapaḥ+ca+asmi,tapaḥ+ca+asmi,3,agree,tapaḥ ca asmi,3,True
+evamanyatrāpi,evam+anyatra+api,evam+anyatra+api,3,agree,evam anyatra api,3,True
+senayorubhayorapi,senayoḥ+ubhayoḥ+api,senayoḥ+ubhayayoḥ+api,3,agree,senayoḥ ubhayoḥ api,3,True
+putrastapastepe,putraḥ+tapaḥ+tepe,putraḥ+tapaḥ+tepe,3,agree,putraḥ tapaḥ tepe,3,True
+tasmiṃścaiva,tasmin+ca+eva,tasmin+ca+eva,3,agree,tasmin ca eva,3,True
+buddhirbuddhimatāmasmi,buddhiḥ+buddhimatām+asmi,buddhiḥ+buddhimatām+asmi,3,agree,buddhiḥ buddhimatām asmi,3,True
+bhavatyeveti,bhavati+eva+iti,bhavati+eva+iti,3,agree,bhavati eva iti,3,True
+rudreṇābhayamarthitam,rudreṇa+abhayam+arthitam,rudreṇa+abhayam+arthitam,3,agree,rudreṇa abhayam arthitam,3,True
+nāvadhītamastu,nau+avadhītam+astu,nau+adhītam+astu,3,agree,na avadhītam astu,3,False
+yasyārthāstasya,yasya+arthāḥ+tasya,yasya+arthāḥ+tasya,3,agree,yasya arthāḥ tasya,3,True
+caitadvidmaḥ,ca+etat+vidmaḥ,ca+etat+vidmaḥ,3,agree,ca etat vidmaḥ,3,True
+tadapīti,tat+api+iti,tat+api+iti,3,agree,tat api iti,3,True
+śvetairhayairyukte,śvetaiḥ+hayaiḥ+yukte,śvetaiḥ+hayaiḥ+yukte,3,agree,śvetaiḥ hayaiḥ yukte,3,True
+evamihāpi,evam+iha+api,evam+iha+api,3,agree,evam iha api,3,True
+tadapyayuktam,tat+api+ayuktam,tat+api+ayuktam,3,agree,tat api ayuktam,3,True
+viduraścaiva,viduraḥ+ca+eva,viduraḥ+ca+eva,3,agree,viduraḥ ca eva,3,True
+kimatrāsti,kim+atra+asti,kim+atra+asti,3,agree,kim atra asti,3,True
+sannavyayātmā,san+avyaya+ātmā,san+avyaya+ātmā,3,agree,saṃnavyaya ātmā,2,False
+śaknotīhaiva,śaknoti+iha+eva,śaknoti+iha+eva,3,agree,śaknoti iha eva,3,True
+nāhamadya,na+aham+adya,na+aham+adya,3,agree,na aham adya,3,True
+viṣṇurvāpi,viṣṇuḥ+vā+api,viṣṇuḥ+vā+api,3,agree,viṣṇuḥ vā api,3,True
+cātrāpi,ca+atra+api,ca+atra+api,3,agree,ca atra api,3,True
+savanaścālaghuḥ,savanaḥ+ca+alaghuḥ,savanaḥ+ca+alaghuḥ,3,agree,savanaḥ ca alaghuḥ,3,True
+devānbhāvayatānena,devān+bhāvayata+anena,devān+bhāvayata+anena,3,agree,devān bhāvayatā anena,3,False
+śiraścāpi,śiraḥ+ca+api,śiraḥ+ca+api,3,agree,śiraḥ ca api,3,True
+sānnidhyamatraiva,sānnidhyam+atra+eva,sāṃnidhyam+atra+eva,3,agree,sānnidhyam atra eva,3,True
+tasmādyāvanna,tasmāt+yāvat+na,tasmāt+yāvat+na,3,agree,tasmāt yāvat na,3,True
+ekamapyakṣaraṃ,ekam+api+akṣaram,ekam+api+akṣaram,3,agree,ekam api akṣaram,3,True
+āyurārogyamaiśvaryaṃ,āyuḥ+ārogyam+aiśvaryaṃ,āyuḥ+ārogyam+aiśvaryam,3,agree,āyuḥ ārogyam aiśvaryam,3,False
+mahānāsītprajāpatiḥ,mahān+āsīt+prajāpatiḥ,mahān+āsīt+prajāpatiḥ,3,agree,mahān āsīt prajāpatiḥ,3,True
+pāṇḍavāścaiva,pāṇḍavāḥ+ca+eva,pāṇḍavāḥ+ca+eva,3,agree,pāṇḍavāḥ ca eva,3,True
+dṛṣṭaścāhaṃ,dṛṣṭaḥ+ca+ahaṃ,dṛṣṭaḥ+ca+aham,3,agree,dṛṣṭaḥ ca aham,3,False
+svajanamāhave,sva+janam+āhave,sva+janam+āhave,3,agree,sva janam āhave,3,True
+praviśyākṣobhayattataḥ,praviśya+akṣobhayat+tataḥ,praviśya+akṣobhayat+tatas,3,agree,praviśya akṣa ubhayat tatas,4,False
+vākyamidamāha,vākyam+idam+āha,vākyam+idam+āha,3,agree,vākyam idam āha,3,True
+vijayaścaiva,vijayaḥ+ca+eva,vijayaḥ+ca+eva,3,agree,vijayaḥ ca eva,3,True
+cāyamarthaḥ,ca+ayam+arthaḥ,ca+ayam+arthaḥ,3,agree,ca ayam arthaḥ,3,True
+samyagubhayorvindate,samyak+ubhayoḥ+vindate,samyak+ubhayoḥ+vindate,3,agree,samyak ubhayoḥ vindate,3,True
+śraddhayārcitumicchati,śraddhayā+arcitum+icchati,śraddhayā+arcitum+icchati,3,agree,śraddhayā arcitum icchati,3,True
+himavāṃścaiva,himavān+ca+eva,himavant+ca+eva,3,agree,himavant ca eva,3,False
+vaikārikastṛtīyastu,vaikārikaḥ+tṛtīyaḥ+tu,vaikārikaḥ+tṛtīyaḥ+tu,3,agree,vaikārikaḥ tṛtīyaḥ tu,3,True
+pāṇḍavaścaiva,pāṇḍavaḥ+ca+eva,pāṇḍavaḥ+ca+eva,3,agree,pāṇḍavaḥ ca eva,3,True
+ityuktvāntardadhe,iti+uktvā+antardadhe,iti+uktvā+antardadhe,3,agree,iti uktvā antardadhe,3,True
+pāvakādrathamuttamam,pāvakāt+ratham+uttamam,pāvakāt+ratham+uttamam,3,agree,pāvakāt ratham uttamam,3,True
+agnirjyotirahaḥ,agniḥ+jyotiḥ+ahaḥ,agniḥ+jyotiḥ+ahar,3,agree,agniḥ jyotiḥ ahar,3,False
+tvetadatra,tu+etat+atra,tu+etat+atra,3,agree,tu etat atra,3,True
+paṭaśceti,paṭa+ca+iti,paṭaḥ+ca+iti,3,agree,paṭaḥ ca iti,3,False
+cehāpi,ca+iha+api,ca+iha+api,3,agree,ca iha api,3,True
+kṛtakṛtyamivātmānaṃ,kṛtakṛtyam+eva+ātmānam,kṛtakṛtyam+iva+ātmānam,3,agree,kṛta kṛtyam iva ātmānam,4,False
+surāścāsan,surāḥ+ca+āsan,surāḥ+ca+āsan,3,agree,surāḥ ca āsan,3,True
+nītirmatirmama,nītiḥ+matiḥ+mama,nītiḥ+matiḥ+mama,3,agree,nītiḥ matiḥ mama,3,True
+ityāśaṅkyāha,iti+āśaṅkya+āha,iti+āśaṅkya+āha,3,agree,iti āśaṅkya āha,3,True
+cātreti,ca+atra+iti,ca+atra+iti,3,agree,ca atra iti,3,True
+iṣṭānbhogānhi,iṣṭān+bhogān+hi,iṣṭān+bhogān+hi,3,agree,iṣṭān bhogān hi,3,True
+sītādadatkapau,sītā+adadat+kapau,sītā+adadat+kapau,3,agree,sītā dadat kapau,3,False
+punastayoktaṃ,punaḥ+tayā+uktam,punar+tayā+uktam,3,agree,punar tayā uktam,3,False
+kartāhamiti,kartā+aham+iti,kartā+aham+iti,3,agree,kartā aham iti,3,True
+caitatsarvaṃ,ca+etat+sarvaṃ,ca+etat+sarvam,3,agree,ca etat sarvam,3,False
+tasminnevāvasare,tasmin+eva+avasare,tasmin+eva+avasare,3,agree,tasmin eva avasare,3,True
+vartetātmaiva,varteta+ātmā+eva,varteta+ātmā+eva,3,agree,varteta ātmā eva,3,True
+bhaviṣyatītyāha,bhaviṣyati+iti+āha,bhaviṣyati+iti+āha,3,agree,bhaviṣyati iti āha,3,True
+dhīmāṃstasmādajāyata,dhīmān+tasmāt+ajāyata,dhīmant+tasmāt+ajāyata,3,agree,dhīmān tasmāt ajāyata,3,True
+sātyakiścāparājitaḥ,sātyakiḥ+ca+aparājitaḥ,sātyakiḥ+ca+aparājitaḥ,3,agree,sātyakiḥ ca aparājitaḥ,3,True
+karmaṇyevādhikāraste,karmaṇi+eva+adhikāraḥ+te,karmaṇi+eva+adhikāraḥ+te,4,agree,karmaṇi eva adhikāraḥ te,4,True
+cākīrtirmaraṇādatiricyate,ca+akīrtiḥ+maraṇāt+atiricyate,ca+akīrtiḥ+maraṇāt+atiricyate,4,agree,ca ākīrtiḥ maraṇāt atiricyate,4,False
+yenātmaivātmanā,yena+ātmā+eva+ātmanā,yena+ātmā+eva+ātmanā,4,agree,yena ātmā eva ātmanā,4,True
+śvaśurānsuhṛdaścaiva,śvaśurān+suhṛdaḥ+ca+eva,śvaśurān+suhṛdaḥ+ca+eva,4,agree,śvaśurān suhṛdaḥ ca eva,4,True
+śabdādīnviṣayānanya,śabda+ādīn+viṣayān+anya,śabda+ādīn+viṣayān+anye,4,agree,śabda ādīn viṣaya ananyaḥ,4,False
+śareṇāthāvadhīcca,śareṇa+atha+avadhīt+ca,śareṇa+atha+avadhīt+ca,4,agree,śareṇa atha avadhīt ca,4,True
+tatrāpaśyatsthitānpārthaḥ,tatra+apaśyat+sthitān+pārthaḥ,tatra+apaśyat+sthitān+pārthaḥ,4,agree,tatra apaśyat sthitān pārthaḥ,4,True
+matsthānītyupadhāraya,mat+sthāni+iti+upadhāraya,mad+sthāni+iti+upadhāraya,4,agree,mad sthāni iti upadhāraya,4,False
+nānyadastīti,na+anyat+asti+iti,na+anyat+asti+iti,4,agree,na anyat asti iti,4,True
+caturbhiraṣṭābhiryāmairjīryanti,caturbhiḥ+aṣṭābhiḥ+yāmaiḥ+jīryanti,caturbhiḥ+aṣṭabhiḥ+yāmaiḥ+jīryanti,4,agree,caturbhiḥ aṣṭābhiḥ yāmaiḥ jīryanti,4,True
+agnīdhraścāgnibāhuśca,agnīdhraḥ+ca+agnibāhuḥ+ca,agnīdhraḥ+ca+agnibāhuḥ+ca,4,agree,agnīdhraḥ ca agni bāhuḥ ca,5,False
+indriyāṇīndriyārthebhyastasya,indriyāṇi+indriya+arthebhyaḥ+tasya,indriyāṇi+indriya+arthebhyaḥ+tasya,4,agree,indriyāṇi indriya arthebhyaḥ tasya,4,True
+tvaṣṭuścaivātmajaḥ,tvaṣṭuḥ+ca+eva+ātmajaḥ,tvaṣṭuḥ+ca+eva+ātmajaḥ,4,agree,tvaṣṭuḥ ca eva ātmajaḥ,4,True
+dhanurbāhūñchirāṃsyeva,dhanuḥ+bāhūn+śirāṃsi+eva,dhanuḥ+bāhūn+śirāṃsi+eva,4,agree,dhanus bāhūn śirāṃsi eva,4,False
+paṭhecchṛṇuyādvāpi,paṭhet+śṛṇuyāt+vā+api,paṭhet+śṛṇuyāt+vā+api,4,agree,paṭhet śṛṇuyāt vā api,4,True
+paśyaitānsamavetānkurūniti,paśya+etān+samavetān+kurūn+iti,paśya+etān+samavetān+kurūn+iti,5,agree,paśya etān samavetān kurūn iti,5,True
+sadasaccāhamarjuna,sat+asat+ca+aham+arjuna,sat+asat+ca+aham+arjuna,5,agree,sat asat ca aham arjunaiḥ,5,False
+śreṣṭhastattadevetaro,śreṣṭhaḥ+tat+tat+eva+itaraḥ,śreṣṭhaḥ+tat+tat+eva+itaraḥ,5,agree,śreṣṭhaḥ tat tat eva itaraḥ,5,True
+bahirbāhyāṃścakṣuścaivāntare,bahiḥ+bāhyān+cakṣuḥ+ca+eva+antare,bahis+bāhyān+cakṣuḥ+ca+eva+antare,6,agree,bahis bāhyān cakṣuḥ ca eva antare,6,False
+pakṣiṇaśca,pakṣiṇaḥ+ca,pakṣiṇaḥ+ca,2,agree,pakṣiṇaḥ ca,2,True

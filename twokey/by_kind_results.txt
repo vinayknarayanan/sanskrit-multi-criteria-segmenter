@@ -1,0 +1,6 @@
+13 dcs_deeper 512 Frontiers key: <fr> 0.906 <dcs> 0.642 | DCS key: <fr> 0.629 <dcs> 0.916
+13 fr_deeper 33 Frontiers key: <fr> 0.663 <dcs> 0.696 | DCS key: <fr> 0.843 <dcs> 0.915
+13 same_count_diff_pos 51 Frontiers key: <fr> 0.850 <dcs> 0.359 | DCS key: <fr> 0.222 <dcs> 0.722
+42 dcs_deeper 512 Frontiers key: <fr> 0.917 <dcs> 0.645 | DCS key: <fr> 0.624 <dcs> 0.921
+42 fr_deeper 33 Frontiers key: <fr> 0.673 <dcs> 0.686 | DCS key: <fr> 0.864 <dcs> 0.925
+42 same_count_diff_pos 51 Frontiers key: <fr> 0.807 <dcs> 0.346 | DCS key: <fr> 0.271 <dcs> 0.729

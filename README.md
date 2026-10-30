@@ -1,7 +1,7 @@
-# Change the Answer Key, Change the Winner — code and data
+# Switching the Convention — code and data
 
 Code, evaluation splits, model predictions and intermediate results for the paper
-*Change the Answer Key, Change the Winner: A Convention-Switchable Model for Sanskrit Word Segmentation* (ISCLS 2027 submission).
+*Switching the Convention: A Convention-Tagged Model for Measuring Annotation Effects in Sanskrit Segmentation* (ISCLS 2027 submission).
 
 ## Layout
 
@@ -32,6 +32,23 @@ Code, evaluation splits, model predictions and intermediate results for the pape
 | `frontiers_s{13,7,21,42,99}_on_dcs` | the five Frontiers-only models | – | – | DCS held-out (authentic-key reversal) |
 
 `analysis_plan.txt` is the analysis fixed before the extra seeds were run. `analysis/five_seed.py` aggregates the five tagged and five Frontiers-only seeds (tag flip, pre-specified ±0.01 equivalence test, epoch control, authentic-key reversal). Model checkpoints are not included.
+
+## Two-key test (Section 5.1, "Same words, two authentic keys")
+
+Folder `twokey/`. `PLAN.txt` holds the predictions, written before training.
+
+```
+cd results
+python ../analysis/build_dcs_pairs.py          # (needs DCS) writes dcs_pairs_all.csv
+python ../twokey/make_twokey.py                # test set (596 disagree + 596 agree forms) and training files
+# train in training/ as for the tagged model, with --data twokey/dataset_tagged_twokey.csv (seeds 13, 42)
+# and --data twokey/dataset_shuffled_tags.csv (random-tag control, seed 13); --eval twokey/twokey_eval.csv
+python ../twokey/score_twokey.py ../predictions/twokey_s13     # also twokey_s42, shuffled_s13
+```
+
+`make_twokey.py` reproduces the files used for the reported runs byte for byte. `step1_junctions.py` and
+`step1_junctions_gold.py` compare the two tag settings' cuts on the main runs. Predictions are in
+`predictions/twokey_s13`, `twokey_s42` and `shuffled_s13`.
 
 ## External data (not redistributed; put under `external/` or point the `S2_*` variables in `analysis/paths.py` at them)
 

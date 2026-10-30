@@ -57,5 +57,5 @@ if __name__ == '__main__':
         for idx, w in pool.imap_unordered(parse, files, chunksize=50):
             for k, v in idx.items(): IDX[k].update(v)
             W.update(w)
-    pickle.dump(dict(idx=dict(IDX), words=W), open(P.CACHE + P.CACHE + 'dcs_surface.pkl', 'wb'))
+    pickle.dump(dict(idx=dict(IDX), words=W), open(P.CACHE + 'dcs_surface.pkl', 'wb'))
     print('surface keys', len(IDX), 'unsandhied word types', len(W))

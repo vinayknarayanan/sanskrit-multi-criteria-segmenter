@@ -1,0 +1,201 @@
+compound,gold_split,split_count,group,predicted_now
+paścādbhavadapyabhāvagrahaṇamiti,paścāt+bhavat+api+abhāvagrahaṇam+iti,5,multi-split,paścāt bhavat api abhāva grahaṇam iti
+tamapaśyantoyodhyāṃte,tam+apaśyantaḥ+ayodhyām+te,4,multi-split,tam apaśyantaḥ yodhyāṃte
+etaccānvayasahacāramātraniścayavirodhitvenānupasaṃhāritvamabhyupatyoktam,etat+ca+anvayasahacāramātraniścayavirodhitvena+anupasaṃhāritvam+abhyupeya+uktam,6,multi-split,etat ca anvaya sahacāra mātra niścaya virodhi tvena anupasaṃhāri tvam abhyupatya uktam
+vahniniṣṭhaśaktāvityasaṃgatirityataāhatathā,vahniniṣṭhaśaktau+iti+asaṃgatiḥ+iti+ataḥ+āhatathā,6,multi-split,vahni niṣṭha śaktau iti asaṃgatiḥ iti atas āha tathā
+mukhyatvaṃnānyatretyatra,mukhyatvam+na+anyatra+iti+atra,5,multi-split,mukhya tvam na anyatra iti atra
+āsītkaścanālpajīvī,āsīt+kaścana+alpajīvī,3,multi-split,āsīt kaścana alpa jīvī
+mukhavivaramāsīdidam,mukhavivaram+āsīt+idam,3,multi-split,mukha vivaram āsīt idam
+naitadabhilaṣaṇīyamiti,na+etat+abhilaṣaṇīyam+iti,4,multi-split,na etat abhilaṣaṇīyam iti
+tamasūcayadyat,tam+asūcayat+yat,3,multi-split,tam asūcayat yat
+laghīyānityāśayenāhavayaṃtviti,laghīyān+iti+āśayena+āhavayam+tu+iti,6,multi-split,laghīyān iti āśayena āha vayaṃtu iti
+hiraṇmayañcāṇḍaṃsosṛjat,hiraṇmayam+ca+aṇḍam+saḥ+asṛjat,5,multi-split,hiraṇmayam ca aṇḍam saḥ usṛjat
+śatatvenveti,śatatve+anveti,2,single-split-control,śata tvenvā iti
+rūpādāvanvayovācyaḥ,rūpādau+anvayaḥ+vācyaḥ,3,multi-split,rūpa ādau anvayaḥ vācyaḥ
+sarvathaivobhayoranirdhāritaviśeṣatvamityarthaḥ,sarvathā+eva+ubhayoḥ+anirdhāritaviśeṣatvam+iti+arthaḥ,6,multi-split,sarvathā eva ubhayoḥ anirdhārita viśeṣa tvam iti arthaḥ
+jātikaraṇakabodhaviṣayatvamevetyarthaḥ,jātikaraṇakabodhaviṣayatvam+eva+ityarthaḥ,3,multi-split,jāti karaṇaka bodha viṣaya tvam eva iti arthaḥ
+abhyamitrācchaca,abhyamitrāt+cha+ca,3,multi-split,abhyamitrāt śa ca
+prapañcastāvadarthaviśeṣyakaśaktipakṣīyastasmātpadaviśeṣyakaevāyamādaraṇīyaiti,prapañcastāvat+arthaviśeṣyakaśaktipakṣīyaḥ+tasmātpadaviśeṣyakaeva+ayam+ādaraṇīyaḥ+iti,6,multi-split,prapañcaḥ tāvat artha viśeṣyaka śakti pakṣīyaḥ tasmāt pada viśeṣyakaḥ eva ayam ādaraṇīyaḥ eti
+lyuṭovihitatvādityāśaṅkyābhimatāṃ,lyuṭaḥ+vihitatvāt+iti+āśaṅkya+abhimatāṃ,5,multi-split,lyuṭaḥ vihita tvāt iti āśaṅkya abhimatām
+kurūpakuṣṭhābhibhūtatvājjavanikāntare,kurūpakuṣṭhābhibhūtatvāt+javanikāntare,2,single-split-control,kurūpa kuṣṭha abhibhūta tvāt javanikā antare
+vanniyatamevārthaṃbodhayenna,vat+niyatam+eva+artham+bodhayet+na,6,multi-split,vat niyatam eva artham bodhayet na
+pañcanetārasteṣvekovīrakumarasiṃhaścaikā,pañcanetāraḥ+teṣu+ekaḥ+vīrakumarasiṃhaḥ+ca+ekā,6,multi-split,pañca netāraḥ teṣu ekaḥ vīra kumara siṃhaḥ ca ekā
+uktasākṣātkārevyāptisamādhānamuktaṃtaddoṣayitumāhana,uktasākṣātkāre+avyāptisamādhānam+uktam+tat+doṣayitum+āhana,6,multi-split,ukta sākṣātkāre vyāpti samādhānam uktam tat doṣayitum āha na
+niścayavirodhītyeva,niścayavirodhī+iti+eva,3,multi-split,niścaya virodhi iti eva
+nirākarotītyāha,nirākaroti+iti+āha,3,multi-split,nirākaroti iti āha
+kaniṣṭhaṃcalamucyate,kaniṣṭham+calam+ucyate,3,multi-split,kaniṣṭhaṃcalam ucyate
+samānaivetyataāhasamānatvamiti,samāna+eva+iti+ataḥ+āhasamānatvam+iti,6,multi-split,samānā eva iti atas āha samāna tvam iti
+viśeṣyakatattatsaṃsargakatattadartha,viśeṣyakatattat+saṃsargakatattat+artha,3,multi-split,
+apratītisahacāratvamasaṃbhavatītyataāhavyāptigrahānukūleti,apratītisahacāratvam+asaṃbhavat+iti+ataḥ+āhavyāptigrahānukūlā+iti,6,multi-split,apratīti sahacāra tvam asaṃbhavati iti atas āha vyāpti graha anukūla iti
+kutrātitsutvādineti,kutrātit+sutvādina+iti,3,multi-split,kutra atitsu tva ādinā iti
+nirbījorājñī,nirbījaḥ+rājñī,2,single-split-control,nirbījaḥ rājñī
+sādhyāvyāpterāha,sādhyāvyāpteḥ+āha,2,single-split-control,sādhya avyāpteḥ āha
+viruddhetivyāptirityataāhasādhyeti,viruddhe+ativyāptiḥ+iti+ataḥ+āhasādhya+iti,6,multi-split,viruddha itivyāptiḥ iti atas āha sādhya iti
+niścitamabhūdyanmama,niścitam+abhūt+yat+mama,4,multi-split,niścitam abhūt yat mama
+prāntaroyamadhvā,prāntaraḥ+ayam+adhvā,3,multi-split,prāntaraḥ yam adhvā
+pratibandhyatāvacchedakānavacchinnatvamarthādeveti,pratibandhyatā+avacchedakān+avacchinnatvam+arthāt+eva+iti,6,multi-split,pratibandhya tā avacchedaka anavacchinna tvam arthāt eva iti
+badhyatāmeṣaśīghram,badhyatām+eṣaḥ+śīghram,3,multi-split,badhyatām eṣa śīghram
+kathayitumasamarthāścāsan,kathayitum+asamarthāḥ+ca+āsan,4,multi-split,kathayitum asamarthāḥ ca āsan
+pratibandhakakālepītyataāhapratīti,pratibandhakakāle+api+iti+ataḥ+āhaprati+iti,6,multi-split,pratibandhaka kāle api iti atas āha prati iti
+nataścāgādayodhyāntatra,nataḥ+ca+agāt+ayodhyām+tatra,5,multi-split,nataḥ ca agāt ayodhyān tatra
+paryavekṣamāṇobhūvam,paryavekṣamāṇaḥ+abhūvam,2,single-split-control,paryavekṣamāṇaḥ bhūvam
+bhavatvahamasya,bhavatu+aham+asya,3,multi-split,bhavatu aham asya
+svasaṅghabalamabhyarṇamapyanupatatīti,svasaṅghabalam+abhyarṇam+api+anupatati+iti,5,multi-split,sva saṅgha balam abhyarṇam api anupatati iti
+rājānamityākāṅkṣājñānaṃkāraṇamityādirītyā,rājānam+ityākāṅkṣājñānam+kāraṇam+ityādirītyā,4,multi-split,rājānam iti ākāṅkṣā jñānam kāraṇam ityādi rītyā
+jñāninoyoginaścāpyāsan,jñāninaḥ+yoginaḥ+ca+api+āsan,5,multi-split,jñāninaḥ yoginaḥ ca api āsan
+odanoviṣavān,odanaḥ+viṣavān,2,single-split-control,odanaḥ u viṣavān
+tvadāgamanavṛttaṃmāmakathayat,tvat+āgamanavṛttam+mām+akathayat,4,multi-split,tvad āgamana vṛttam mām akathayat
+sarvaṃtavājñāsūtragumphitam,sarvam+tava+ājñāsūtragumphitam,3,multi-split,sarvam tava ājñā sūtra gumphitam
+yattvām,yat+tvām,2,single-split-control,yat tvām
+puṣkaraṃsavanāyādādagnīdhredāt,puṣkaram+savanāya+adāt+agnīdhre+adāt,5,multi-split,puṣkaraṃsavanāya ādāt agnīdhra idāt
+prāṇamprāṇepānamtathāpare,prāṇam+prāṇe+apānam+tathā+apare,5,multi-split,prāṇam prāṇe pānam tathā apare
+śekharastāṃdīrghasvareṇākārayat,śekharaḥ+tām+dīrghasvareṇa+ākārayat,4,multi-split,śekharaḥ tām dīrgha svareṇa akārayat
+snigdhorocanadīpanaḥ,snigdhaḥ+rocanadīpanaḥ,2,single-split-control,snigdhaḥ rocana dīpanaḥ
+bhojanamātrāyāścāpyatikramaṇaṃkaroti,bhojanamātrāyāḥ+ca+api+atikramaṇam+karoti,5,multi-split,bhojana mātrāyāḥ ca api atikramaṇaṃkaroti
+kathaṃnirjaghāneti,katham+nirjaghāna+iti,3,multi-split,katham nirjaghāna iti
+rūpeṇānyathāsiddhatvādeva,rūpeṇa+anyathāsiddhatvāt+eva,3,multi-split,rūpeṇa anyathā asiddha tvāt eva
+sarvapātālāsuravāsināṃhṛdayānyākarṣaya,sarvapātālāsuravāsinām+hṛdayāni+ākarṣaya,3,multi-split,sarva pātāla asura vāsinām hṛdayāni ākarṣaya
+yadahaṃkathanna,yat+aham+katham+na,4,multi-split,yat aham katham na
+tamimamutthāpayituvācchadasau,tam+imam+utthāpayitum+avāñchat+asau,5,multi-split,tam imam utthāpayitu vācchat asau
+sarvajanānāmanubhavasiddhatvāditi,sarvajanānām+anubhavasiddhatvāt+iti,3,multi-split,sarva janānām anubhava siddha tvāt iti
+lopaḥpibaterīccābhyāsasya,lopaḥ+pibateḥ+īt+ca+abhyāsasya,5,multi-split,lopaḥ pibateḥ ī t ca abhyāsasya
+duravagamamityāśaṅkya,duravagamam+iti+āśaṅkya,3,multi-split,duravagamam iti āśaṅkya
+dvitvādimadbhedasyāsatvāditi,dvitvādimat+bhedasya+asatvāt+iti,4,multi-split,dvi tva ādimat bhedasya asatvāt iti
+sukaramanumānamuktavyāpteriti,sukaram+anumānam+uktavyāpteḥ+iti,4,multi-split,sukaram anumānam ukta vyāpteḥ iti
+vijñānīyonāmaikādaśodhyāyaḥ,vijñānīyaḥ+nāma+ekādaśaḥ+adhyāyaḥ,4,multi-split,vijñānīyaḥ nāma ekādaśaḥ adhyāyaḥ
+kṣetramantardvābhyāmathāṅkayet,kṣetram+antaḥ+dvābhyām+atha+aṅkayet,5,multi-split,kṣetram antar dvābhyām atha aṅkayet
+triṃśodhyāyaḥ,triṃśaḥ+adhyāyaḥ,2,single-split-control,triṃśaḥ udhyāyaḥ
+durbalatvamevetyataāhatathā,durbalatvam+eva+iti+ataḥ+āhatathā,5,multi-split,durbala tvam eva iti atas āha tathā
+praviśatyaṅgadohanūmāṃśca,praviśati+aṅgadaḥ+hanūmān+ca,4,multi-split,praviśati aṅgadaḥ hanūmān ca
+śūrovikrāntaśca,śūraḥ+vikrāntaḥ+ca,3,multi-split,śūrovikrāntaḥ ca
+kuṇḍamityuktaṃyoniryonirvidhīyate,kuṇḍam+iti+uktam+yoniḥ+yoniḥ+vidhīyate,6,multi-split,kuṇḍam iti uktam yoniḥ yoniḥ vidhīyate
+gauravānvitobhūt,gauravānvitaḥ+abhūt,2,single-split-control,gaurava anvitaḥ bhūt
+tacchālīcchātvenaivottejakatvaṃsvīkaraṇīyam,tat+śāli+icchātvena+eva+uttejakatvam+svīkaraṇīyam,6,multi-split,tad śāli icchā tvena eva uttejaka tvam svīkaraṇīyam
+acittādadeśakālāṭṭhak,acittāt+adeśakālāt+ṭhak,3,multi-split,a cittāt a deśa kālāt ṭhak
+phalāsatvamityevaṃrūpam,phalāsatvam+iti+evam+rūpam,4,multi-split,phala asatvam iti evaṃrūpam
+tathātvepyasmaduccaritaghaṭādipadeṣvavyāpterdurvāratvāt,tathātve+api+asmat+uccaritaghaṭādipadeṣu+avyāpteḥ+durvāratvāt,6,multi-split,tathātve pi asmad uccarita ghaṭa ādi padeṣu avyāpteḥ durvāra tvāt
+ghaṭādāvapītyataāhaabhāvatvamiti,ghaṭādau+api+iti+ataḥ+āhaabhāvatvam+iti,6,multi-split,ghaṭa ādau api iti atas āha abhāva tvam iti
+pratibandhakaṃityatrānuga,pratibandhakam+iti+atra+anuga,4,multi-split,pratibandhakam iti atra anuga
+pūrvabuddhyanubhūtārthamuttarabuddhirna,pūrvabuddhyanubhūtārtham+uttarabuddhiḥ+na,3,multi-split,pūrva buddhi anubhūta artham uttara buddhiḥ na
+balaṃcaiva,balam+ca+eva,3,multi-split,balam ca eva
+bhedāḥnīlonetyākārakastadabhāvasyetyarthaḥ,bhedāḥnīlaḥ+na+ityākārakaḥ+tadabhāvasya+ityarthaḥ,5,multi-split,bhedāḥ nīlona iti ākārakaḥ tad abhāvasya iti arthaḥ
+taddhanaṃgokrayamūlyārthamiti,taddhanam+gokrayamūlyārtham+iti,3,multi-split,tat dhanaṃgo kraya mūlya artham iti
+abhāvādhīhetutvenātiprasaktajanyatvenopasthitānāṃtāvatāmabhāvagrahāvirodhāditi,abhāvādhīhetutvenātiprasaktajanyatvena+upasthitānām+tāvatām+abhāvagrahāvirodhāt+iti,5,multi-split,abhāva adhī hetu tvena atiprasakta janya tvena upasthitānām tāvatām abhāva graha avirodhāt iti
+candramaulirgṛhānnisartumiyeṣa,candramauliḥ+gṛhāt+niḥsartum+iyeṣa,4,multi-split,candramauliḥ gṛhāt nisartum iyeṣa
+parvatovahnimānityanumityanudayaprasaṅgaḥ,parvataḥ+vahnimān+iti+anumiti+anudayaprasaṅgaḥ,5,multi-split,parvataḥ vahnimān iti anumiti anudaya prasaṅgaḥ
+tamahamāviśāmi,tam+aham+āviśāmi,3,multi-split,tam aham āviśāmi
+anumāpakatvādanenānumeyajñāpakatvādityarthaḥ,anumāpakatvāt+anena+anumeyajñāpakatvāt+iti+arthaḥ,5,multi-split,anumāpaka tvāt anena anumeya jñāpaka tvāt iti arthaḥ
+saṃkaṭādasmādyathākathaṃcidātmānamavamocyāvakāśasamaye,saṃkaṭād+asmāt+yathākathaṃcid+ātmānam+avamocyā+avakāśasamaye,6,multi-split,saṃkaṭāt asmāt yathā kathaṃcid ātmānam avamocya avakāśa samaye
+svāṅgāccetomānini,svāṅgāt+ca+ītaḥ+amānini,4,multi-split,sva aṅgāt ca itas mānini
+vipriyaṃkṛtvā,vipriyam+kṛtvā,2,single-split-control,vipriyaṃkṛtvā
+liṅgamityetāvataivālam,liṅgam+iti+etāvatā+eva+alam,5,multi-split,liṅgam iti etāvatā eva alam
+janastṛṇasyāśrayaṃlabhateityābhāṇakamāśritya,janaḥ+tṛṇasya+āśrayam+labhateiti+ābhāṇakam+āśritya,6,multi-split,janaḥ tṛṇasya āśrayam labhate iti ābhāṇakam āśritya
+navānāmīśvarasādhakānāmanumānānāṃ,navānām+īśvarasādhakānām+anumānānāṃ,3,multi-split,navānām īśvara sādhakānām anumānānām
+itaścalopaḥparasmaipadeṣu,itaḥ+ca+lopaḥ+parasmaipadeṣu,4,multi-split,i taḥ ca lopaḥ parasmaipadeṣu
+raktadaṇḍavatpurūṣavānityādiviśiṣṭavaiśiṣṭyabodhe,raktadaṇḍavat+purūṣavān+iti+ādiviśiṣṭavaiśiṣṭyabodhe,4,multi-split,rakta daṇḍa vat purūṣavān ityādi viśiṣṭa vaiśiṣṭya bodhe
+kaścidaparobrūyānna,kaścit+aparaḥ+brūyān+na,4,multi-split,kaścid aparaḥ brūyāt na
+sādhyāviśeṣasthalesādhyābhāvasyobhayarūpatvam,sādhyāviśeṣasthale+asādhyābhāvasya+ubhayarūpatvam,3,multi-split,sādhya aviśeṣa sthale sādhya abhāvasya ubhaya rūpa tvam
+muhurmuhuretadeva,muhuḥ+muhuḥ+etat+eva,4,multi-split,muhur muhur etat eva
+gandhairārdrāmityādipuṣpakaiḥ,gandhaiḥ+ārdrām+ityādipuṣpakaiḥ,3,multi-split,gandhaiḥ ārdrām ityādi puṣpakaiḥ
+mṛttikālambhanādvāpi,mṛttikālambhanāt+vā+api,3,multi-split,mṛttikā ālambhanāt vā api
+brahmabhiraṅgaiśca,brahmabhiḥ+aṅgaiḥ+ca,3,multi-split,brahmabhiḥ aṅgaiḥ ca
+ityāśayenāhaevaṃceti,iti+āśayena+āhaevam+ca+iti,5,multi-split,iti āśayena āha evam ca iti
+sattvādityataāhaevamiti,sattvāt+iti+ataḥ+āhaevam+iti,5,multi-split,sattvāt iti atas āha evam iti
+kutoyamanviṣyate,kutaḥ+ayam+anviṣyate,3,multi-split,kutas iyam anviṣyate
+ghaṭaevāyamiti,ghaṭaḥ+eva+ayam+iti,4,multi-split,ghaṭa eva ayam iti
+tatsattvāttādṛśānumityādīnāmuttejakatvā,tat+sattvāt+tādṛśa+anumiti+ādīnām+uttejakatvā,6,multi-split,tad sattvāt tādṛśa anumiti ādīnām uttejaka tvā
+ghaṭapadādvoddhavyamitīcchāyāṃghaṭatvādāvavacchedakatāsambandhena,ghaṭapadāt+boddhavyam+iti+icchāyām+ghaṭatvādau+avacchedakatāsambandhena,6,multi-split,ghaṭa padāt voddhavyam iti icchāyām ghaṭa tva ādau avacchedaka tā sambandhena
+pituścittavṛttirna,pituḥ+cittavṛttiḥ+na,3,multi-split,pituḥ citta vṛttiḥ na
+tāṃllakṣayedavahitovikurvāṇān,tān+lakṣayet+avahitaḥ+vikurvāṇān,4,multi-split,tān lakṣayet avahitaḥ vikurvāṇān
+hānirityataāhaekasattvepīti,hāniḥ+iti+ataḥ+āhaekasattve+api+iti,6,multi-split,hāniḥ iti atas āha eka sattve api iti
+gatiścintanīyeti,gatiḥ+cintanīyā+iti,3,multi-split,gatiḥ cintanīyā iti
+prāyastā,prāyaḥ+tā,2,single-split-control,prāyastā
+tadasyāṃpraharaṇamitikrīḍāyāmṇaḥ,tat+asyām+praharaṇam+iti+krīḍāyām+ṇaḥ,6,multi-split,tat asyām praharaṇam iti krīḍāyāmṇaḥ
+doṣatvamityataāhatasmāditi,doṣatvam+iti+ataḥ+āhatasmāt+iti,5,multi-split,doṣa tvam iti atas āha tasmāt iti
+pradattastadāhamasmaram,pradattaḥ+tadā+aham+asmaram,4,multi-split,pradattaḥ tadā aham asmaram
+bhavatyevetyanenātiśayena,bhavati+eva+iti+anena+atiśayena,5,multi-split,bhavati eva iti anena atiśayena
+grāhyamārttavañca,grāhyam+ārttavam+ca,3,multi-split,grāhyam ārttavat ca
+varttulaścātihrasvonīlaḥ,varttulaḥ+ca+atihrasvaḥ+nīlaḥ,4,multi-split,varttulaḥ ca ati hrasvaḥ nīlaḥ
+sākṣātkāripramāyāakṣajanyatvenākṣaṃ,sākṣātkāripramāyāḥ+akṣajanyatvena+akṣaṃ,3,multi-split,
+dvyaṣṭanaḥsaṃkhyāyāmabahuvrīhyaśītyoḥ,dvyaṣṭanaḥ+saṃkhyāyām+abahuvrīhyaśītyoḥ,3,multi-split,dvi aṣṭanaḥ saṃkhyāyām a bahuvrīhi aśītyoḥ
+dvāvetau,dvau+etau,2,single-split-control,dvau etau
+tairdattānapradāyaibhyoyobhuṅkte,taiḥ+dattān+apradāya+ebhyaḥ+yaḥ+bhuṅkte,6,multi-split,taiḥ dattān a pradāya ebhyaḥ yaḥ bhuṅkte
+upādhyāyamatamāhayadveti,upādhyāyamatam+āhayadvā+iti,3,multi-split,upādhyāya matam āha yat vā iti
+pratyayaśaktivivecanasyānakatrānekairvihitatayā,pratyayaśaktivivecanasya+anekatra+anekaiḥ+vihitatayā,4,multi-split,pratyaya śakti vivecanasya an akatra anekaiḥ vihita tayā
+iyantaeveti,iyantaḥ+eva+iti,3,multi-split,iyantaḥ eva iti
+bālakoyamatīva,bālakaḥ+ayam+atīva,3,multi-split,bāla koyam atīva
+ghaṭādiśca,ghaṭādiḥ+ca,2,single-split-control,ghaṭa ādiḥ ca
+tasmādāyustatorājā,tasmāt+āyuḥ+tataḥ+rājā,4,multi-split,tasmāt āyuḥ tatas rājā
+vikathāsaktānāmavimṛṣṭabhāṣaṇaparāṇāmiyamevāvasthā,vikathāsaktānām+avimṛṣṭabhāṣaṇaparāṇām+iyameva+avasthā,4,multi-split,vikathā āsaktānām avimṛṣṭa bhāṣaṇa parāṇām iyam eva avasthā
+sadyojātānāṃmukhaprasādādyanumitā,sadyojātānām+mukhaprasādādi+anumitā,3,multi-split,sadyojātānām mukha prasāda ādi anumitā
+sopyevaṃvidha,saḥ+api+evam+vidha,4,multi-split,saḥ upi evaṃvidha
+tadbalādrājapuruṣayoranvaya,tat+balāt+rājapuruṣayoḥ+anvaya,4,multi-split,tad balāt rāja puruṣayoḥ anvaya
+nāvyayībhāvādatomtvapañcamyāḥ,na+āvyayībhāvāt+ataḥ+am+tu+apañcamyāḥ,6,multi-split,na avyayībhāvāt atas m tva pañcamyāḥ
+tadabhāvādityataāhasaṃyogeti,tat+abhāvāt+iti+ataḥ+āhasaṃyoga+iti,6,multi-split,tad abhāvāt iti atas āha saṃyoga iti
+karmatvaṃgatyādervidhitocitā,karmatvam+gatyādeḥ+vidhita+ucitā,4,multi-split,karma tvam gati ādeḥ vidhi tā ucitā
+atauktamarūpīti,ataḥ+uktam+arūpīti,3,multi-split,atas uktam arūpi iti
+mateparituṣyannāhavastutaiti,mate+aparituṣyat+na+āhavastutaḥ+iti,5,multi-split,mate parituṣyan āha vastutas eti
+aikyāttatraivaikatvānvayaḥ,aikyāt+tatra+eva+ekatva+anvayaḥ,5,multi-split,aikyāt tatra eva eka tva anvayaḥ
+mayottaritammātulagṛhaṃprasthitosau,mayā+uttaritammātulagṛham+prasthitaḥ+asau,4,multi-split,mayā uttaritam mātula gṛham prasthitaḥ asau
+cettadapyastītyāha,cet+tat+api+asti+iti+āha,6,multi-split,ced tat api asti iti āha
+ityanupapattirityataāhaanaikāntiketi,iti+anupapattiḥ+iti+ataḥ+āhaanaikāntika+iti,6,multi-split,iti anupapattiḥ iti atas āha anaikāntika iti
+sākṣādbrāhmaṇakartavyatāniṣedhakatvamityataāhaarthāditi,sākṣāt+brāhmaṇakartavyatāniṣedhakatvam+iti+ataḥ+āhaarthāt+iti,6,multi-split,sākṣāt brāhmaṇa kartavya tā niṣedhaka tvam iti atas āha arthāt iti
+svarūpasatopratibandhakatvānnāsaṃbhavaityapi,svarūpasataḥ+apratibandhakatvāt+na+saṃbhavaḥ+iti+api,6,multi-split,svarūpa sataḥ pratibandhaka tvāt na asaṃbhavāḥ eti api
+sutajananadinādārabhyādhikataramānandādbhutaṃvardhate,sutajananadināt+ārabhya+adhikataram+ānandādbhutam+vardhate,5,multi-split,suta janana dināt ārabhya adhikataram ānanda adbhutam vardhate
+ghaṭādihetutāpattirityaparitoṣaṃsūcayatikeciditi,ghaṭādihetutāpattiḥ+iti+aparitoṣam+sūcayatikecit+iti,5,multi-split,ghaṭa ādi hetu tā āpattiḥ iti aparitoṣam sūcayati kecid iti
+satilānmāṣānmudgānapyāharedyavān,satilān+māṣān+mudgān+api+āharet+yavān,6,multi-split,sa tilān māṣān mudgān api āharet yavān
+jānātītyādāāharyasyāsārvatrikatvādāhavināpīti,jānāti+ityādau+āharyasya+asārvatrikatvāt+āhavināpi+iti,6,multi-split,jānāti ityādā āha ryasya asārvatrika tvāt āha vinā api iti
+sthūlacakrositoviṣṇurmadhye,sthūlacakraḥ+asitaḥ+viṣṇuḥ+madhye,4,multi-split,sthūla cakrā usitaḥ viṣṇuḥ madhye
+kimasmākamatithisatkāraṃkariṣyatyeṣa,kim+asmākam+atithisatkāram+kariṣyati+eṣaḥ,5,multi-split,kim asmākam atithi satkāram kariṣyati eṣa
+jātikālasukhādibhyonācchādanātktokṛtamitapratipannāḥ,jātikālasukhādibhyaḥ+anācchādanāt+ktaḥ+akṛtamitapratipannāḥ,4,multi-split,jāti kāla sukha ādibhyaḥ na ācchādanāt kta u kṛta mita pratipannāḥ
+vāstuṃkuśadadhyakṣatairjalaiḥ,vāstum+kuśadadhyakṣataiḥ+jalaiḥ,3,multi-split,vāstuṃkuśa dadhi akṣataiḥ jalaiḥ
+jāyatāmityetādṛśecchāyāstatrottejakatāyā,jāyatām+iti+etādṛśa+icchāyāḥ+tatra+uttejakatāyā,6,multi-split,jāyatām iti etādṛśā icchāyāḥ tatra uttejaka tāyā
+uttamaujāśca,uttama+ojāḥ+ca,3,multi-split,uttamaujāḥ ca
+sarvamapekṣitamācarati,sarvam+apekṣitam+ācarati,3,multi-split,sarvam apekṣitam ācarati
+leśamātramapyalīkam,leśamātram+api+alīkam,3,multi-split,leśa mātram api alīkam
+ubhāvalokyāpi,ubhau+avalokya+api,3,multi-split,ubhau alokya api
+cānītānyanenopāyanāni,ca+ānītāni+anena+upāyanāni,4,multi-split,ca ānītāni anena upāyanāni
+tatsiddhimanujānīhi,tatsiddhim+anujānīhi,2,single-split-control,tat siddhim anujānīhi
+manmanaścānandena,matmanaḥ+ca+ānandena,3,multi-split,mat manaḥ ca ānandena
+bahuśastarjayāñcakruḥ,bahuśaḥ+tarjayām+cakruḥ,3,multi-split,bahuśas tarjayāñcakruḥ
+sāhityepyadbhutosya,sāhitye+api+adbhutaḥ+asya,4,multi-split,sāhitye pi adbhutaḥ sya
+jānāmītyasyāsaṃsargāgraharūpatvenāpi,jānāmi+iti+asya+asaṃsargāgraharūpatvena+api,5,multi-split,jānāmi iti asya a saṃsarga agraha rūpa tvena api
+vahnivahnitvāpādinirvikalpakasyānaṅgīkāreṇānupapatyasaṃbhavāt,vahnivahnitvāpādinirvikalpakasya+anaṅgīkāreṇa+anupapatti+asaṃbhavāt,4,multi-split,
+śvaśurālayaṃgantumiyeṣa,śvaśurālayam+gantum+iyeṣa,3,multi-split,śvaśura ālayam gantum iyeṣa
+samayāsamayaparijñānam,samaya+asamayaparijñānam,2,single-split-control,samaya asamaya parijñānam
+proccairuvācaiyameva,proccaiḥ+uvācaiyam+eva,3,multi-split,proccais uvāca eyam eva
+duṣṭaliṅgamidaṃśambhoḥ,duṣṭaliṅgam+idam+śambhoḥ,3,multi-split,duṣṭa liṅgam idam śambhoḥ
+traikālyāsiddheriti,traikālyāsiddheḥ+iti,2,single-split-control,traikālya asiddheḥ iti
+dhūmaścetyākāraka,dhūmaḥ+ca+iti+ākāraka,4,multi-split,dhūmaḥ ca iti ākāraka
+yaduttamottamaṃvastu,yat+uttam+uttamam+vastu,4,multi-split,yat uttama uttamam vastu
+halaścaijupadhāt,halaḥ+ca+ijupadhāt,3,multi-split,ha laḥ ca e c upadhāt
+pramāṇaṃcānupalabdhikāraṇeṣvasatsu,pramāṇam+ca+anupalabdhikāraṇeṣu+asatsu,4,multi-split,pramāṇam ca anupalabdhi kāraṇeṣu asatsu
+syādevetyataāhayadyapīti,syāt+eva+iti+ataḥ+āhayadyapi+iti,6,multi-split,syāt eva iti atas āha yadi api iti
+vidyamānatvādityarthaḥ,vidyamānatvāt+ityarthaḥ,2,single-split-control,vidyamāna tvāt iti arthaḥ
+smārayannāhaanyatameti,smārayan+na+āhaanyatameti,3,multi-split,smārayan āha anyatama iti
+mattodhikāsyāpekṣā,mattaḥ+adhikā+asya+apekṣā,4,multi-split,mattaḥ adhikā asya apekṣā
+kāryyaṃyuṣmākamapi,kāryyam+yuṣmākam+api,3,multi-split,kāryyam yuṣmākam api
+atonopadarśitāneka,ataḥ+na+upadarśita+aneka,4,multi-split,atona upadarśita aneka
+ekaikākāṅkṣājñānāvyavahitottaraśābdabodhe,ekaika+ākāṅkṣājñāna+avyavahitottaraśābdabodhe,3,multi-split,
+payastajjāddadhi,payaḥ+tajjāt+dadhi,3,multi-split,payaḥ tad jāt dadhi
+dṛḍhataranibaddhamuṣṭistamājaghāna,dṛḍhataranibaddhamuṣṭiḥ+tam+ājaghāna,3,multi-split,dṛḍhatara nibaddha muṣṭiḥ tam ājaghāna
+yattatpradarśanamityanvayaḥ,yat+tat+pradarśanam+iti+anvayaḥ,5,multi-split,yat tat pradarśanam iti anvayaḥ
+ekācobaśobhaṣjhaṣantasyasdhvoḥ,ekācaḥ+baśaḥ+bhaṣ+jhaṣantasya+sdhvoḥ,5,multi-split,eka a c o ba śa ubha ṣ jha ṣ anta syas dhvoḥ
+svaṃpaśustatsamabhivyāhṛtayajaghaṭatvarthayāgasaṃsargitvaviśiṣṭapaśutvavatvarūpeṇa,svam+paśuḥ+tat+samabhivyāhṛtayajaghaṭatvarthayāgasaṃsargitvaviśiṣṭapaśutvavatvarūpeṇa,4,multi-split,svaṃpaśuḥ tad samabhivyāhṛta yaja ghaṭa tu artha yāga saṃsargi tva viśiṣṭa paśutvavat tva rūpeṇa
+tattannāmārthaprakārakānvayabuddhau,tattat+nāmārthaprakārakānvayabuddhau,2,single-split-control,tad tad nāma artha prakāraka anvaya buddhau
+yattvityatraitasya,yat+tu+ityatra+tasya,4,multi-split,yat tu iti atra etasya
+syādityarucerāha,syāt+iti+aruceḥ+āha,4,multi-split,syāt iti aruceḥ āha
+dhīrahaṅkāromanaścittañca,dhīḥ+ahaṅkāraḥ+manaḥ+cittam+ca,5,multi-split,dhīḥ ahaṅkāraḥ manaḥ cittam ca
+śābdavyāptijñānāpatterityasvarasādāhavastutaiti,śābdavyāptijñānāpatteḥ+iti+asvarasāt+āhavastutaḥ+iti,5,multi-split,śābdavyāpti jñāna āpatteḥ iti asvarasāt āha vastutas eti
+svaṃgacchatītyasyāpi,svam+gacchati+iti+asyāpi,4,multi-split,svaṃgacchati ityasya api
+ivābhavatkaṇṭhaścāsya,iva+abhavatkaṇṭhaḥ+ca+asya,4,multi-split,iva abhavat kaṇṭhaḥ ca asya
+prasādāddevānāmapi,prasādāt+devānām+api,3,multi-split,prasādāt devānām api
+sapādāṅgulamutsedhamaṅguṣṭhasya,sapādāṅgulam+utsedham+aṅguṣṭhasya,3,multi-split,sa pāda aṅgulam utsedham aṅguṣṭhasya
+mahānasavyāparoyadrātreraṣṭavādanānantaramapi,mahānasavyāparaḥ+yat+rātreḥ+aṣṭavādanān+antaram+api,6,multi-split,rātreḥ aṣṭa vādana anantaram api
+śataśaścauryādyaparādhepi,śataśaḥ+cauryādi+aparādhe+api,4,multi-split,śataśas caurya ādi aparādhe pi
+kartumasyābhyāsopakṣīṇa,kartum+asya+abhyāsaḥ+apakṣīṇa,4,multi-split,kartum asya abhyāsa upakṣīṇa
+yavanānāmākramaṇaissarvatassamāplutāsmākaṃbhāratāvani,yavanānām+ākramaṇaiḥ+sarvataḥ+samāplutā+asmākam+bhāratāvani,6,multi-split,yavanānām ākramaṇaiḥ sarvatas samāplutā asmākam bhārata avani
+capeṭikāmekāṃdattavatī,capeṭikām+ekām+dattavatī,3,multi-split,capeṭikām ekām dattavatī
+dakṣapārṣṇitribhirghātairbhūmiṣṭhānyāgamandiram,dakṣapārṣṇitribhiḥ+ghātaiḥ+bhūmiṣṭhān+yāgamandiram,4,multi-split,dakṣa pārṣṇi tribhiḥ ghātaiḥ bhūmiṣṭhān yāga mandiram
+ghaṭamityetāśānupūrvarajñānābhyāṃghaṭakarmakānayanarūpaviśiṣṭavākyārtha,ghaṭam+iti+etādṛśa+ānupūrvarajñānābhyām+ghaṭakarmaka+ānayanarūpaviśiṣṭavākyārtha,6,multi-split,ghaṭam iti eta āśā anupūrva ra jñānābhyām ghaṭa karmaka ānayana rūpa viśiṣṭa vākya artha
+syādevetyabhiprāyeṇa,syāt+eva+iti+abhiprāyeṇa,4,multi-split,syāt eva iti abhiprāyeṇa

@@ -9,3 +9,6 @@ print('forms with two or more divisions', len(amb), '| rows of them', d.compound
 print('exact duplicate rows', d.duplicated().sum())
 print('rows with characters outside IAST', d.compound.str.contains(r"[^a-zāīūṛṝḷḹṅñṭḍṇśṣṃḥ'’]").sum())
 print('reported in the article: 89,656')
+rest = d[~d.compound.isin(amb)].drop_duplicates()
+rest = rest[~rest.compound.str.contains(r"[^a-zāīūṛṝḷḹṅñṭḍṇśṣṃḥ'’]")]
+print('after removing two-division forms, duplicates and non-IAST rows:', len(rest), '| over the reported 89,656 by', len(rest) - 89656)

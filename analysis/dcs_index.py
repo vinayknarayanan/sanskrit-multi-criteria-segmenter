@@ -57,5 +57,5 @@ if __name__ == '__main__':
             LN.update(ln); AC.update(ac); AW.update(aw); FP.update(fp); N += n
             if i % 5000 == 0: print(i, len(files), flush=True)
     pickle.dump(dict(f2l=dict(F2L), lemname=LN, adj_cpd=AC, adj_word=AW, fpairs=FP, ntok=N, nfiles=len(files)),
-                open(P.CACHE + P.CACHE + 'dcs_index.pkl', 'wb'))
+                open(P.CACHE + 'dcs_index.pkl', 'wb'))
     print('files', len(files), 'tokens', N, 'lemma pairs cpd', len(AC), 'word', len(AW), 'needed forms found', len(F2L), '/', len(NEED))

@@ -1,0 +1,18 @@
+
+== agree (n=596)
+  byt5skt    Frontiers key 0.984   DCS key 0.983
+  fr_s13     Frontiers key 0.992   DCS key 0.991
+  dcs_s13    Frontiers key 0.994   DCS key 0.993
+  fr_s42     Frontiers key 0.989   DCS key 0.988
+  dcs_s42    Frontiers key 0.990   DCS key 0.989
+  seed 13: <fr> - ByT5-Sanskrit on Frontiers key +0.008 [-0.002, +0.019];  ByT5-Sanskrit - <fr> on DCS key -0.008 [-0.019, +0.002]
+  seed 42: <fr> - ByT5-Sanskrit on Frontiers key +0.005 [-0.006, +0.016];  ByT5-Sanskrit - <fr> on DCS key -0.005 [-0.016, +0.006]
+
+== disagree (n=596)
+  byt5skt    Frontiers key 0.616   DCS key 0.906
+  fr_s13     Frontiers key 0.887   DCS key 0.606
+  dcs_s13    Frontiers key 0.621   DCS key 0.899
+  fr_s42     Frontiers key 0.894   DCS key 0.607
+  dcs_s42    Frontiers key 0.622   DCS key 0.905
+  seed 13: <fr> - ByT5-Sanskrit on Frontiers key +0.272 [+0.248, +0.294];  ByT5-Sanskrit - <fr> on DCS key +0.300 [+0.279, +0.321]
+  seed 42: <fr> - ByT5-Sanskrit on Frontiers key +0.279 [+0.257, +0.299];  ByT5-Sanskrit - <fr> on DCS key +0.299 [+0.279, +0.319]

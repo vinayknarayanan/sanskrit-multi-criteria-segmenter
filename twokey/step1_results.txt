@@ -1,0 +1,25 @@
+     test               run    n  same  spelling  deeper  shallower  mixed  cuts_added  cuts_removed  fr_cuts
+Frontiers       byt5_tagged 3259 0.199     0.089   0.525      0.047  0.141        5927           656     8615
+Frontiers    byt5_tagged_s2 3259 0.201     0.102   0.519      0.048  0.129        5669           617     8787
+Frontiers         tagged_s7 3259 0.202     0.102   0.517      0.045  0.135        5622           634     8843
+Frontiers        tagged_s21 3259 0.212     0.092   0.510      0.047  0.139        5774           652     8831
+Frontiers        tagged_s99 3259 0.210     0.086   0.501      0.047  0.156        5695           715     8731
+      DCS     tagged_on_dcs 3000 0.128     0.125   0.646      0.002  0.100        5363           307     3896
+      DCS  tagged_s2_on_dcs 3000 0.141     0.116   0.629      0.003  0.111        5318           343     3950
+      DCS  tagged_s7_on_dcs 3000 0.137     0.120   0.626      0.002  0.114        5278           352     3999
+      DCS tagged_s21_on_dcs 3000 0.132     0.121   0.636      0.002  0.108        5313           335     3977
+      DCS tagged_s99_on_dcs 3000 0.131     0.117   0.646      0.003  0.104        5411           325     3830
+            same               spelling               deeper               shallower                mixed              
+            mean    min    max     mean    min    max   mean    min    max      mean    min    max   mean    min    max
+test                                                                                                                   
+DCS        0.134  0.128  0.141    0.120  0.116  0.125  0.637  0.626  0.646     0.003  0.002  0.003  0.107  0.100  0.114
+Frontiers  0.205  0.199  0.212    0.094  0.086  0.102  0.515  0.501  0.525     0.047  0.045  0.048  0.140  0.129  0.156
+           cuts_added  cuts_removed  fr_cuts
+test                                        
+DCS             26683          1662    19652
+Frontiers       28687          3274    43807
+tagged_on_dcs cuts <dcs> adds: 5363 correct vs DCS gold 0.932 | cuts <dcs> removes: 307 removal correct 0.883
+tagged_s2_on_dcs cuts <dcs> adds: 5318 correct vs DCS gold 0.936 | cuts <dcs> removes: 343 removal correct 0.875
+tagged_s7_on_dcs cuts <dcs> adds: 5278 correct vs DCS gold 0.933 | cuts <dcs> removes: 352 removal correct 0.835
+tagged_s21_on_dcs cuts <dcs> adds: 5313 correct vs DCS gold 0.935 | cuts <dcs> removes: 335 removal correct 0.833
+tagged_s99_on_dcs cuts <dcs> adds: 5411 correct vs DCS gold 0.931 | cuts <dcs> removes: 325 removal correct 0.831

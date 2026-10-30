@@ -1,0 +1,20 @@
+
+== agree (n=596)
+  vs Frontiers key:  <fr> 0.989   <dcs> 0.990
+  vs DCS key:        <fr> 0.988   <dcs> 0.989
+  tag gap on Frontiers key (<fr> - <dcs>): -0.001 [-0.009, +0.007]
+  tag gap on DCS key (<dcs> - <fr>):       +0.001 [-0.006, +0.009]
+  same cuts under both tags: 95.1%   identical text: 77.2%
+  where cuts differ: <dcs> only adds 3.7%, only removes 0.3%, both 0.7%
+
+== disagree (n=596)
+  vs Frontiers key:  <fr> 0.894   <dcs> 0.622
+  vs DCS key:        <fr> 0.607   <dcs> 0.905
+  tag gap on Frontiers key (<fr> - <dcs>): +0.273 [+0.250, +0.296]
+  tag gap on DCS key (<dcs> - <fr>):       +0.298 [+0.279, +0.318]
+  same cuts under both tags: 23.3%   identical text: 15.6%
+  where cuts differ: <dcs> only adds 67.1%, only removes 0.3%, both 8.1%
+
+== Pre-registered predictions (PLAN.txt)
+  P1 disagree gap >= 0.15 both directions: 0.273 and 0.298 -> PASS
+  P2 agree: same cuts >= 90% (95.1%) and gap < 0.05 (0.001) -> PASS

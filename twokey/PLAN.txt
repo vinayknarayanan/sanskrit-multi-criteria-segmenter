@@ -1,0 +1,29 @@
+Two-key test (written 29 Oct 2026, before training)
+==================================================
+Question: does the convention tag change only where the conventions differ (rules), or everywhere (dataset style)?
+
+Data
+  5,530 written forms occur in both Frontiers and DCS (exact surface; Frontiers forms with two divisions excluded).
+  On 4,934 the two datasets cut at the same positions (+-1 char): "agree". On 596 they cut differently: "disagree"
+  (DCS deeper in 512, Frontiers deeper in 33, other 51).
+  Test set: all 596 disagree forms + 596 agree forms matched by number of Frontiers pieces (random_state 0).
+  Every test form, and every training row whose target equals either gold of a test form, is removed from
+  training (1,464 rows; 173,726 remain). Same settings as the main tagged model: ByT5-small, 2 epochs, seed 13.
+
+Measures (form-agnostic boundary F1, unweighted mean over items)
+  For each group: <fr> and <dcs> outputs scored against the Frontiers gold and the DCS gold.
+  Tag effect on a group = F1(<dcs> vs DCS gold) - F1(<fr> vs DCS gold), and the mirror on the Frontiers gold.
+  Agree group: rate at which the two tags give different cut positions.
+
+Predictions (fixed now)
+  P1 Disagree: each tag scores higher against its own key; the gap is at least 0.15 F1 in both directions.
+  P2 Agree: the two tags give the same cuts on at least 90% of items, and the tag gap is below 0.05 F1.
+  If P1 and P2 hold: the tag mostly selects the splitting rule. If P1 holds but P2 fails: the tag also carries
+  dataset style, measured by the agree-group gap. If P1 fails: the main tag flip is not mainly a convention effect.
+One seed; no rerun because of the result.
+
+Overnight runs (added 29 Oct 2026, after the seed-13 result: P1 and P2 both passed)
+  shuffled_s13: control. Same training rows, but each row's tag drawn at random (50/50, numpy seed 0), so the tag
+    carries no information about the convention. Prediction P3: on both groups the tag gap is below 0.03 in both
+    directions (the tag no longer selects a convention).
+  twokey_s42: second seed of the two-key run (same data, seed 42). Prediction: P1 and P2 hold again.
